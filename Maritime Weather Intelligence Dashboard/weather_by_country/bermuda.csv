@@ -1,0 +1,7 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Devonshire,Bermuda,32.3,-64.75,26.71,Scattered clouds,3.28,✅ Safe,2025-08-23 17:07:40
+Saint George,Bermuda,32.3833,-64.6833,26.57,Broken clouds,3.33,✅ Safe,2025-08-23 17:07:42
+Sandys,Bermuda,32.3,-64.8667,26.68,Broken clouds,3.43,✅ Safe,2025-08-23 17:07:43
+Southampton,Bermuda,32.25,-64.85,26.65,Scattered clouds,3.44,✅ Safe,2025-08-23 17:07:45
+Hamilton,Bermuda,32.2945837,-64.7858887,26.7,Scattered clouds,3.32,✅ Safe,2025-08-23 17:07:46
+Freeport,Bermuda,32.3220181,-64.8373657,26.64,Broken clouds,3.38,✅ Safe,2025-08-23 17:07:48

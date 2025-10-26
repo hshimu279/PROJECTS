@@ -1,0 +1,90 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Acapulco,Mexico,16.85,-99.8667,26.24,Overcast clouds,3.22,✅ Safe,2025-08-23 17:35:13
+Acolman,Mexico,19.6167,-98.9167,15.11,Light rain,1.33,✅ Safe,2025-08-23 17:35:15
+Agua Prieta,Mexico,31.3,-109.5667,22.88,Clear sky,1.62,✅ Safe,2025-08-23 17:35:16
+Altamira,Mexico,22.4,-97.9167,24.59,Overcast clouds,1.93,✅ Safe,2025-08-23 17:35:18
+Amatitan,Mexico,20.8333,-103.7167,18.66,Light rain,0.35,✅ Safe,2025-08-23 17:35:20
+Arizpe,Mexico,30.3333,-110.1667,24.04,Clear sky,0.89,✅ Safe,2025-08-23 17:35:22
+Boca del Rio,Mexico,19.1167,-96.1167,24.2,Overcast clouds,2.13,✅ Safe,2025-08-23 17:35:23
+Cabo San Lucas,Mexico,22.8833,-109.8833,26.36,Clear sky,4.44,✅ Safe,2025-08-23 17:35:25
+Cadereyta Jimenez,Mexico,25.6,-100.0,22.93,Clear sky,1.84,✅ Safe,2025-08-23 17:35:27
+Camargo,Mexico,19.4064913,-99.1761432,16.17,Overcast clouds,0.33,✅ Safe,2025-08-23 17:35:29
+Cayo Arcas Terminal,Mexico,19.6833,-92.0833,28.99,Overcast clouds,7.37,⚠ Moderate,2025-08-23 17:35:30
+Cedros,Mexico,28.1167,-115.1667,21.09,Clear sky,1.99,✅ Safe,2025-08-23 17:35:32
+Cedros Island,Mexico,28.1667,-115.2167,20.6,Clear sky,1.95,✅ Safe,2025-08-23 17:35:34
+Chiltepec,Mexico,18.4167,-93.0833,25.27,Overcast clouds,3.41,✅ Safe,2025-08-23 17:35:35
+Ciudad del Carmen,Mexico,18.6333,-91.8333,26.24,Scattered clouds,5.85,⚠ Moderate,2025-08-23 17:35:37
+Ciudad Madero,Mexico,22.2667,-97.8333,25.14,Broken clouds,2.0,✅ Safe,2025-08-23 17:35:39
+Ciudad Rio Bravo,Mexico,25.9667,-98.0833,25.25,Broken clouds,1.53,✅ Safe,2025-08-23 17:35:40
+Ciudad Sahagun,Mexico,19.7667,-98.5667,12.78,Broken clouds,0.77,✅ Safe,2025-08-23 17:35:42
+Coatzacoalcos,Mexico,18.1333,-94.4,25.05,Overcast clouds,2.4,✅ Safe,2025-08-23 17:35:44
+Cotaxtla,Mexico,18.8333,-96.3833,22.84,Overcast clouds,1.29,✅ Safe,2025-08-23 17:35:45
+Cozumel,Mexico,20.5167,-86.9333,27.61,Scattered clouds,3.46,✅ Safe,2025-08-23 17:35:47
+Cuautla,Mexico,20.2,-104.4,16.03,Overcast clouds,1.02,✅ Safe,2025-08-23 17:35:49
+Dolores Hidalgo,Mexico,21.15,-100.9167,15.31,Overcast clouds,0.68,✅ Safe,2025-08-23 17:35:51
+Dos Bocas Terminal,Mexico,18.5,-93.1833,27.45,Overcast clouds,4.24,✅ Safe,2025-08-23 17:35:53
+Empalme,Mexico,27.9667,-110.8167,29.27,Clear sky,1.51,✅ Safe,2025-08-23 17:35:55
+Ensenada,Mexico,31.85,-116.6,21.03,Clear sky,0.83,✅ Safe,2025-08-23 17:35:56
+Frontera,Mexico,18.5333,-92.6333,24.78,Broken clouds,2.9,✅ Safe,2025-08-23 17:35:58
+General Teran,Mexico,25.2667,-99.6833,23.29,Scattered clouds,1.53,✅ Safe,2025-08-23 17:35:59
+Granjas,Mexico,21.1833,-101.75,13.65,Overcast clouds,1.85,✅ Safe,2025-08-23 17:36:01
+Guasave,Mexico,25.5667,-108.45,23.96,Broken clouds,1.18,✅ Safe,2025-08-23 17:36:03
+Guaymas,Mexico,27.9167,-110.8833,28.64,Clear sky,2.01,✅ Safe,2025-08-23 17:36:05
+Huatulco (Santa Maria Huatulco),Mexico,15.8333,-96.3167,22.56,Overcast clouds,2.23,✅ Safe,2025-08-23 17:36:06
+Hunucma,Mexico,20.9167,-89.8,25.17,Broken clouds,1.26,✅ Safe,2025-08-23 17:36:08
+Isla San Marcos,Mexico,27.2167,-112.1,30.0,Broken clouds,1.52,✅ Safe,2025-08-23 17:36:10
+Ixtapa/Zihuatanejo,Mexico,17.6667,-101.65,26.85,Overcast clouds,2.35,✅ Safe,2025-08-23 17:36:12
+Ixtapaluca,Mexico,19.2833,-98.55,11.69,Overcast clouds,0.91,✅ Safe,2025-08-23 17:36:13
+Juchitan de Zaragoza,Mexico,16.4333,-95.0167,24.89,Overcast clouds,2.73,✅ Safe,2025-08-23 17:36:15
+La Paz,Mexico,24.1333,-110.3,26.1,Clear sky,4.02,✅ Safe,2025-08-23 17:36:17
+La Troje,Mexico,21.7667,-102.5333,15.68,Overcast clouds,0.43,✅ Safe,2025-08-23 17:36:19
+Lazaro Cardenas,Mexico,17.95,-102.1833,25.77,Light rain,2.84,✅ Safe,2025-08-23 17:36:21
+Loreto,Mexico,26.0167,-112.6167,24.45,Clear sky,1.43,✅ Safe,2025-08-23 17:36:23
+Magdalena/Hostotipaquillo,Mexico,20.9167,-103.95,17.05,Light rain,0.2,✅ Safe,2025-08-23 17:36:24
+Manzanillo,Mexico,19.05,-104.3,25.36,Broken clouds,1.73,✅ Safe,2025-08-23 17:36:26
+Mazamitla,Mexico,19.9167,-103.0333,13.6,Overcast clouds,0.35,✅ Safe,2025-08-23 17:36:28
+Mazatlan,Mexico,23.4,-106.4,24.7,Scattered clouds,1.28,✅ Safe,2025-08-23 17:36:30
+Merida,Mexico,20.9667,-89.6167,25.22,Broken clouds,2.1,✅ Safe,2025-08-23 17:36:32
+Nautla,Mexico,20.2167,-96.7833,24.08,Light rain,3.05,✅ Safe,2025-08-23 17:36:34
+Obregon,Mexico,22.25,-101.2667,13.37,Scattered clouds,1.71,✅ Safe,2025-08-23 17:36:36
+Pichilingue,Mexico,24.3,-110.3167,26.84,Clear sky,4.86,✅ Safe,2025-08-23 17:36:38
+Playa del Carmen,Mexico,20.6167,-87.0667,26.24,Scattered clouds,1.98,✅ Safe,2025-08-23 17:36:39
+Progreso,Mexico,21.2667,-89.65,25.12,Broken clouds,2.79,✅ Safe,2025-08-23 17:36:41
+Puerta,Mexico,23.3667,-106.3333,24.39,Broken clouds,1.09,✅ Safe,2025-08-23 17:36:42
+Puerto Angel,Mexico,15.6667,-96.4833,24.38,Overcast clouds,1.62,✅ Safe,2025-08-23 17:36:44
+Puerto Madero,Mexico,14.7167,-92.4167,25.86,Light rain,2.73,✅ Safe,2025-08-23 17:36:46
+Puerto Morelos,Mexico,20.8333,-86.8667,26.84,Scattered clouds,2.77,✅ Safe,2025-08-23 17:36:48
+Puerto Vallarta,Mexico,20.6,-105.2167,24.26,Light rain,1.33,✅ Safe,2025-08-23 17:36:50
+Punta Baja,Mexico,29.9667,-115.8167,19.96,Clear sky,3.57,✅ Safe,2025-08-23 17:36:52
+Punta Venado,Mexico,20.5333,-87.15,26.68,Scattered clouds,2.29,✅ Safe,2025-08-23 17:36:53
+Rabon Grande/Coatzacoalcos,Mexico,18.2167,-94.4,26.64,Overcast clouds,2.12,✅ Safe,2025-08-23 17:36:55
+Rosarito Terminal,Mexico,32.3333,-117.1,20.34,Clear sky,1.23,✅ Safe,2025-08-23 17:36:57
+Salina Cruz,Mexico,16.1667,-95.1833,25.48,Overcast clouds,2.52,✅ Safe,2025-08-23 17:36:59
+San Miguel Xoxtla,Mexico,19.1833,-98.3,14.32,Overcast clouds,0.32,✅ Safe,2025-08-23 17:37:01
+Santa Ana,Mexico,19.6339209,-99.9383091,11.41,Overcast clouds,0.23,✅ Safe,2025-08-23 17:37:03
+Santa Cruz Tepexpan,Mexico,19.5667,-99.7,12.85,Overcast clouds,0.82,✅ Safe,2025-08-23 17:37:04
+Santa Teresa,Mexico,22.4667,-104.7333,13.78,Light rain,1.48,✅ Safe,2025-08-23 17:37:06
+Seybaplaya,Mexico,19.65,-90.7,24.85,Overcast clouds,4.05,✅ Safe,2025-08-23 17:37:07
+Tamaulipas,Mexico,24.9,-107.5833,23.16,Overcast clouds,1.37,✅ Safe,2025-08-23 17:37:09
+Tampico,Mexico,22.25,-97.8667,24.84,Broken clouds,1.78,✅ Safe,2025-08-23 17:37:10
+Telixtlahuaca,Mexico,17.3,-96.9,15.1,Overcast clouds,0.69,✅ Safe,2025-08-23 17:37:12
+Tenabo,Mexico,20.05,-90.2333,23.34,Broken clouds,1.09,✅ Safe,2025-08-23 17:37:14
+Tepetlixpac,Mexico,19.0333,-98.8167,13.55,Overcast clouds,0.38,✅ Safe,2025-08-23 17:37:15
+Tijuana,Mexico,32.5333,-117.0167,21.17,Clear sky,1.04,✅ Safe,2025-08-23 17:37:17
+Tlalpan,Mexico,19.2833,-99.1667,15.23,Overcast clouds,0.45,✅ Safe,2025-08-23 17:37:19
+Topolobampo,Mexico,25.6,-109.05,25.81,Broken clouds,2.11,✅ Safe,2025-08-23 17:37:20
+Tuxpan,Mexico,20.95,-97.4,24.33,Moderate rain,1.48,✅ Safe,2025-08-23 17:37:22
+Veracruz,Mexico,19.2,-96.0833,25.44,Overcast clouds,2.48,✅ Safe,2025-08-23 17:37:24
+Villa Nicolas Romero,Mexico,19.6333,-99.3,14.49,Light rain,0.75,✅ Safe,2025-08-23 17:37:26
+Xalostoc,Mexico,19.5167,-99.0833,15.08,Light rain,0.51,✅ Safe,2025-08-23 17:37:27
+Xochimancas,Mexico,18.7833,-99.1,21.24,Overcast clouds,0.48,✅ Safe,2025-08-23 17:37:29
+Zakapu,Mexico,19.8,-101.8,14.53,Overcast clouds,0.32,✅ Safe,2025-08-23 17:37:31
+Zaragoza,Mexico,19.7667,-97.5333,12.41,Overcast clouds,1.4,✅ Safe,2025-08-23 17:37:33
+Zihuatanejo,Mexico,17.6333,-101.55,25.71,Overcast clouds,1.93,✅ Safe,2025-08-23 17:37:35
+Pajaritos,Mexico,18.117,-94.383,25.05,Overcast clouds,2.45,✅ Safe,2025-08-23 17:37:37
+Puerto Libertad,Mexico,29.9,-112.667,30.82,Clear sky,5.52,⚠ Moderate,2025-08-23 17:37:38
+San Lorenzo,Mexico,20.148333,-101.634722,16.16,Overcast clouds,1.18,✅ Safe,2025-08-23 17:37:40
+Santa Rosalia,Mexico,18.4727799,-95.58417,23.36,Overcast clouds,0.79,✅ Safe,2025-08-23 17:37:42
+Takuntah,Mexico,19.75,-91.7,28.63,Broken clouds,7.84,⚠ Moderate,2025-08-23 17:37:44
+Tlajomulco de Zuniga,Mexico,20.4736865,-103.4479314,15.45,Light rain,0.84,✅ Safe,2025-08-23 17:37:45
+Tiaxcala,Mexico,19.383,-98.25,12.03,Overcast clouds,0.57,✅ Safe,2025-08-23 17:37:47

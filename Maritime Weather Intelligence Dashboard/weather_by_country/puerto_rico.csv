@@ -1,0 +1,10 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Arroyo,Puerto Rico,17.9667,-66.0667,26.97,Light rain,2.47,✅ Safe,2025-08-23 17:38:56
+Guanica,Puerto Rico,17.9667,-66.9167,26.96,Broken clouds,2.24,✅ Safe,2025-08-23 17:38:58
+Guayanilla,Puerto Rico,17.9667,-66.8167,27.0,Overcast clouds,2.04,✅ Safe,2025-08-23 17:39:00
+Puerto de Jobos,Puerto Rico,17.95,-66.1833,27.22,Light rain,2.84,✅ Safe,2025-08-23 17:39:01
+Puerto Yabucoa,Puerto Rico,18.05,-65.8333,27.18,Light rain,2.77,✅ Safe,2025-08-23 17:39:03
+Salinas,Puerto Rico,17.9667,-66.25,26.93,Light rain,2.35,✅ Safe,2025-08-23 17:39:05
+San Juan,Puerto Rico,18.45,-66.0833,27.15,Moderate rain,2.1,✅ Safe,2025-08-23 17:39:06
+San Sebastian,Puerto Rico,18.3,-66.9667,26.08,Broken clouds,1.7,✅ Safe,2025-08-23 17:39:08
+San Juan,Puerto Rico,18.4663338,-66.1057217,27.13,Moderate rain,2.27,✅ Safe,2025-08-23 17:39:09

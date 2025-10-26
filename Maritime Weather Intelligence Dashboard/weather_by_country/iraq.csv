@@ -1,0 +1,11 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Al Hillah,Iraq,32.4833,44.4333,44.67,Clear sky,8.9,⚠ Moderate,2025-08-23 16:39:04
+Al Taqaddum,Iraq,33.3333,43.5833,42.73,Clear sky,7.06,⚠ Moderate,2025-08-23 16:39:05
+Baghdad,Iraq,33.3333,44.3833,44.33,Clear sky,8.09,⚠ Moderate,2025-08-23 16:39:06
+Mosul (Ak Mawsil),Iraq,36.3489278,43.157736,41.86,Clear sky,1.01,✅ Safe,2025-08-23 16:39:08
+Najaf,Iraq,31.9833,44.3,44.07,Clear sky,8.78,⚠ Moderate,2025-08-23 16:39:09
+Nasiriyah,Iraq,31.05,46.25,46.16,Clear sky,6.66,⚠ Moderate,2025-08-23 16:39:10
+Samarra',Iraq,34.2,43.8667,44.14,Clear sky,6.72,⚠ Moderate,2025-08-23 16:39:12
+Taji,Iraq,33.5167,44.2667,44.55,Clear sky,8.1,⚠ Moderate,2025-08-23 16:39:13
+Umm Qasr Port,Iraq,30.0333,47.9333,45.94,Clear sky,4.27,✅ Safe,2025-08-23 16:39:14
+Zakho,Iraq,37.1333,42.7,40.95,Clear sky,4.08,✅ Safe,2025-08-23 16:39:16

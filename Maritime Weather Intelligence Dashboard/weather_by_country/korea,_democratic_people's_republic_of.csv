@@ -1,0 +1,6 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Riwon,"Korea, Democratic People's Republic of",40.3167,128.6333,24.92,Clear sky,0.98,✅ Safe,2025-08-23 16:45:28
+Sinpo,"Korea, Democratic People's Republic of",40.0667,128.2667,23.45,Clear sky,1.35,✅ Safe,2025-08-23 16:45:30
+Songnim,"Korea, Democratic People's Republic of",38.7667,125.5833,27.01,Scattered clouds,0.06,✅ Safe,2025-08-23 16:45:31
+Tanchon,"Korea, Democratic People's Republic of",40.4167,128.9333,24.02,Clear sky,0.82,✅ Safe,2025-08-23 16:45:32
+Gensan,"Korea, Democratic People's Republic of",39.1538529,127.4460001,26.8,Clear sky,1.45,✅ Safe,2025-08-23 16:45:34

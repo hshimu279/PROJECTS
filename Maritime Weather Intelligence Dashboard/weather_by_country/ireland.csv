@@ -1,0 +1,183 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Ardmore,Ireland,51.95,-7.7167,20.24,Broken clouds,3.94,✅ Safe,2025-08-23 21:37:20
+Balbriggan,Ireland,53.6167,-6.1833,20.56,Overcast clouds,2.54,✅ Safe,2025-08-23 21:37:21
+Ballina,Ireland,54.1167,-9.1667,19.55,Overcast clouds,1.67,✅ Safe,2025-08-23 21:37:23
+Ballina,Ireland,52.8,-8.4333,21.19,Overcast clouds,3.07,✅ Safe,2025-08-23 21:37:24
+Bangor,Ireland,54.1333,-9.7333,20.98,Overcast clouds,3.16,✅ Safe,2025-08-23 21:37:26
+Bantry,Ireland,51.6833,-9.45,19.07,Overcast clouds,3.46,✅ Safe,2025-08-23 21:37:28
+Blanchardstown,Ireland,53.3833,-6.3667,20.79,Overcast clouds,1.41,✅ Safe,2025-08-23 21:37:30
+Burtonport,Ireland,54.9833,-8.4333,17.61,Overcast clouds,2.32,✅ Safe,2025-08-23 21:37:37
+Cahirciveen,Ireland,51.95,-10.2167,18.01,Overcast clouds,6.09,⚠ Moderate,2025-08-23 21:37:43
+Carrick-on-Suir,Ireland,52.3333,-7.4,20.02,Broken clouds,3.83,✅ Safe,2025-08-23 21:37:48
+Castlefinn,Ireland,54.8,-7.6,18.54,Light rain,1.57,✅ Safe,2025-08-23 21:37:53
+Castletown Bearhaven,Ireland,51.65,-9.9167,17.79,Overcast clouds,4.03,✅ Safe,2025-08-23 21:37:54
+Clarecastle,Ireland,52.8167,-8.95,22.09,Overcast clouds,2.46,✅ Safe,2025-08-23 21:37:58
+Clogherhead,Ireland,53.7833,-6.2333,20.27,Light rain,2.06,✅ Safe,2025-08-23 21:38:01
+Coolock,Ireland,53.3833,-6.1833,20.57,Overcast clouds,1.16,✅ Safe,2025-08-23 21:38:06
+Drogheda Maxol Facility,Ireland,53.7167,-6.3333,20.51,Light rain,0.65,✅ Safe,2025-08-23 21:38:15
+Drogheda Premiere Periclase,Ireland,53.7210961,-6.3212355,20.51,Light rain,0.65,✅ Safe,2025-08-23 21:38:18
+Dublin-Dublin Ferryport Terminals,Ireland,53.3167,-6.2333,20.93,Overcast clouds,0.32,✅ Safe,2025-08-23 21:38:20
+Dublin-Ferryport Terminal 1,Ireland,53.3167,-6.1833,20.08,Overcast clouds,0.66,✅ Safe,2025-08-23 21:38:21
+Dublin-Ferryport Terminal 2,Ireland,53.3167,-6.2,20.08,Overcast clouds,0.66,✅ Safe,2025-08-23 21:38:22
+Dublin-Ferryport Terminal 3,Ireland,53.3167,-6.2333,20.93,Overcast clouds,0.32,✅ Safe,2025-08-23 21:38:23
+Dublin-Marine Terminal,Ireland,53.3333,-6.2333,20.92,Overcast clouds,0.31,✅ Safe,2025-08-23 21:38:25
+Dun Laoghaire,Ireland,53.3,-6.1333,19.59,Broken clouds,1.43,✅ Safe,2025-08-23 21:38:27
+Duncannon/Saint Helens,Ireland,52.2167,-6.9833,20.42,Broken clouds,3.73,✅ Safe,2025-08-23 21:38:29
+Dunfanaghy,Ireland,55.1833,-7.9667,17.88,Overcast clouds,2.45,✅ Safe,2025-08-23 21:38:30
+Dungarvan,Ireland,52.5833,-7.0833,20.66,Overcast clouds,3.36,✅ Safe,2025-08-23 21:38:31
+Easkey/Rathlee,Ireland,54.2833,-8.9667,19.17,Overcast clouds,2.34,✅ Safe,2025-08-23 21:38:33
+Ennistymon,Ireland,52.9333,-9.2833,19.34,Overcast clouds,3.81,✅ Safe,2025-08-23 21:38:35
+ESB Poolbeg-Dublin,Ireland,53.3333,-6.1833,20.84,Overcast clouds,0.81,✅ Safe,2025-08-23 21:38:36
+Fenit,Ireland,52.2667,-9.8667,19.4,Overcast clouds,1.21,✅ Safe,2025-08-23 21:38:38
+Fethard/Slade,Ireland,52.2,-6.8333,20.63,Broken clouds,3.47,✅ Safe,2025-08-23 21:38:39
+Fintona,Ireland,54.5,-7.3167,18.49,Light rain,1.32,✅ Safe,2025-08-23 21:38:41
+Flogas Products Drogheda,Ireland,53.7167,-6.35,20.51,Light rain,0.65,✅ Safe,2025-08-23 21:38:43
+Ford's Wharf (Topaz Energy Terminal),Ireland,51.8833,-8.4333,20.76,Overcast clouds,4.36,✅ Safe,2025-08-23 21:38:44
+Glengarriff,Ireland,51.75,-9.55,19.19,Overcast clouds,3.22,✅ Safe,2025-08-23 21:38:46
+Gortahork,Ireland,55.1167,-8.1333,17.78,Overcast clouds,2.72,✅ Safe,2025-08-23 21:38:48
+Greencastle,Ireland,55.2,-6.9833,18.34,Overcast clouds,2.18,✅ Safe,2025-08-23 21:38:50
+Kildorrery,Ireland,52.2333,-8.4167,21.19,Overcast clouds,4.7,✅ Safe,2025-08-23 21:38:52
+Magheraroarty,Ireland,55.1333,-8.1667,17.47,Overcast clouds,3.07,✅ Safe,2025-08-23 21:38:53
+Marshmeadows/New Ross,Ireland,52.3833,-6.95,20.81,Broken clouds,3.41,✅ Safe,2025-08-23 21:38:55
+Moville,Ireland,55.1833,-7.0333,18.88,Overcast clouds,2.22,✅ Safe,2025-08-23 21:38:57
+New Ross,Ireland,52.3833,-6.9333,20.55,Overcast clouds,3.38,✅ Safe,2025-08-23 21:38:59
+New Ross-Raheen/Roberscon,Ireland,52.3833,-6.95,20.81,Broken clouds,3.41,✅ Safe,2025-08-23 21:39:00
+Newport,Ireland,53.8833,-9.5333,20.54,Overcast clouds,0.73,✅ Safe,2025-08-23 21:39:03
+Newtonabbey,Ireland,54.65,-5.9333,20.12,Overcast clouds,2.94,✅ Safe,2025-08-23 21:39:05
+Passage West,Ireland,51.8667,-8.35,19.75,Overcast clouds,4.31,✅ Safe,2025-08-23 21:39:08
+Ramelton,Ireland,55.0333,-7.6333,18.52,Light rain,1.27,✅ Safe,2025-08-23 21:39:10
+Rathmullan,Ireland,55.1,-7.5333,18.66,Overcast clouds,1.19,✅ Safe,2025-08-23 21:39:12
+Ringaskiddy,Ireland,51.8333,-8.3167,19.58,Overcast clouds,4.21,✅ Safe,2025-08-23 21:39:14
+Ringaskiddy Deepwater Terminal,Ireland,51.8333,-8.3167,19.58,Overcast clouds,4.21,✅ Safe,2025-08-23 21:39:16
+Ringaskiddy Passenger Terminal,Ireland,51.8333,-8.3167,19.58,Overcast clouds,4.21,✅ Safe,2025-08-23 21:39:18
+Rossaveel,Ireland,53.2667,-9.55,18.85,Broken clouds,2.14,✅ Safe,2025-08-23 21:39:19
+Rushbrooke,Ireland,51.85,-8.3167,20.04,Overcast clouds,4.3,✅ Safe,2025-08-23 21:39:21
+Shannon,Ireland,52.7,-8.85,22.23,Overcast clouds,4.29,✅ Safe,2025-08-23 21:39:23
+Skull,Ireland,51.5167,-9.5333,17.46,Overcast clouds,3.7,✅ Safe,2025-08-23 21:39:24
+Stokestown/New Ross,Ireland,52.35,-6.9833,20.83,Broken clouds,3.64,✅ Safe,2025-08-23 21:39:26
+Tober,Ireland,53.3667,-7.65,20.21,Overcast clouds,1.57,✅ Safe,2025-08-23 21:39:28
+Tom Roes Point Terminal/Drogheda,Ireland,53.7167,-6.3,20.52,Overcast clouds,0.95,✅ Safe,2025-08-23 21:39:30
+Town Quays/Drogheda,Ireland,53.717856,-6.3560985,20.51,Light rain,0.65,✅ Safe,2025-08-23 21:39:32
+Waterford,Ireland,52.25,-7.1,20.78,Broken clouds,4.06,✅ Safe,2025-08-23 21:39:33
+Waterford City Quays,Ireland,52.25,-7.1,20.78,Broken clouds,4.06,✅ Safe,2025-08-23 21:39:35
+Waterford Great Island (ESB),Ireland,52.2667,-6.9833,20.23,Broken clouds,3.82,✅ Safe,2025-08-23 21:39:37
+Achill,Ireland,53.95,-9.88333,18.84,Broken clouds,3.98,✅ Safe,2025-08-23 21:39:38
+Aughris,Ireland,54.26667,-8.76667,18.37,Overcast clouds,3.27,✅ Safe,2025-08-23 21:39:40
+Alexandra Quay,Ireland,53.343872,-6.2253059,20.89,Overcast clouds,0.37,✅ Safe,2025-08-23 21:39:42
+Ardgroom,Ireland,51.75,-9.88333,19.04,Overcast clouds,3.92,✅ Safe,2025-08-23 21:39:44
+Aran Islands,Ireland,53.08333,-9.56667,17.43,Overcast clouds,2.84,✅ Safe,2025-08-23 21:39:46
+Arranmore,Ireland,55.0,-8.48333,16.81,Overcast clouds,3.05,✅ Safe,2025-08-23 21:39:48
+Annacotty,Ireland,52.4,-8.3,20.06,Overcast clouds,4.27,✅ Safe,2025-08-23 21:39:50
+Barna,Ireland,53.25,-9.15,18.11,Broken clouds,0.98,✅ Safe,2025-08-23 21:39:52
+Bannow,Ireland,52.21667,-6.78333,19.65,Broken clouds,3.56,✅ Safe,2025-08-23 21:39:55
+Ballycastle,Ireland,54.28333,-9.36667,19.74,Overcast clouds,1.12,✅ Safe,2025-08-23 21:39:57
+Ballyconiger,Ireland,52.43333,-6.31667,19.0,Overcast clouds,4.19,✅ Safe,2025-08-23 21:39:59
+Ballycrovane,Ireland,51.71667,-9.95,17.95,Overcast clouds,4.4,✅ Safe,2025-08-23 21:40:01
+Ballyconneely,Ireland,53.43333,-10.08333,18.22,Broken clouds,3.62,✅ Safe,2025-08-23 21:40:03
+Ballyduff,Ireland,52.45,-9.66667,18.59,Overcast clouds,1.4,✅ Safe,2025-08-23 21:40:05
+Rosbeg/Portnoo,Ireland,54.83333,-8.46667,17.39,Overcast clouds,1.46,✅ Safe,2025-08-23 21:40:07
+Belmullet/Blacksod,Ireland,54.23333,-10.0,17.77,Broken clouds,6.07,⚠ Moderate,2025-08-23 21:40:08
+Bonagee/Culdaff,Ireland,55.3,-7.15,17.92,Overcast clouds,0.92,✅ Safe,2025-08-23 21:40:10
+Ballyglass,Ireland,54.23333,-9.31667,19.38,Overcast clouds,1.28,✅ Safe,2025-08-23 21:40:12
+Ballynacargy,Ireland,53.567,-7.533,19.94,Overcast clouds,0.79,✅ Safe,2025-08-23 21:40:13
+Ballyheigue,Ireland,52.38333,-9.83333,18.42,Overcast clouds,0.69,✅ Safe,2025-08-23 21:40:16
+Ballyhack,Ireland,52.25,-6.96667,,No Data,,❓ Unknown,2025-08-23 21:40:27
+Ballylongford,Ireland,52.55,-9.48333,18.84,Overcast clouds,2.34,✅ Safe,2025-08-23 21:40:34
+Ballymacaw,Ireland,51.68333,-8.51667,,No Data,,❓ Unknown,2025-08-23 21:40:46
+Inishbofin,Ireland,53.61667,-10.2,17.0,Broken clouds,4.96,✅ Safe,2025-08-23 21:40:50
+Bantry Harbour,Ireland,51.683,-9.45,19.07,Overcast clouds,3.46,✅ Safe,2025-08-23 21:40:52
+Baltimore,Ireland,51.4843274,-9.3661093,18.14,Overcast clouds,3.76,✅ Safe,2025-08-23 21:40:53
+Bundoran,Ireland,54.48333,-8.28333,17.64,Overcast clouds,0.86,✅ Safe,2025-08-23 21:40:55
+Cahore Point,Ireland,52.56667,-6.2,18.69,Overcast clouds,4.29,✅ Safe,2025-08-23 21:40:59
+Carraroe,Ireland,53.26667,-9.61667,,No Data,,❓ Unknown,2025-08-23 21:41:19
+Carne,Ireland,52.2,-6.35,,No Data,,❓ Unknown,2025-08-23 21:41:38
+Clarinbridge,Ireland,53.23333,-8.88333,,No Data,,❓ Unknown,2025-08-23 21:41:53
+Cleggan/Clifden,Ireland,53.55,-10.11667,,No Data,,❓ Unknown,2025-08-23 21:42:05
+Castlegregory,Ireland,52.26667,-10.01667,18.64,Overcast clouds,1.77,✅ Safe,2025-08-23 21:42:14
+Crosshaven,Ireland,51.8,-8.3,20.08,Overcast clouds,4.11,✅ Safe,2025-08-23 21:42:19
+Cill Chiarain,Ireland,53.33333,-9.83333,18.0,Broken clouds,2.48,✅ Safe,2025-08-23 21:42:29
+Clare Island,Ireland,53.8,-10.05,16.65,Broken clouds,5.73,⚠ Moderate,2025-08-23 21:42:30
+Cleandra,Ireland,51.75,-9.93333,18.84,Overcast clouds,4.12,✅ Safe,2025-08-23 21:42:32
+Courtmacsherry,Ireland,51.63333,-8.71667,19.78,Overcast clouds,3.63,✅ Safe,2025-08-23 21:42:33
+Carna,Ireland,53.31667,-9.83333,17.24,Broken clouds,2.53,✅ Safe,2025-08-23 21:42:34
+Carns,Ireland,54.25,-8.43333,18.4,Overcast clouds,1.55,✅ Safe,2025-08-23 21:42:36
+Courtown,Ireland,52.63333,-6.21667,20.87,Overcast clouds,4.01,✅ Safe,2025-08-23 21:42:38
+Carrigaholt,Ireland,52.6,-9.7,17.94,Overcast clouds,1.57,✅ Safe,2025-08-23 21:42:39
+Cromane,Ireland,52.11667,-9.93333,19.75,Overcast clouds,3.49,✅ Safe,2025-08-23 21:42:41
+Castletownbere,Ireland,51.65,-9.91667,17.79,Overcast clouds,4.03,✅ Safe,2025-08-23 21:42:43
+Castletownsend,Ireland,51.53333,-9.16667,19.04,Overcast clouds,3.5,✅ Safe,2025-08-23 21:42:44
+Dunbrattin,Ireland,52.13333,-7.3,20.49,Broken clouds,3.66,✅ Safe,2025-08-23 21:42:46
+Dungarvan,Ireland,52.08333,-7.63333,20.49,Broken clouds,4.15,✅ Safe,2025-08-23 21:42:48
+Dunkineely,Ireland,54.61667,-8.36667,17.35,Overcast clouds,0.89,✅ Safe,2025-08-23 21:42:50
+Dunmanus Bay,Ireland,51.51667,-9.75,17.52,Overcast clouds,3.79,✅ Safe,2025-08-23 21:42:52
+Dromore West,Ireland,54.25,-8.9,18.79,Overcast clouds,2.57,✅ Safe,2025-08-23 21:42:54
+Derrynane/Caherdaniel,Ireland,51.76667,-10.13333,17.36,Overcast clouds,5.43,⚠ Moderate,2025-08-23 21:42:55
+Dublin,Ireland,53.3498053,-6.2603097,20.8,Overcast clouds,0.37,✅ Safe,2025-08-23 21:42:57
+Downings,Ireland,55.18333,-7.85,17.28,Overcast clouds,1.32,✅ Safe,2025-08-23 21:42:59
+East Ferry,Ireland,51.86667,-8.2,19.6,Overcast clouds,4.23,✅ Safe,2025-08-23 21:43:01
+Enniscrone,Ireland,54.21667,-9.1,19.42,Overcast clouds,1.51,✅ Safe,2025-08-23 21:43:02
+Fanad,Ireland,55.28333,-7.65,16.59,Light rain,1.79,✅ Safe,2025-08-23 21:43:04
+Fenit Harbour,Ireland,52.2833333,-9.85,19.23,Overcast clouds,0.93,✅ Safe,2025-08-23 21:43:05
+Garnish/Travara,Ireland,51.68333,-10.0,17.8,Overcast clouds,4.57,✅ Safe,2025-08-23 21:43:07
+Glengad,Ireland,55.31667,-7.18333,17.82,Overcast clouds,0.93,✅ Safe,2025-08-23 21:43:09
+Glengarriff,Ireland,51.75,-9.55,19.19,Overcast clouds,3.22,✅ Safe,2025-08-23 21:43:11
+Gyles/Rathcor,Ireland,53.98333,-6.2,19.85,Overcast clouds,3.01,✅ Safe,2025-08-23 21:43:13
+Goleen/Crookhaven,Ireland,51.46667,-9.73333,17.44,Overcast clouds,3.96,✅ Safe,2025-08-23 21:43:14
+Gowran,Ireland,52.6290523,-7.0665112,20.73,Overcast clouds,3.38,✅ Safe,2025-08-23 21:43:16
+Galway,Ireland,53.2666,-9.05,19.26,Overcast clouds,0.86,✅ Safe,2025-08-23 21:43:18
+Rathcor/Gyles Quay,Ireland,53.98333,-6.25,20.12,Overcast clouds,2.49,✅ Safe,2025-08-23 21:43:19
+Helvick,Ireland,52.05,-7.55,18.57,Broken clouds,3.68,✅ Safe,2025-08-23 21:43:21
+Inishowen,Ireland,55.2,-7.3333333,17.19,Overcast clouds,1.45,✅ Safe,2025-08-23 21:43:23
+Inverin,Ireland,54.28333,-9.21667,19.15,Overcast clouds,1.58,✅ Safe,2025-08-23 21:43:25
+Inver/St Johns Point,Ireland,54.65,-8.28333,18.06,Overcast clouds,0.56,✅ Safe,2025-08-23 21:43:27
+Inishturk,Ireland,53.71667,-10.08333,16.72,Broken clouds,5.65,⚠ Moderate,2025-08-23 21:43:28
+Kilbaha,Ireland,52.56667,-9.86667,17.75,Overcast clouds,1.4,✅ Safe,2025-08-23 21:43:30
+Kincasslagh,Ireland,55.03333,-8.4,17.67,Overcast clouds,2.54,✅ Safe,2025-08-23 21:43:32
+Kilcummin,Ireland,52.23333,-10.11667,19.02,Overcast clouds,3.0,✅ Safe,2025-08-23 21:43:34
+Knockadoon,Ireland,51.86667,-7.95,19.45,Overcast clouds,3.88,✅ Safe,2025-08-23 21:43:35
+Kilkee,Ireland,52.68333,-9.65,17.67,Overcast clouds,1.88,✅ Safe,2025-08-23 21:43:37
+Kilmacalogue,Ireland,51.78333,-9.8,19.53,Overcast clouds,3.63,✅ Safe,2025-08-23 21:43:38
+Killary,Ireland,53.61667,-9.83333,19.31,Overcast clouds,3.41,✅ Safe,2025-08-23 21:43:40
+Lacken,Ireland,52.15,-7.81667,20.73,Broken clouds,4.67,✅ Safe,2025-08-23 21:43:41
+Louisburgh,Ireland,53.76667,-9.81667,18.63,Overcast clouds,4.17,✅ Safe,2025-08-23 21:43:43
+Lettermore/Lettermullen,Ireland,53.23333,-9.71667,16.66,Broken clouds,2.43,✅ Safe,2025-08-23 21:43:45
+Loughshinny,Ireland,53.55,-6.08333,17.14,Broken clouds,4.67,✅ Safe,2025-08-23 21:43:47
+Lehanbeag,Ireland,51.6,-10.03333,17.35,Overcast clouds,4.7,✅ Safe,2025-08-23 21:43:48
+Liscannor,Ireland,52.93333,-9.38333,18.74,Overcast clouds,3.96,✅ Safe,2025-08-23 21:43:50
+Limerick,Ireland,52.6666,-8.6166,22.16,Overcast clouds,4.55,✅ Safe,2025-08-23 21:43:52
+Malinbeg,Ireland,54.66667,-8.78333,17.55,Overcast clouds,3.25,✅ Safe,2025-08-23 21:43:54
+Mountcharles,Ireland,54.65,-8.2,17.51,Overcast clouds,0.53,✅ Safe,2025-08-23 21:43:55
+Malin Head,Ireland,55.38333,-7.38333,16.88,Overcast clouds,1.36,✅ Safe,2025-08-23 21:43:57
+Mullaghmore/Carns,Ireland,54.46667,-8.46667,17.26,Overcast clouds,1.77,✅ Safe,2025-08-23 21:44:00
+Malinmore/Malinbeg,Ireland,54.66667,-8.78333,17.55,Overcast clouds,3.25,✅ Safe,2025-08-23 21:44:02
+Mornington,Ireland,53.71667,-6.28333,20.52,Overcast clouds,0.95,✅ Safe,2025-08-23 21:44:04
+Murrisk,Ireland,53.78333,-9.63333,20.45,Overcast clouds,1.88,✅ Safe,2025-08-23 21:44:06
+Moneygold,Ireland,54.41667,-8.5,17.24,Overcast clouds,2.09,✅ Safe,2025-08-23 21:44:08
+New Quay,Ireland,53.15,-9.08333,19.87,Overcast clouds,1.04,✅ Safe,2025-08-23 21:44:09
+Omeath,Ireland,54.08333,-6.26667,19.65,Light rain,2.59,✅ Safe,2025-08-23 21:44:11
+Cork,Ireland,51.8985143,-8.4756035,21.18,Overcast clouds,4.39,✅ Safe,2025-08-23 21:44:13
+Oysterhaven,Ireland,51.7,-8.45,19.58,Overcast clouds,3.61,✅ Safe,2025-08-23 21:44:15
+Passage East,Ireland,52.23333,-6.96667,20.85,Broken clouds,3.7,✅ Safe,2025-08-23 21:44:17
+Pontoon,Ireland,51.65,-9.85,18.25,Overcast clouds,3.69,✅ Safe,2025-08-23 21:44:19
+Portavaud,Ireland,54.25,-8.73333,18.13,Overcast clouds,3.15,✅ Safe,2025-08-23 21:44:21
+Porturlin/Portacloy,Ireland,54.31667,-9.71667,19.71,Overcast clouds,4.19,✅ Safe,2025-08-23 21:44:22
+Quilty,Ireland,52.81667,-9.45,18.48,Overcast clouds,2.84,✅ Safe,2025-08-23 21:44:24
+Raghly,Ireland,51.88333,-9.55,20.15,Overcast clouds,3.22,✅ Safe,2025-08-23 21:44:26
+Rathdrum,Ireland,52.917,-6.233,20.21,Overcast clouds,2.93,✅ Safe,2025-08-23 21:44:28
+Redhouse,Ireland,52.58333,-7.33333,20.67,Broken clouds,4.29,✅ Safe,2025-08-23 21:44:30
+Reen,Ireland,51.88333,-9.65,19.32,Overcast clouds,3.29,✅ Safe,2025-08-23 21:44:31
+Renard,Ireland,51.9,-10.03333,19.0,Overcast clouds,5.37,⚠ Moderate,2025-08-23 21:44:33
+Rossmore/Rosscahill,Ireland,53.83333,-9.61667,20.39,Overcast clouds,1.81,✅ Safe,2025-08-23 21:44:35
+Rosslare Harbour,Ireland,52.2666,-6.3833,20.77,Broken clouds,3.61,✅ Safe,2025-08-23 21:44:37
+Rush,Ireland,53.51667,-6.08333,20.55,Broken clouds,4.58,✅ Safe,2025-08-23 21:44:39
+Roundstone/Ballyconneely,Ireland,53.4,-9.91667,18.07,Broken clouds,2.77,✅ Safe,2025-08-23 21:44:41
+Shannon Apt Jetty,Ireland,52.7117822,-8.8783365,22.17,Overcast clouds,4.07,✅ Safe,2025-08-23 21:44:42
+Sligo,Ireland,54.2766103,-8.4760888,18.15,Overcast clouds,1.98,✅ Safe,2025-08-23 21:44:44
+Streedagh/Cloonagh,Ireland,54.38333,-8.56667,18.04,Overcast clouds,2.65,✅ Safe,2025-08-23 21:44:46
+Carrick on Suir,Ireland,52.35,-7.41667,20.76,Broken clouds,3.83,✅ Safe,2025-08-23 21:44:48
+Teelin,Ireland,54.63333,-8.63333,16.74,Overcast clouds,2.59,✅ Safe,2025-08-23 21:44:50
+Tully/Renvyle,Ireland,53.6,-9.96667,18.04,Broken clouds,4.33,✅ Safe,2025-08-23 21:44:52
+Union Hall,Ireland,51.55,-9.15,18.88,Overcast clouds,3.59,✅ Safe,2025-08-23 21:44:54
+Urris,Ireland,55.26667,-7.41667,18.14,Overcast clouds,1.72,✅ Safe,2025-08-23 21:44:56
+Valentia,Ireland,51.91667,-10.35,17.24,Overcast clouds,6.29,⚠ Moderate,2025-08-23 21:44:57
+Wicklow,Ireland,53.0811,-6.39,17.03,Overcast clouds,1.16,✅ Safe,2025-08-23 21:44:59

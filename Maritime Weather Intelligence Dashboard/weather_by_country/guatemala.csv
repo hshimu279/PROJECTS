@@ -1,0 +1,8 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Champerico,Guatemala,14.3,-91.9167,26.0,Light rain,2.55,✅ Safe,2025-08-23 17:34:06
+Livingston,Guatemala,15.8333,-88.75,25.29,Light rain,1.11,✅ Safe,2025-08-23 17:34:07
+Puerto Santo Tomas de Castilla,Guatemala,15.7,-88.6167,23.9,Overcast clouds,2.48,✅ Safe,2025-08-23 17:34:09
+Rio Bravo,Guatemala,14.4,-91.3167,24.55,Overcast clouds,1.58,✅ Safe,2025-08-23 17:34:10
+Puerto Barrios,Guatemala,15.695364,-88.5855173,23.95,Overcast clouds,2.59,✅ Safe,2025-08-23 17:34:11
+Puerto Quetzal,Guatemala,13.9306292,-90.7580342,24.43,Light rain,2.56,✅ Safe,2025-08-23 17:34:13
+San Jose,Guatemala,13.929767,-90.823653,24.38,Light rain,2.58,✅ Safe,2025-08-23 17:34:14

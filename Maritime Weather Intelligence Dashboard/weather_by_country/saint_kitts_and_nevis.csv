@@ -1,0 +1,4 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Charlestown,Saint Kitts and Nevis,17.1333,-62.6167,27.03,Overcast clouds,2.9,✅ Safe,2025-08-23 17:34:46
+Nevis,Saint Kitts and Nevis,17.15,-62.5833,26.5,Overcast clouds,3.41,✅ Safe,2025-08-23 17:34:47
+"Basseterre, Saint Kitts",Saint Kitts and Nevis,17.3026058,-62.7176924,28.16,Overcast clouds,2.37,✅ Safe,2025-08-23 17:34:49

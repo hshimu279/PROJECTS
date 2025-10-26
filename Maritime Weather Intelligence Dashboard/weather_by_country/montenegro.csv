@@ -1,0 +1,12 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Bar,Montenegro,42.0833,19.0833,24.59,Broken clouds,3.32,✅ Safe,2025-08-23 22:00:17
+Bijela,Montenegro,42.45,18.6667,24.21,Scattered clouds,1.13,✅ Safe,2025-08-23 22:00:18
+Budva,Montenegro,42.2833,18.8333,23.45,Scattered clouds,2.62,✅ Safe,2025-08-23 22:00:20
+Hercegnovi,Montenegro,42.45,18.5333,24.25,Scattered clouds,1.88,✅ Safe,2025-08-23 22:00:22
+Igalo,Montenegro,42.4667,18.5167,24.25,Scattered clouds,1.88,✅ Safe,2025-08-23 22:00:24
+Kotor,Montenegro,42.4167,18.7667,21.8,Scattered clouds,1.15,✅ Safe,2025-08-23 22:00:26
+Petrovac,Montenegro,42.2,18.9333,24.27,Broken clouds,2.55,✅ Safe,2025-08-23 22:00:28
+Tivat,Montenegro,42.4333,18.7,24.03,Scattered clouds,1.42,✅ Safe,2025-08-23 22:00:30
+Ulcinj,Montenegro,41.9167,19.2,24.85,Broken clouds,3.72,✅ Safe,2025-08-23 22:00:31
+Zelenika,Montenegro,42.45,18.5833,23.55,Scattered clouds,1.74,✅ Safe,2025-08-23 22:00:33
+Risan (Risano),Montenegro,42.517,18.7,20.73,Broken clouds,0.84,✅ Safe,2025-08-23 22:00:35

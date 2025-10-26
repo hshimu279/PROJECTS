@@ -1,0 +1,4 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Galisbay,Saint Martin (French part),18.0667,-63.0833,28.57,Overcast clouds,3.69,✅ Safe,2025-08-23 17:34:56
+Marigot,Saint Martin (French part),18.0667,-63.0833,28.57,Overcast clouds,3.69,✅ Safe,2025-08-23 17:34:58
+St Martin,Saint Martin (French part),18.0666667,-63.0666667,28.57,Overcast clouds,3.69,✅ Safe,2025-08-23 17:35:00

@@ -1,0 +1,407 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Bonaire,Netherlands,12.1167,-68.2667,29.11,Broken clouds,7.25,⚠ Moderate,2025-08-23 17:07:49
+Dorp Rincon,Netherlands,12.2333,-68.3333,28.98,Broken clouds,7.6,⚠ Moderate,2025-08-23 17:07:51
+Kralendijk,Netherlands,12.15,-68.2667,29.14,Broken clouds,7.3,⚠ Moderate,2025-08-23 17:07:52
+Saba,Netherlands,17.6333,-63.2333,28.62,Overcast clouds,4.82,✅ Safe,2025-08-23 17:07:54
+Sint Eustatius,Netherlands,17.4833,-62.9667,28.2,Overcast clouds,3.72,✅ Safe,2025-08-23 17:07:55
+Aarle Rixtel,Netherlands,51.5,5.6333,17.92,Broken clouds,3.85,✅ Safe,2025-08-23 17:07:56
+Albrandswaard,Netherlands,51.85,4.4167,18.2,Overcast clouds,3.1,✅ Safe,2025-08-23 17:07:58
+Alkmaar,Netherlands,52.6333,4.75,17.76,Overcast clouds,4.38,✅ Safe,2025-08-23 17:07:59
+Almelo,Netherlands,52.35,6.6667,17.79,Overcast clouds,4.91,✅ Safe,2025-08-23 17:08:01
+Almere,Netherlands,52.3667,5.2167,17.93,Overcast clouds,3.96,✅ Safe,2025-08-23 17:08:02
+Alphen aan den Rijn,Netherlands,52.1333,4.6667,17.87,Overcast clouds,3.13,✅ Safe,2025-08-23 17:08:04
+Amerongen,Netherlands,52.0,5.4667,17.8,Overcast clouds,4.15,✅ Safe,2025-08-23 17:08:05
+Amersfoort,Netherlands,52.15,5.3833,17.69,Overcast clouds,3.88,✅ Safe,2025-08-23 17:08:06
+Amsterdam,Netherlands,52.4,4.8167,17.92,Overcast clouds,3.4,✅ Safe,2025-08-23 17:08:08
+Anna Paulowna,Netherlands,52.8667,4.8667,17.78,Overcast clouds,5.28,⚠ Moderate,2025-08-23 17:08:09
+Appingedam,Netherlands,53.3167,6.8667,17.74,Light rain,7.11,⚠ Moderate,2025-08-23 17:08:11
+Arcen,Netherlands,51.4833,6.1833,17.63,Overcast clouds,3.38,✅ Safe,2025-08-23 17:08:12
+Beesel,Netherlands,51.2667,6.0333,17.84,Overcast clouds,3.5,✅ Safe,2025-08-23 17:08:14
+Belfeld,Netherlands,51.3167,6.1167,17.74,Overcast clouds,3.54,✅ Safe,2025-08-23 17:08:15
+Bemmel,Netherlands,51.9,5.9,17.73,Overcast clouds,3.46,✅ Safe,2025-08-23 17:08:17
+Bergen op Zoom,Netherlands,51.5,4.3,18.38,Overcast clouds,3.44,✅ Safe,2025-08-23 17:08:18
+Best,Netherlands,51.5,5.4,18.04,Broken clouds,4.17,✅ Safe,2025-08-23 17:08:20
+Beuningen,Netherlands,51.8667,5.7833,17.72,Overcast clouds,3.41,✅ Safe,2025-08-23 17:08:21
+Bodegraven,Netherlands,52.0833,4.75,17.71,Overcast clouds,2.85,✅ Safe,2025-08-23 17:08:23
+Born,Netherlands,51.0333,5.8167,17.83,Overcast clouds,3.93,✅ Safe,2025-08-23 17:08:24
+Borssele,Netherlands,51.4167,3.7167,19.3,Scattered clouds,5.31,⚠ Moderate,2025-08-23 17:08:26
+Botlek,Netherlands,51.8833,4.2833,18.26,Overcast clouds,3.42,✅ Safe,2025-08-23 17:08:27
+Breda,Netherlands,51.5667,4.8,18.0,Overcast clouds,3.41,✅ Safe,2025-08-23 17:08:28
+Breskens,Netherlands,51.3833,3.5667,19.18,Scattered clouds,5.69,⚠ Moderate,2025-08-23 17:08:30
+Burghsluis,Netherlands,51.6833,3.75,18.85,Overcast clouds,5.0,⚠ Moderate,2025-08-23 17:08:31
+Bussloo,Netherlands,52.2,6.1333,17.77,Overcast clouds,4.34,✅ Safe,2025-08-23 17:08:33
+Camperduin,Netherlands,52.75,4.65,16.78,Overcast clouds,5.16,⚠ Moderate,2025-08-23 17:08:34
+De Cocksdorp,Netherlands,53.15,4.8833,17.7,Overcast clouds,6.66,⚠ Moderate,2025-08-23 17:08:36
+Deest,Netherlands,51.8833,5.6667,17.77,Overcast clouds,3.77,✅ Safe,2025-08-23 17:08:38
+Delden,Netherlands,52.2667,6.7167,17.64,Overcast clouds,4.89,✅ Safe,2025-08-23 17:08:39
+Delfzijl,Netherlands,52.5167,6.9333,17.63,Overcast clouds,5.4,⚠ Moderate,2025-08-23 17:08:41
+Den Helder,Netherlands,52.95,4.7667,16.46,Overcast clouds,5.99,⚠ Moderate,2025-08-23 17:08:43
+Dodewaard,Netherlands,51.9167,5.65,17.79,Overcast clouds,3.81,✅ Safe,2025-08-23 17:08:44
+Domburg,Netherlands,51.5667,3.5,19.37,Scattered clouds,5.47,⚠ Moderate,2025-08-23 17:08:45
+Dordrecht,Netherlands,51.7833,4.6333,18.03,Overcast clouds,2.91,✅ Safe,2025-08-23 17:08:47
+Dreischor,Netherlands,51.6833,3.9833,18.62,Overcast clouds,4.84,✅ Safe,2025-08-23 17:08:48
+Dreumel,Netherlands,51.85,5.4333,17.88,Overcast clouds,4.15,✅ Safe,2025-08-23 17:08:50
+Eindhoven,Netherlands,51.45,5.4667,18.01,Broken clouds,3.8,✅ Safe,2025-08-23 17:08:51
+Ekkersrijt,Netherlands,51.5,5.4667,17.99,Broken clouds,3.96,✅ Safe,2025-08-23 17:08:53
+Elst,Netherlands,51.9167,5.85,17.75,Overcast clouds,3.46,✅ Safe,2025-08-23 17:08:54
+Everingen,Netherlands,51.4,3.75,19.32,Broken clouds,5.28,⚠ Moderate,2025-08-23 17:08:56
+Gasselternijveen,Netherlands,52.9863205,6.8460424,17.91,Overcast clouds,5.41,⚠ Moderate,2025-08-23 17:08:57
+Gendt,Netherlands,51.8833,5.9667,17.73,Overcast clouds,3.56,✅ Safe,2025-08-23 17:08:59
+Goudriaan,Netherlands,51.9,4.9,17.96,Overcast clouds,3.17,✅ Safe,2025-08-23 17:09:00
+Groenendijk,Netherlands,52.1333,4.5667,17.95,Overcast clouds,3.44,✅ Safe,2025-08-23 17:09:01
+Haaften,Netherlands,51.8167,5.2167,17.93,Broken clouds,3.82,✅ Safe,2025-08-23 17:09:03
+Hansweert/Schore,Netherlands,51.4333,4.0,19.11,Overcast clouds,4.96,✅ Safe,2025-08-23 17:09:04
+Hardinxveld,Netherlands,51.8167,4.8667,17.95,Overcast clouds,3.09,✅ Safe,2025-08-23 17:09:06
+Hardinxveld-Giessendam,Netherlands,51.8167,4.8333,17.96,Overcast clouds,3.03,✅ Safe,2025-08-23 17:09:07
+Harlingen,Netherlands,53.1833,5.4333,16.24,Overcast clouds,6.4,⚠ Moderate,2025-08-23 17:09:09
+Harskamp,Netherlands,52.1333,5.75,17.66,Overcast clouds,3.52,✅ Safe,2025-08-23 17:09:10
+Hazeldonk,Netherlands,51.5,4.7333,18.06,Overcast clouds,3.29,✅ Safe,2025-08-23 17:09:12
+Helmond,Netherlands,51.4833,5.6667,17.94,Broken clouds,3.76,✅ Safe,2025-08-23 17:09:13
+Hilvarenbeek,Netherlands,51.4833,5.1333,18.01,Overcast clouds,4.21,✅ Safe,2025-08-23 17:09:15
+Hoek van Holland,Netherlands,51.9667,4.1167,18.33,Overcast clouds,4.42,✅ Safe,2025-08-23 17:09:16
+Holwerd,Netherlands,53.3833,5.8833,16.65,Overcast clouds,6.43,⚠ Moderate,2025-08-23 17:09:18
+Hoogkerk,Netherlands,53.2167,6.5,17.75,Overcast clouds,5.59,⚠ Moderate,2025-08-23 17:09:20
+IJmuiden/Velsen,Netherlands,52.4667,4.6,17.86,Overcast clouds,4.79,✅ Safe,2025-08-23 17:09:21
+IJsselmuiden,Netherlands,52.5667,5.9167,17.9,Overcast clouds,4.64,✅ Safe,2025-08-23 17:09:22
+Ijsselsteyn,Netherlands,51.4833,5.9,17.69,Overcast clouds,3.85,✅ Safe,2025-08-23 17:09:24
+Keent,Netherlands,51.7,5.7,17.66,Overcast clouds,3.72,✅ Safe,2025-08-23 17:09:26
+Kerkdriel,Netherlands,51.7667,5.3333,17.91,Broken clouds,4.14,✅ Safe,2025-08-23 17:09:27
+Klazienaveen,Netherlands,52.7333,7.0,17.71,Overcast clouds,5.88,⚠ Moderate,2025-08-23 17:09:29
+Krabbendijke,Netherlands,51.4333,4.1167,18.69,Overcast clouds,4.4,✅ Safe,2025-08-23 17:09:30
+Krimpen aan den IJssel,Netherlands,51.9167,4.6,18.03,Overcast clouds,2.95,✅ Safe,2025-08-23 17:09:32
+Lettele,Netherlands,52.2833,6.2667,17.83,Overcast clouds,4.78,✅ Safe,2025-08-23 17:09:34
+Lieren,Netherlands,52.1622894,5.9887781,17.68,Overcast clouds,3.92,✅ Safe,2025-08-23 17:09:35
+Lijnden,Netherlands,52.35,4.7667,18.0,Overcast clouds,3.29,✅ Safe,2025-08-23 17:09:37
+Lithoijen,Netherlands,51.8,5.4667,17.85,Overcast clouds,4.19,✅ Safe,2025-08-23 17:09:38
+Makkum,Netherlands,53.05,5.4,17.78,Overcast clouds,6.28,⚠ Moderate,2025-08-23 17:09:40
+Meteren,Netherlands,51.8667,5.2833,17.94,Overcast clouds,3.8,✅ Safe,2025-08-23 17:09:41
+Middenbeemster,Netherlands,52.5481066,4.9109338,17.86,Overcast clouds,3.75,✅ Safe,2025-08-23 17:09:43
+Mierlo,Netherlands,51.4333,5.6167,17.96,Broken clouds,3.51,✅ Safe,2025-08-23 17:09:44
+Moerdijk,Netherlands,51.6833,4.5667,18.13,Overcast clouds,3.01,✅ Safe,2025-08-23 17:09:45
+Molenhoek,Netherlands,51.7667,5.8667,17.66,Overcast clouds,3.24,✅ Safe,2025-08-23 17:09:47
+Nederasselt,Netherlands,51.7667,5.75,17.68,Overcast clouds,3.35,✅ Safe,2025-08-23 17:09:48
+Nederhorst den Berg,Netherlands,52.2667,5.05,17.98,Overcast clouds,2.67,✅ Safe,2025-08-23 17:09:50
+Neeltje Jans,Netherlands,51.6331438,3.7007154,19.2,Broken clouds,5.07,⚠ Moderate,2025-08-23 17:09:51
+Nieuwdorp,Netherlands,51.4667,3.7333,19.08,Broken clouds,5.21,⚠ Moderate,2025-08-23 17:09:53
+Nieuwerkerk aan den IJssel,Netherlands,51.9667,4.6167,17.99,Overcast clouds,2.98,✅ Safe,2025-08-23 17:09:54
+Nieuwerkerke,Netherlands,51.7,3.9,18.71,Overcast clouds,4.96,✅ Safe,2025-08-23 17:09:56
+Nigtevecht,Netherlands,52.2833,5.0333,17.97,Overcast clouds,2.71,✅ Safe,2025-08-23 17:09:57
+Noordeloos,Netherlands,51.9,4.95,17.96,Overcast clouds,3.23,✅ Safe,2025-08-23 17:09:59
+Noordwelle,Netherlands,51.7167,3.8,18.76,Overcast clouds,5.0,⚠ Moderate,2025-08-23 17:10:00
+Noordwijk aan Zee,Netherlands,52.25,4.4333,17.61,Overcast clouds,4.45,✅ Safe,2025-08-23 17:10:02
+Oosterhout,Netherlands,51.65,4.8833,17.9,Overcast clouds,3.41,✅ Safe,2025-08-23 17:10:03
+Oostmahorn,Netherlands,53.3833,6.1667,17.62,Overcast clouds,6.76,⚠ Moderate,2025-08-23 17:10:05
+Oss,Netherlands,51.7667,5.5333,17.74,Overcast clouds,4.13,✅ Safe,2025-08-23 17:10:06
+Oud-Alblas,Netherlands,51.85,4.7,18.01,Overcast clouds,2.88,✅ Safe,2025-08-23 17:10:08
+Oudega,Netherlands,53.0,5.55,17.84,Overcast clouds,5.36,⚠ Moderate,2025-08-23 17:10:09
+Panheel,Netherlands,51.1833,5.8667,18.01,Overcast clouds,3.58,✅ Safe,2025-08-23 17:10:10
+Pernis,Netherlands,51.8833,4.3833,18.19,Overcast clouds,3.23,✅ Safe,2025-08-23 17:10:12
+Poortugaal,Netherlands,51.8667,4.4,18.2,Overcast clouds,3.1,✅ Safe,2025-08-23 17:10:13
+Rijs,Netherlands,52.8667,5.5,17.84,Overcast clouds,5.88,⚠ Moderate,2025-08-23 17:10:15
+Rijsenhout,Netherlands,52.25,4.7167,18.0,Overcast clouds,3.18,✅ Safe,2025-08-23 17:10:16
+Rockanje,Netherlands,51.8667,4.0667,18.41,Overcast clouds,4.65,✅ Safe,2025-08-23 17:10:18
+Rotterdam,Netherlands,51.9167,4.5,18.1,Overcast clouds,3.07,✅ Safe,2025-08-23 17:10:19
+Sas van Gent,Netherlands,51.2333,3.8,19.0,Broken clouds,5.32,⚠ Moderate,2025-08-23 17:10:21
+Schagen,Netherlands,52.7833,4.7833,17.74,Overcast clouds,4.81,✅ Safe,2025-08-23 17:10:22
+Scharendijke,Netherlands,51.7333,3.85,18.66,Overcast clouds,5.0,⚠ Moderate,2025-08-23 17:10:24
+Scherpenisse,Netherlands,51.55,4.1,18.61,Overcast clouds,4.31,✅ Safe,2025-08-23 17:10:25
+Scheveningen,Netherlands,52.1,4.25,18.11,Overcast clouds,4.06,✅ Safe,2025-08-23 17:10:27
+Schiermonnikoog,Netherlands,53.4833,6.1667,17.56,Overcast clouds,7.51,⚠ Moderate,2025-08-23 17:10:28
+Schoorl,Netherlands,52.7333,4.6333,17.78,Overcast clouds,5.12,⚠ Moderate,2025-08-23 17:10:30
+'s-Gravendeel,Netherlands,51.7833,4.6167,18.09,Overcast clouds,2.93,✅ Safe,2025-08-23 17:10:31
+'s-Gravenzande,Netherlands,52.0,4.1667,18.3,Overcast clouds,4.3,✅ Safe,2025-08-23 17:10:33
+'s-Hertogenbosch,Netherlands,51.7,5.3167,17.93,Broken clouds,4.27,✅ Safe,2025-08-23 17:10:34
+Sint Michielsgestel,Netherlands,51.6333,5.35,17.97,Broken clouds,4.36,✅ Safe,2025-08-23 17:10:36
+Sint Pancras,Netherlands,52.6667,4.7833,17.74,Overcast clouds,4.42,✅ Safe,2025-08-23 17:10:37
+Sleeuwijk,Netherlands,51.8167,4.95,17.95,Overcast clouds,3.36,✅ Safe,2025-08-23 17:10:39
+Sliedrecht,Netherlands,51.8167,4.7667,17.96,Overcast clouds,2.94,✅ Safe,2025-08-23 17:10:40
+Sluiskil,Netherlands,51.2833,3.8333,18.98,Broken clouds,5.35,⚠ Moderate,2025-08-23 17:10:42
+Son,Netherlands,51.5,5.5,17.99,Broken clouds,3.89,✅ Safe,2025-08-23 17:10:43
+Sprang,Netherlands,51.6667,5.05,17.93,Overcast clouds,3.89,✅ Safe,2025-08-23 17:10:45
+Stad aan 't Haringvliet,Netherlands,51.7333,4.25,18.39,Overcast clouds,3.54,✅ Safe,2025-08-23 17:10:46
+Stavenisse,Netherlands,51.5833,4.0,18.72,Overcast clouds,4.84,✅ Safe,2025-08-23 17:10:48
+Steenderen,Netherlands,52.0667,6.1833,17.75,Overcast clouds,4.27,✅ Safe,2025-08-23 17:10:49
+Stompetoren,Netherlands,52.6167,4.8167,17.8,Overcast clouds,4.2,✅ Safe,2025-08-23 17:10:51
+Streefkerk,Netherlands,51.9,4.75,17.95,Overcast clouds,2.94,✅ Safe,2025-08-23 17:10:52
+Stroe,Netherlands,52.9333,4.9833,16.54,Overcast clouds,5.89,⚠ Moderate,2025-08-23 17:10:54
+Ter Heijde,Netherlands,52.0333,4.1667,18.32,Overcast clouds,4.34,✅ Safe,2025-08-23 17:10:55
+Termunterzijl,Netherlands,53.3,7.0333,16.89,Overcast clouds,7.14,⚠ Moderate,2025-08-23 17:10:57
+Terneuzen,Netherlands,51.4667,3.8167,19.03,Broken clouds,5.11,⚠ Moderate,2025-08-23 17:10:58
+Tuil,Netherlands,51.8167,5.2333,17.93,Broken clouds,3.82,✅ Safe,2025-08-23 17:10:59
+Usquert,Netherlands,53.4333,6.55,17.63,Overcast clouds,7.53,⚠ Moderate,2025-08-23 17:11:01
+Valkenisse,Netherlands,51.5,3.5,19.17,Scattered clouds,5.6,⚠ Moderate,2025-08-23 17:11:03
+Veen,Netherlands,51.7833,5.1167,17.96,Broken clouds,3.78,✅ Safe,2025-08-23 17:11:04
+Veere,Netherlands,51.55,3.6667,19.15,Broken clouds,5.16,⚠ Moderate,2025-08-23 17:11:06
+Venlo,Netherlands,51.3667,6.1667,17.66,Overcast clouds,3.48,✅ Safe,2025-08-23 17:11:07
+Vierverlaten,Netherlands,53.2167,6.4833,17.75,Overcast clouds,5.59,⚠ Moderate,2025-08-23 17:11:09
+Vlagtwedde,Netherlands,53.0333,7.1167,17.95,Overcast clouds,6.05,⚠ Moderate,2025-08-23 17:11:10
+Vlissingen,Netherlands,51.45,3.7,19.28,Scattered clouds,5.33,⚠ Moderate,2025-08-23 17:11:12
+Volkerak,Netherlands,51.6667,4.2833,18.37,Overcast clouds,3.4,✅ Safe,2025-08-23 17:11:13
+Walsoorden,Netherlands,51.3833,4.0333,18.82,Overcast clouds,4.93,✅ Safe,2025-08-23 17:11:14
+Wanssum,Netherlands,51.5333,6.0833,17.64,Overcast clouds,3.31,✅ Safe,2025-08-23 17:11:16
+Waterhuizen,Netherlands,53.1833,6.65,17.77,Overcast clouds,5.65,⚠ Moderate,2025-08-23 17:11:17
+Westbroek,Netherlands,52.15,5.1333,18.13,Overcast clouds,2.87,✅ Safe,2025-08-23 17:11:19
+Westerbork,Netherlands,52.85,6.6,17.76,Overcast clouds,5.24,⚠ Moderate,2025-08-23 17:11:20
+Wijnbergen,Netherlands,52.3167,6.0167,17.55,Overcast clouds,4.14,✅ Safe,2025-08-23 17:11:22
+Wonseradeel/Makkum,Netherlands,53.05,5.3833,17.78,Overcast clouds,6.28,⚠ Moderate,2025-08-23 17:11:23
+Workum,Netherlands,52.9833,5.45,17.83,Overcast clouds,5.63,⚠ Moderate,2025-08-23 17:11:25
+Wormer,Netherlands,52.5,4.8167,17.88,Overcast clouds,3.87,✅ Safe,2025-08-23 17:11:26
+Woudrichem,Netherlands,51.8167,5.0,17.95,Overcast clouds,3.45,✅ Safe,2025-08-23 17:11:27
+Zeewolde,Netherlands,52.35,5.55,17.91,Overcast clouds,5.07,⚠ Moderate,2025-08-23 17:11:29
+Zevenbergen,Netherlands,51.7333,5.5667,17.71,Overcast clouds,3.98,✅ Safe,2025-08-23 17:11:30
+Zoeterwoude,Netherlands,52.1167,4.5,18.03,Overcast clouds,3.54,✅ Safe,2025-08-23 17:11:32
+Aalst,Netherlands,51.95,5.533,17.85,Overcast clouds,4.14,✅ Safe,2025-08-23 17:11:33
+Aalsmeer,Netherlands,52.2621639,4.7619222,17.96,Overcast clouds,2.91,✅ Safe,2025-08-23 17:11:35
+Alblasserdam,Netherlands,51.8703366,4.6702024,18.0,Overcast clouds,2.89,✅ Safe,2025-08-23 17:11:36
+Achthoven,Netherlands,52.05,4.983,17.98,Overcast clouds,2.92,✅ Safe,2025-08-23 17:11:38
+Akersloot,Netherlands,52.5609159,4.7338008,17.86,Overcast clouds,4.55,✅ Safe,2025-08-23 17:11:39
+Aalsmeerderbrug,Netherlands,52.267,4.75,17.96,Overcast clouds,2.91,✅ Safe,2025-08-23 17:11:40
+Bant,Netherlands,52.767,5.75,17.9,Overcast clouds,4.93,✅ Safe,2025-08-23 17:11:42
+Birdaard,Netherlands,53.3,5.883,17.59,Overcast clouds,6.17,⚠ Moderate,2025-08-23 17:11:44
+Bilderdam,Netherlands,52.217,4.717,17.94,Overcast clouds,3.04,✅ Safe,2025-08-23 17:11:45
+Bergen aan Zee,Netherlands,52.6610417,4.6318186,17.74,Overcast clouds,5.02,⚠ Moderate,2025-08-23 17:11:47
+Beverwijk,Netherlands,52.486963,4.65746,17.87,Overcast clouds,4.71,✅ Safe,2025-08-23 17:11:49
+Baambrugge,Netherlands,52.25,4.983,17.97,Overcast clouds,2.63,✅ Safe,2025-08-23 17:11:51
+Barsingerhorn,Netherlands,52.783,4.85,17.71,Overcast clouds,4.69,✅ Safe,2025-08-23 17:11:52
+Borgsweer,Netherlands,53.3,7.017,17.76,Light rain,7.17,⚠ Moderate,2025-08-23 17:11:54
+Bartlehiem,Netherlands,53.283,5.833,17.59,Overcast clouds,6.12,⚠ Moderate,2025-08-23 17:11:55
+Biest,Netherlands,51.517,5.15,17.94,Overcast clouds,4.33,✅ Safe,2025-08-23 17:11:57
+Blerick,Netherlands,51.367,6.167,17.66,Overcast clouds,3.48,✅ Safe,2025-08-23 17:11:58
+Berlicum,Netherlands,51.667,5.383,17.94,Broken clouds,4.33,✅ Safe,2025-08-23 17:12:00
+Bunde,Netherlands,50.883,5.733,17.53,Overcast clouds,3.23,✅ Safe,2025-08-23 17:12:01
+Boarnsterhim,Netherlands,53.083,5.817,17.74,Overcast clouds,5.81,⚠ Moderate,2025-08-23 17:12:03
+Buggenum,Netherlands,51.233,5.983,17.89,Overcast clouds,3.52,✅ Safe,2025-08-23 17:12:04
+Biddinghuizen,Netherlands,52.45,5.7,17.89,Overcast clouds,5.05,⚠ Moderate,2025-08-23 17:12:06
+Baarland,Netherlands,51.4,3.867,18.93,Broken clouds,5.22,⚠ Moderate,2025-08-23 17:12:07
+Brielle,Netherlands,51.902582,4.1636846,18.36,Overcast clouds,4.19,✅ Safe,2025-08-23 17:12:09
+Barendrecht,Netherlands,51.8515088,4.5485809,18.16,Overcast clouds,2.99,✅ Safe,2025-08-23 17:12:10
+Bosscherheide,Netherlands,51.567,6.083,17.61,Overcast clouds,3.2,✅ Safe,2025-08-23 17:12:12
+Bourtange,Netherlands,53.017,7.2,17.92,Broken clouds,6.17,⚠ Moderate,2025-08-23 17:12:13
+Beets,Netherlands,52.583,4.967,17.83,Overcast clouds,3.96,✅ Safe,2025-08-23 17:12:15
+Burgervlotbrug,Netherlands,52.75,4.683,17.76,Overcast clouds,5.04,⚠ Moderate,2025-08-23 17:12:16
+Bovensmilde,Netherlands,52.983,6.483,17.77,Overcast clouds,5.19,⚠ Moderate,2025-08-23 17:12:18
+Burgwerd,Netherlands,53.083,5.55,17.81,Overcast clouds,5.5,⚠ Moderate,2025-08-23 17:12:19
+Boornzwaag over de Wielen,Netherlands,52.95,5.75,17.86,Overcast clouds,5.45,⚠ Moderate,2025-08-23 17:12:20
+Boornzwaag,Netherlands,52.883,5.567,17.83,Overcast clouds,5.44,⚠ Moderate,2025-08-23 17:12:22
+Coevorden,Netherlands,52.6613567,6.7410616,17.79,Overcast clouds,5.48,⚠ Moderate,2025-08-23 17:12:23
+Capelle aan den IJssel,Netherlands,51.9301505,4.5777053,18.09,Overcast clouds,3.01,✅ Safe,2025-08-23 17:12:25
+Creil,Netherlands,52.767,5.667,17.9,Overcast clouds,5.5,⚠ Moderate,2025-08-23 17:12:26
+Cadzand,Netherlands,51.367,3.4,19.15,Scattered clouds,5.65,⚠ Moderate,2025-08-23 17:12:28
+Deventer,Netherlands,52.2660751,6.1552165,17.76,Overcast clouds,4.51,✅ Safe,2025-08-23 17:12:29
+De Heen,Netherlands,51.617,4.267,18.41,Overcast clouds,3.51,✅ Safe,2025-08-23 17:12:31
+De Haukes,Netherlands,52.883,4.933,16.7,Overcast clouds,5.48,⚠ Moderate,2025-08-23 17:12:32
+Den Hool,Netherlands,52.717,6.783,17.78,Overcast clouds,5.58,⚠ Moderate,2025-08-23 17:12:34
+De Kooy,Netherlands,52.917,4.8,17.75,Overcast clouds,5.69,⚠ Moderate,2025-08-23 17:12:35
+Demmerik,Netherlands,52.2,4.933,17.95,Overcast clouds,2.59,✅ Safe,2025-08-23 17:12:37
+Driel,Netherlands,51.967,5.817,17.54,Overcast clouds,3.49,✅ Safe,2025-08-23 17:12:38
+De Rijp,Netherlands,52.567,4.85,17.85,Overcast clouds,3.97,✅ Safe,2025-08-23 17:12:40
+Doodstil,Netherlands,53.4,6.667,17.66,Overcast clouds,7.37,⚠ Moderate,2025-08-23 17:12:42
+Driesum,Netherlands,53.3,6.05,17.63,Overcast clouds,6.22,⚠ Moderate,2025-08-23 17:12:43
+De Strook,Netherlands,52.783,4.9,17.73,Overcast clouds,4.68,✅ Safe,2025-08-23 17:12:44
+Dukenburg,Netherlands,51.817,5.8,17.7,Overcast clouds,3.33,✅ Safe,2025-08-23 17:12:46
+Dieverbrug,Netherlands,52.85,6.333,17.86,Overcast clouds,5.0,⚠ Moderate,2025-08-23 17:12:47
+Duivendrecht,Netherlands,52.333,4.917,17.93,Overcast clouds,2.77,✅ Safe,2025-08-23 17:12:49
+Eemshaven,Netherlands,53.4475,6.801389,17.66,Broken clouds,7.81,⚠ Moderate,2025-08-23 17:12:50
+Eefde,Netherlands,52.167,6.233,17.79,Overcast clouds,4.58,✅ Safe,2025-08-23 17:12:52
+Echtenerbrug,Netherlands,52.867,5.817,17.82,Overcast clouds,5.08,⚠ Moderate,2025-08-23 17:12:53
+Ell,Netherlands,51.217,5.8,17.97,Overcast clouds,3.41,✅ Safe,2025-08-23 17:12:55
+Empel,Netherlands,51.733,5.333,17.92,Broken clouds,4.19,✅ Safe,2025-08-23 17:12:56
+Erica,Netherlands,52.717,6.933,17.76,Overcast clouds,5.83,⚠ Moderate,2025-08-23 17:12:58
+Europoort,Netherlands,51.9436775,4.1379495,18.32,Overcast clouds,4.24,✅ Safe,2025-08-23 17:12:59
+Ewijk,Netherlands,51.867,5.733,17.75,Overcast clouds,3.46,✅ Safe,2025-08-23 17:13:01
+Eernewoude,Netherlands,53.133,5.933,17.69,Overcast clouds,5.81,⚠ Moderate,2025-08-23 17:13:03
+Exmorrazijl,Netherlands,53.067,5.467,17.79,Overcast clouds,5.74,⚠ Moderate,2025-08-23 17:13:04
+Farmsum,Netherlands,53.3230048,6.92796,17.74,Overcast clouds,7.29,⚠ Moderate,2025-08-23 17:13:06
+Fraamklap,Netherlands,53.333,6.633,17.7,Overcast clouds,6.65,⚠ Moderate,2025-08-23 17:13:07
+Gramsbergen,Netherlands,52.617,6.683,17.79,Overcast clouds,5.31,⚠ Moderate,2025-08-23 17:13:08
+Groot Dochteren,Netherlands,52.167,6.367,17.83,Overcast clouds,4.73,✅ Safe,2025-08-23 17:13:10
+Giethoorn,Netherlands,52.733,6.067,18.02,Overcast clouds,4.81,✅ Safe,2025-08-23 17:13:12
+Gaarkeuken,Netherlands,53.25,6.317,17.71,Overcast clouds,5.85,⚠ Moderate,2025-08-23 17:13:13
+Geulle,Netherlands,50.917,5.733,17.59,Overcast clouds,3.39,✅ Safe,2025-08-23 17:13:14
+Groeneweg,Netherlands,51.983,4.6,17.99,Overcast clouds,2.98,✅ Safe,2025-08-23 17:13:16
+Groenewoud,Netherlands,51.517,5.617,17.93,Broken clouds,3.89,✅ Safe,2025-08-23 17:13:18
+Garmerwolde,Netherlands,53.25,6.65,17.76,Overcast clouds,5.93,⚠ Moderate,2025-08-23 17:13:19
+Geeuwenbrug,Netherlands,52.867,6.367,17.83,Overcast clouds,5.06,⚠ Moderate,2025-08-23 17:13:21
+Haarlem,Netherlands,52.3873878,4.6462194,17.95,Overcast clouds,4.11,✅ Safe,2025-08-23 17:13:22
+Haaldersbroek,Netherlands,52.483,4.833,17.88,Overcast clouds,3.74,✅ Safe,2025-08-23 17:13:24
+Hoogmade,Netherlands,52.167,4.583,17.97,Overcast clouds,3.53,✅ Safe,2025-08-23 17:13:25
+Hijkersmilde,Netherlands,52.933,6.433,17.79,Overcast clouds,5.17,⚠ Moderate,2025-08-23 17:13:27
+Hekendorp,Netherlands,52.017,4.817,17.81,Overcast clouds,2.92,✅ Safe,2025-08-23 17:13:28
+Haarlemmerliede,Netherlands,52.383,4.683,17.98,Overcast clouds,3.93,✅ Safe,2025-08-23 17:13:30
+Holtheme,Netherlands,52.617,6.7,17.79,Overcast clouds,5.31,⚠ Moderate,2025-08-23 17:13:31
+Hoogersmilde,Netherlands,52.9,6.4,17.82,Overcast clouds,5.09,⚠ Moderate,2025-08-23 17:13:33
+Hengstdijk,Netherlands,51.35,4.0,18.88,Overcast clouds,5.07,⚠ Moderate,2025-08-23 17:13:34
+Holt,Netherlands,52.533,6.333,17.88,Overcast clouds,5.0,⚠ Moderate,2025-08-23 17:13:35
+Houten,Netherlands,52.0278426,5.1630019,18.02,Overcast clouds,3.16,✅ Safe,2025-08-23 17:13:37
+Hempens,Netherlands,53.183,5.833,17.63,Overcast clouds,5.98,⚠ Moderate,2025-08-23 17:13:38
+Hoofdplaat,Netherlands,51.367,3.65,19.28,Scattered clouds,5.53,⚠ Moderate,2025-08-23 17:13:40
+Harderwijk,Netherlands,52.3422025,5.6367423,17.86,Overcast clouds,4.7,✅ Safe,2025-08-23 17:13:41
+Haren,Netherlands,53.167,6.6,17.73,Overcast clouds,5.48,⚠ Moderate,2025-08-23 17:13:43
+Heerenveen,Netherlands,52.9605613,5.9205217,17.82,Overcast clouds,5.5,⚠ Moderate,2025-08-23 17:13:44
+Hellevoetsluis,Netherlands,51.8318632,4.13181,18.41,Overcast clouds,4.17,✅ Safe,2025-08-23 17:13:46
+Holsloot,Netherlands,52.717,6.8,17.78,Overcast clouds,5.64,⚠ Moderate,2025-08-23 17:13:47
+Haghorst,Netherlands,51.5,5.217,18.06,Overcast clouds,4.32,✅ Safe,2025-08-23 17:13:48
+Heeswijk,Netherlands,51.65,5.467,17.88,Overcast clouds,4.24,✅ Safe,2025-08-23 17:13:50
+Hattem,Netherlands,52.467,6.067,17.82,Overcast clouds,4.63,✅ Safe,2025-08-23 17:13:51
+Heukelum,Netherlands,51.867,5.067,17.96,Overcast clouds,3.54,✅ Safe,2025-08-23 17:13:53
+Heumen,Netherlands,51.767,5.85,17.69,Overcast clouds,3.26,✅ Safe,2025-08-23 17:13:54
+Hunsel,Netherlands,51.183,5.817,17.98,Overcast clouds,3.54,✅ Safe,2025-08-23 17:13:56
+Havelte,Netherlands,52.767,6.25,17.93,Overcast clouds,4.88,✅ Safe,2025-08-23 17:13:57
+Itteren,Netherlands,50.9,5.7,17.45,Overcast clouds,3.09,✅ Safe,2025-08-23 17:13:59
+Kampen,Netherlands,52.55818,5.913891,17.9,Overcast clouds,4.64,✅ Safe,2025-08-23 17:14:00
+Kats,Netherlands,51.567,3.867,18.96,Overcast clouds,5.0,⚠ Moderate,2025-08-23 17:14:02
+Kuikhorne,Netherlands,53.25,6.017,17.66,Overcast clouds,5.95,⚠ Moderate,2025-08-23 17:14:03
+Kolhorn,Netherlands,52.8,4.883,17.74,Overcast clouds,4.8,✅ Safe,2025-08-23 17:14:05
+Ketelhaven,Netherlands,52.583,5.75,17.92,Overcast clouds,5.0,⚠ Moderate,2025-08-23 17:14:06
+Kollum,Netherlands,53.283,6.15,17.66,Overcast clouds,6.16,⚠ Moderate,2025-08-23 17:14:08
+Kloosterveen,Netherlands,53.0,6.517,17.75,Overcast clouds,5.19,⚠ Moderate,2025-08-23 17:14:09
+Kelpen,Netherlands,51.217,5.833,17.96,Overcast clouds,3.43,✅ Safe,2025-08-23 17:14:11
+Kreil,Netherlands,52.8,4.867,17.74,Overcast clouds,4.8,✅ Safe,2025-08-23 17:14:12
+'t Kruis,Netherlands,52.65,4.85,17.67,Overcast clouds,4.22,✅ Safe,2025-08-23 17:14:14
+Kantens,Netherlands,53.367,6.633,17.68,Overcast clouds,7.11,⚠ Moderate,2025-08-23 17:14:15
+Katerveer,Netherlands,52.5,6.067,17.85,Overcast clouds,4.64,✅ Safe,2025-08-23 17:14:17
+Katwijk aan den Rijn,Netherlands,52.2,4.417,17.99,Overcast clouds,4.09,✅ Safe,2025-08-23 17:14:19
+Keizersveer,Netherlands,51.717,4.9,17.93,Overcast clouds,3.45,✅ Safe,2025-08-23 17:14:20
+Leiderdorp,Netherlands,52.1509854,4.5281733,17.98,Overcast clouds,3.54,✅ Safe,2025-08-23 17:14:22
+Leons,Netherlands,53.117,5.467,17.77,Overcast clouds,5.93,⚠ Moderate,2025-08-23 17:14:23
+Leens,Netherlands,53.367,6.383,17.65,Overcast clouds,6.93,⚠ Moderate,2025-08-23 17:14:25
+Lelystad,Netherlands,52.518755,5.471217,17.91,Overcast clouds,5.85,⚠ Moderate,2025-08-23 17:14:26
+Lageland,Netherlands,53.233,6.717,17.77,Overcast clouds,6.18,⚠ Moderate,2025-08-23 17:14:28
+Langelille,Netherlands,52.85,5.85,17.85,Overcast clouds,4.98,✅ Safe,2025-08-23 17:14:29
+Leiden,Netherlands,52.1601144,4.4970097,18.0,Overcast clouds,3.76,✅ Safe,2025-08-23 17:14:31
+Limmel,Netherlands,50.867,5.7,17.35,Overcast clouds,2.92,✅ Safe,2025-08-23 17:14:33
+Loenersloot,Netherlands,52.233,5.0,17.99,Overcast clouds,2.61,✅ Safe,2025-08-23 17:14:34
+Leimuiderbrug,Netherlands,52.233,4.667,18.0,Overcast clouds,3.39,✅ Safe,2025-08-23 17:14:36
+Lalleweer,Netherlands,53.283,7.0,17.78,Light rain,7.06,⚠ Moderate,2025-08-23 17:14:37
+Langeweg,Netherlands,51.65,4.667,18.09,Overcast clouds,3.04,✅ Safe,2025-08-23 17:14:39
+Lippenwoude,Netherlands,52.967,5.65,17.86,Overcast clouds,5.29,⚠ Moderate,2025-08-23 17:14:40
+Lage Zwaluwe,Netherlands,51.717,4.733,17.98,Overcast clouds,2.99,✅ Safe,2025-08-23 17:14:42
+Markelo,Netherlands,52.2318971,6.5000676,18.05,Overcast clouds,4.82,✅ Safe,2025-08-23 17:14:43
+Muiderberg,Netherlands,52.333,5.117,17.94,Overcast clouds,3.15,✅ Safe,2025-08-23 17:14:45
+Middelstum,Netherlands,53.35,6.65,17.69,Overcast clouds,6.92,⚠ Moderate,2025-08-23 17:14:46
+Meerlo-Wansum,Netherlands,51.513572,6.085318,17.64,Overcast clouds,3.31,✅ Safe,2025-08-23 17:14:48
+Molengat,Netherlands,53.05,4.65,16.28,Overcast clouds,6.21,⚠ Moderate,2025-08-23 17:14:49
+Maarhuizen,Netherlands,53.35,6.5,17.67,Overcast clouds,6.77,⚠ Moderate,2025-08-23 17:14:51
+Mandjeswaard,Netherlands,52.567,5.917,17.9,Overcast clouds,4.64,✅ Safe,2025-08-23 17:14:52
+Munnekeburen,Netherlands,52.85,5.883,17.87,Overcast clouds,4.98,✅ Safe,2025-08-23 17:14:54
+Marken,Netherlands,52.467,5.1,17.88,Overcast clouds,4.1,✅ Safe,2025-08-23 17:14:55
+Middelaar,Netherlands,51.733,5.917,17.58,Overcast clouds,3.21,✅ Safe,2025-08-23 17:14:57
+Millingen aan de Rijn,Netherlands,51.867,6.05,17.7,Overcast clouds,3.59,✅ Safe,2025-08-23 17:14:58
+Mijnsheerenland,Netherlands,51.8,4.483,18.18,Overcast clouds,3.02,✅ Safe,2025-08-23 17:15:00
+Menaldum,Netherlands,53.217,5.667,17.65,Light rain,6.05,⚠ Moderate,2025-08-23 17:15:01
+Mook,Netherlands,51.75,5.883,17.66,Overcast clouds,3.24,✅ Safe,2025-08-23 17:15:03
+Maasbracht,Netherlands,51.1404101,5.888583,18.04,Overcast clouds,3.8,✅ Safe,2025-08-23 17:15:04
+Maasvlakte,Netherlands,51.962398,4.0567997,18.34,Overcast clouds,4.67,✅ Safe,2025-08-23 17:15:06
+Mensingeweer,Netherlands,53.35,6.467,17.67,Overcast clouds,6.75,⚠ Moderate,2025-08-23 17:15:07
+Muiden,Netherlands,52.333,5.067,17.95,Overcast clouds,3.04,✅ Safe,2025-08-23 17:15:09
+Midwolda,Netherlands,53.2,7.0,17.84,Overcast clouds,6.54,⚠ Moderate,2025-08-23 17:15:10
+Nieuw-Amsterdam,Netherlands,52.717,6.867,17.77,Overcast clouds,5.78,⚠ Moderate,2025-08-23 17:15:11
+Nieuwerbrug,Netherlands,52.083,4.817,17.8,Overcast clouds,2.81,✅ Safe,2025-08-23 17:15:13
+Nieuwe Brug,Netherlands,52.367,4.667,17.95,Overcast clouds,4.11,✅ Safe,2025-08-23 17:15:14
+Neck,Netherlands,52.517,4.917,17.88,Overcast clouds,3.67,✅ Safe,2025-08-23 17:15:16
+Nes,Netherlands,53.05,5.85,17.76,Overcast clouds,5.77,⚠ Moderate,2025-08-23 17:15:17
+Nijkerk,Netherlands,52.2224835,5.4835625,17.9,Overcast clouds,4.55,✅ Safe,2025-08-23 17:15:19
+Norg,Netherlands,53.05,6.45,17.75,Overcast clouds,5.2,⚠ Moderate,2025-08-23 17:15:20
+Nes aan de Amstel,Netherlands,52.267,4.883,17.98,Overcast clouds,2.64,✅ Safe,2025-08-23 17:15:22
+Nieuw-Scheemda,Netherlands,53.2,6.933,17.83,Light rain,6.43,⚠ Moderate,2025-08-23 17:15:23
+Nessersluis,Netherlands,52.25,4.867,17.98,Overcast clouds,2.64,✅ Safe,2025-08-23 17:15:25
+Nieuwe Statenzijl,Netherlands,53.233,7.2,16.84,Overcast clouds,6.61,⚠ Moderate,2025-08-23 17:15:26
+Nieuwolda,Netherlands,53.25,6.983,17.81,Light rain,6.81,⚠ Moderate,2025-08-23 17:15:27
+Nijezijl,Netherlands,53.0,5.617,17.88,Overcast clouds,5.3,⚠ Moderate,2025-08-23 17:15:29
+Oud-Beijerland,Netherlands,51.8189297,4.4272362,18.22,Overcast clouds,3.09,✅ Safe,2025-08-23 17:15:31
+Odiliapeel,Netherlands,51.65,5.7,17.71,Overcast clouds,3.84,✅ Safe,2025-08-23 17:15:33
+Ouderkerk aan de Amstel,Netherlands,52.3,4.9,17.95,Overcast clouds,2.68,✅ Safe,2025-08-23 17:15:34
+Ooltgensplaat,Netherlands,51.683,4.35,18.33,Overcast clouds,3.3,✅ Safe,2025-08-23 17:15:36
+Oudeschild,Netherlands,53.033,4.867,16.34,Overcast clouds,6.29,⚠ Moderate,2025-08-23 17:15:37
+Oosthem,Netherlands,53.017,5.6,17.88,Overcast clouds,5.3,⚠ Moderate,2025-08-23 17:15:39
+Oude Schouw,Netherlands,53.067,5.817,17.74,Light rain,5.81,⚠ Moderate,2025-08-23 17:15:41
+Oosthuizen,Netherlands,52.567,5.0,17.85,Overcast clouds,3.96,✅ Safe,2025-08-23 17:15:43
+Oosterlittens,Netherlands,53.133,5.65,17.77,Overcast clouds,5.71,⚠ Moderate,2025-08-23 17:15:44
+Oostermeer,Netherlands,53.167,6.05,17.68,Overcast clouds,5.79,⚠ Moderate,2025-08-23 17:15:46
+Oudenrijn,Netherlands,52.083,5.067,18.11,Overcast clouds,2.86,✅ Safe,2025-08-23 17:15:48
+Oterleek,Netherlands,52.633,4.833,17.74,Overcast clouds,4.15,✅ Safe,2025-08-23 17:15:49
+Oud-Sabbinge,Netherlands,51.533,3.8,19.07,Broken clouds,5.04,⚠ Moderate,2025-08-23 17:15:51
+Overschild,Netherlands,53.283,6.783,17.75,Overcast clouds,6.6,⚠ Moderate,2025-08-23 17:15:53
+Overberg,Netherlands,52.033,5.5,17.69,Overcast clouds,4.19,✅ Safe,2025-08-23 17:15:55
+Ossenzijl,Netherlands,52.8,5.917,17.91,Overcast clouds,4.86,✅ Safe,2025-08-23 17:15:56
+Oud-Zuilen,Netherlands,52.133,5.067,18.12,Overcast clouds,2.75,✅ Safe,2025-08-23 17:15:58
+Purmerend,Netherlands,52.5143815,4.9640611,17.88,Overcast clouds,3.7,✅ Safe,2025-08-23 17:16:00
+Pieterzijl,Netherlands,53.283,6.267,17.68,Overcast clouds,6.16,⚠ Moderate,2025-08-23 17:16:01
+Lisse,Netherlands,52.2579303,4.5574834,18.0,Overcast clouds,3.95,✅ Safe,2025-08-23 17:16:03
+Raalte,Netherlands,52.3798566,6.2862366,17.84,Overcast clouds,4.91,✅ Safe,2025-08-23 17:16:05
+Ried,Netherlands,51.517,5.017,17.91,Overcast clouds,4.04,✅ Safe,2025-08-23 17:16:07
+Rheden,Netherlands,52.0057368,6.0279594,17.7,Overcast clouds,3.81,✅ Safe,2025-08-23 17:16:08
+Ridderkerk,Netherlands,51.870426,4.601732,18.06,Overcast clouds,2.92,✅ Safe,2025-08-23 17:16:10
+Rilland,Netherlands,51.417,4.183,18.59,Overcast clouds,4.04,✅ Safe,2025-08-23 17:16:12
+Rozenburg,Netherlands,51.904422,4.2471328,18.27,Overcast clouds,3.56,✅ Safe,2025-08-23 17:16:14
+Roosteren,Netherlands,51.083,5.817,17.9,Overcast clouds,3.88,✅ Safe,2025-08-23 17:16:15
+Rijnsaterwoude,Netherlands,52.2,4.667,17.92,Overcast clouds,3.23,✅ Safe,2025-08-23 17:16:17
+Rustenburg,Netherlands,52.633,4.883,17.74,Overcast clouds,4.09,✅ Safe,2025-08-23 17:16:19
+Rutten,Netherlands,52.8,5.7,17.86,Overcast clouds,5.3,⚠ Moderate,2025-08-23 17:16:20
+Sint Andries,Netherlands,51.8,5.35,17.91,Overcast clouds,4.03,✅ Safe,2025-08-23 17:16:22
+Sijbrandahuis,Netherlands,53.317,5.967,17.62,Overcast clouds,6.18,⚠ Moderate,2025-08-23 17:16:24
+Schagerbrug,Netherlands,52.8,4.767,17.75,Overcast clouds,4.95,✅ Safe,2025-08-23 17:16:26
+Schiedam,Netherlands,51.9166,4.4,18.16,Overcast clouds,3.15,✅ Safe,2025-08-23 17:16:28
+Standdaarbuiten,Netherlands,51.617,4.517,18.18,Overcast clouds,3.03,✅ Safe,2025-08-23 17:16:29
+Stadsdam,Netherlands,52.083,5.05,18.06,Overcast clouds,2.8,✅ Safe,2025-08-23 17:16:31
+Schildwolde,Netherlands,53.233,6.817,17.78,Overcast clouds,6.37,⚠ Moderate,2025-08-23 17:16:33
+Schoonhoven,Netherlands,51.9525204,4.8432204,17.92,Overcast clouds,2.99,✅ Safe,2025-08-23 17:16:34
+Schermerhorn,Netherlands,52.6,4.883,17.81,Overcast clouds,3.95,✅ Safe,2025-08-23 17:16:36
+Slijkenburg,Netherlands,52.817,5.85,17.86,Overcast clouds,4.91,✅ Safe,2025-08-23 17:16:38
+Stieltjeskanaal,Netherlands,52.683,6.833,17.77,Overcast clouds,5.66,⚠ Moderate,2025-08-23 17:16:39
+Slikkendam,Netherlands,52.15,4.85,17.88,Overcast clouds,2.71,✅ Safe,2025-08-23 17:16:41
+Schalkwijk,Netherlands,51.983,5.183,17.98,Overcast clouds,3.36,✅ Safe,2025-08-23 17:16:42
+Slochteren,Netherlands,53.217,6.8,17.77,Overcast clouds,6.22,⚠ Moderate,2025-08-23 17:16:44
+Sloten,Netherlands,52.9,5.65,17.81,Overcast clouds,5.31,⚠ Moderate,2025-08-23 17:16:46
+Smilde,Netherlands,52.95,6.45,17.77,Overcast clouds,5.19,⚠ Moderate,2025-08-23 17:16:47
+Sint Maartensvlotbrug,Netherlands,52.783,4.717,17.73,Overcast clouds,5.01,⚠ Moderate,2025-08-23 17:16:49
+Scheemderzwaag,Netherlands,53.183,6.95,17.84,Light rain,6.49,⚠ Moderate,2025-08-23 17:16:51
+Sint-Annaland,Netherlands,51.6,4.1,18.58,Overcast clouds,4.31,✅ Safe,2025-08-23 17:16:53
+Stolpen,Netherlands,52.817,4.717,17.75,Overcast clouds,5.22,⚠ Moderate,2025-08-23 17:16:55
+Spijkenisse,Netherlands,51.855845,4.299208,18.28,Overcast clouds,3.41,✅ Safe,2025-08-23 17:16:56
+Stolpervlotbrug,Netherlands,52.8,4.717,17.76,Overcast clouds,5.11,⚠ Moderate,2025-08-23 17:16:58
+Schouwerzijl,Netherlands,53.333,6.45,17.68,Overcast clouds,6.52,⚠ Moderate,2025-08-23 17:17:00
+Schoterzijl,Netherlands,52.817,5.8,17.84,Overcast clouds,4.93,✅ Safe,2025-08-23 17:17:02
+'t Horntje,Netherlands,53.0,4.783,17.74,Overcast clouds,6.21,⚠ Moderate,2025-08-23 17:17:03
+Tolkamer,Netherlands,51.85,6.1,17.69,Overcast clouds,3.66,✅ Safe,2025-08-23 17:17:05
+Tjerkwerd,Netherlands,53.05,5.5,17.81,Overcast clouds,5.53,⚠ Moderate,2025-08-23 17:17:07
+Tollebeek,Netherlands,52.683,5.683,17.99,Overcast clouds,5.44,⚠ Moderate,2025-08-23 17:17:09
+Terhorne,Netherlands,53.033,5.783,17.91,Overcast clouds,5.67,⚠ Moderate,2025-08-23 17:17:10
+Terschelling,Netherlands,53.4,5.35,17.61,Overcast clouds,6.85,⚠ Moderate,2025-08-23 17:17:12
+'t Waar,Netherlands,53.217,6.933,17.82,Light rain,6.58,⚠ Moderate,2025-08-23 17:17:14
+Uffelte,Netherlands,52.783,6.283,17.93,Overcast clouds,4.88,✅ Safe,2025-08-23 17:17:15
+Urmond,Netherlands,51.0,5.767,17.77,Overcast clouds,3.79,✅ Safe,2025-08-23 17:17:17
+Uitgeest,Netherlands,52.533,4.717,17.88,Overcast clouds,4.49,✅ Safe,2025-08-23 17:17:19
+Uitermeer,Netherlands,52.3,5.083,17.96,Overcast clouds,2.93,✅ Safe,2025-08-23 17:17:21
+Varsen,Netherlands,52.517,6.383,17.84,Overcast clouds,5.02,⚠ Moderate,2025-08-23 17:17:23
+Velsen,Netherlands,52.4666,4.65,17.89,Overcast clouds,4.62,✅ Safe,2025-08-23 17:17:24
+Vierlingsbeek,Netherlands,51.5964371,6.0071434,17.65,Overcast clouds,3.28,✅ Safe,2025-08-23 17:17:26
+Vlaardingen,Netherlands,51.9120668,4.3494366,18.22,Overcast clouds,3.34,✅ Safe,2025-08-23 17:17:28
+Veenoord,Netherlands,52.717,6.85,17.75,Overcast clouds,5.68,⚠ Moderate,2025-08-23 17:17:29
+Vrouwenakker,Netherlands,52.233,4.783,17.96,Overcast clouds,2.86,✅ Safe,2025-08-23 17:17:31
+Velsen-Noord,Netherlands,52.467,4.65,17.89,Overcast clouds,4.62,✅ Safe,2025-08-23 17:17:33
+Waalre,Netherlands,51.3878333,5.4432025,18.1,Broken clouds,3.55,✅ Safe,2025-08-23 17:17:34
+Waarde,Netherlands,51.417,4.05,19.07,Overcast clouds,4.86,✅ Safe,2025-08-23 17:17:36
+Well,Netherlands,51.55,6.1,17.62,Overcast clouds,3.23,✅ Safe,2025-08-23 17:17:38
+Weurt,Netherlands,51.85,5.817,17.71,Overcast clouds,3.38,✅ Safe,2025-08-23 17:17:40
+West-Graftdijk,Netherlands,52.55,4.783,17.87,Overcast clouds,4.16,✅ Safe,2025-08-23 17:17:42
+Wieringermeer,Netherlands,52.85,5.017,17.78,Overcast clouds,5.38,⚠ Moderate,2025-08-23 17:17:44
+Wilhelminadorp,Netherlands,51.533,3.9,18.91,Overcast clouds,4.98,✅ Safe,2025-08-23 17:17:46
+Wehe-den Hoorn,Netherlands,53.367,6.417,17.65,Overcast clouds,6.97,⚠ Moderate,2025-08-23 17:17:47
+Warfhuizen,Netherlands,53.35,6.433,17.66,Overcast clouds,6.74,⚠ Moderate,2025-08-23 17:17:49
+Westkapelle,Netherlands,51.517,3.433,19.26,Scattered clouds,5.56,⚠ Moderate,2025-08-23 17:17:51
+Waalwijk,Netherlands,51.6878954,5.0574822,17.94,Overcast clouds,4.01,✅ Safe,2025-08-23 17:17:53
+Winsum,Netherlands,53.333,6.517,17.69,Overcast clouds,6.54,⚠ Moderate,2025-08-23 17:17:54
+Woerden,Netherlands,52.0798287,4.8627239,17.88,Overcast clouds,2.82,✅ Safe,2025-08-23 17:17:56
+Wieringen/Den Oever,Netherlands,52.933,5.033,16.51,Overcast clouds,5.98,⚠ Moderate,2025-08-23 17:17:58
+Welsrijp,Netherlands,53.167,5.6,17.71,Overcast clouds,5.89,⚠ Moderate,2025-08-23 17:17:59
+Weesp,Netherlands,52.3080507,5.0406217,17.95,Overcast clouds,2.78,✅ Safe,2025-08-23 17:18:01
+Zuidbroek,Netherlands,53.167,6.867,17.82,Overcast clouds,6.21,⚠ Moderate,2025-08-23 17:18:03
+Zuidlaren,Netherlands,53.1,6.683,17.79,Overcast clouds,5.34,⚠ Moderate,2025-08-23 17:18:04
+Zwaanshoek,Netherlands,52.317,4.617,18.02,Overcast clouds,3.87,✅ Safe,2025-08-23 17:18:06
+Zoutelande,Netherlands,51.5,3.467,19.26,Scattered clouds,5.61,⚠ Moderate,2025-08-23 17:18:08
+Zandpol,Netherlands,52.7,6.867,17.77,Overcast clouds,5.78,⚠ Moderate,2025-08-23 17:18:10
+Zijpersluis,Netherlands,52.733,4.683,17.77,Overcast clouds,4.99,✅ Safe,2025-08-23 17:18:11
+Zutphen,Netherlands,52.142736,6.1960584,17.78,Overcast clouds,4.41,✅ Safe,2025-08-23 17:18:13
+Zwijndrecht,Netherlands,51.8105978,4.6272719,18.07,Overcast clouds,2.92,✅ Safe,2025-08-23 17:18:15
+Zwinderen,Netherlands,52.733,6.683,17.77,Overcast clouds,5.43,⚠ Moderate,2025-08-23 17:18:17

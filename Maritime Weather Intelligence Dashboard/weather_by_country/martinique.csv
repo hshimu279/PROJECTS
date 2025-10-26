@@ -1,0 +1,6 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Le Robert,Martinique,14.6667,-60.9333,29.03,Scattered clouds,4.53,✅ Safe,2025-08-23 17:35:02
+Port de Fort-de-France Pt.,Martinique,14.6,-61.05,29.21,Broken clouds,4.47,✅ Safe,2025-08-23 17:35:03
+Les Anses-d'Arlet,Martinique,14.483,-61.083,29.14,Light rain,5.84,⚠ Moderate,2025-08-23 17:35:05
+Fort-de-France,Martinique,14.6,-61.05,29.21,Broken clouds,4.47,✅ Safe,2025-08-23 17:35:07
+Le Marigot,Martinique,14.817,-61.033,28.95,Broken clouds,4.35,✅ Safe,2025-08-23 17:35:08

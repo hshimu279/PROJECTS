@@ -1,0 +1,39 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Akrotiri,Cyprus,34.6,32.95,31.64,Clear sky,8.04,⚠ Moderate,2025-08-23 16:29:57
+Dhekelia,Cyprus,34.9833,33.75,30.46,Clear sky,6.01,⚠ Moderate,2025-08-23 16:29:59
+Famagusta,Cyprus,35.1,33.95,32.8,Clear sky,5.88,⚠ Moderate,2025-08-23 16:30:01
+Karavostasi,Cyprus,35.1333,32.8333,33.83,Clear sky,4.1,✅ Safe,2025-08-23 16:30:02
+Kyrenia,Cyprus,35.3333,33.3333,34.3,Clear sky,4.28,✅ Safe,2025-08-23 16:30:04
+Larnaca,Cyprus,34.9167,33.6167,33.74,Clear sky,6.32,⚠ Moderate,2025-08-23 16:30:05
+Latchi,Cyprus,35.0333,32.4,33.3,Clear sky,4.66,✅ Safe,2025-08-23 16:30:07
+Limassol,Cyprus,34.6833,33.05,32.21,Clear sky,6.97,⚠ Moderate,2025-08-23 16:30:08
+Moni,Cyprus,34.7333,33.2,32.25,Clear sky,6.02,⚠ Moderate,2025-08-23 16:30:10
+Nicosia,Cyprus,35.1667,33.3667,34.46,Clear sky,2.27,✅ Safe,2025-08-23 16:30:11
+Paphos,Cyprus,34.7667,32.4167,28.65,Clear sky,4.44,✅ Safe,2025-08-23 16:30:14
+Vasilikos,Cyprus,34.7167,33.3167,33.02,Clear sky,5.71,⚠ Moderate,2025-08-23 16:30:16
+Zyyi,Cyprus,34.7333,33.3333,33.02,Clear sky,5.71,⚠ Moderate,2025-08-23 16:30:17
+Ayia Napa,Cyprus,34.983,34.0,29.77,Clear sky,5.23,⚠ Moderate,2025-08-23 16:30:19
+Aradhippou,Cyprus,34.95,33.58333,33.43,Clear sky,6.33,⚠ Moderate,2025-08-23 16:30:20
+Ayia Varvara,Cyprus,34.9968356,33.3694007,32.87,Clear sky,1.7,✅ Safe,2025-08-23 16:30:22
+Ayia Napa,Cyprus,34.98333,34.0,29.77,Clear sky,5.23,⚠ Moderate,2025-08-23 16:30:24
+Ergates,Cyprus,35.0541055,33.2436859,32.9,Clear sky,3.52,✅ Safe,2025-08-23 16:30:25
+Ayios Georgios,Cyprus,34.9,32.31667,30.22,Clear sky,3.64,✅ Safe,2025-08-23 16:30:27
+Kapparis,Cyprus,35.0596159,34.0093716,30.78,Clear sky,5.94,⚠ Moderate,2025-08-23 16:30:29
+Kyperounda,Cyprus,34.9413934,32.9680834,26.53,Clear sky,0.74,✅ Safe,2025-08-23 16:30:30
+Larnaca Port,Cyprus,34.91667,33.63333,33.37,Clear sky,6.24,⚠ Moderate,2025-08-23 16:30:32
+Larnaca Fishing Shelter,Cyprus,34.88333,33.63333,33.64,Clear sky,5.72,⚠ Moderate,2025-08-23 16:30:33
+Limassol New Port,Cyprus,34.65,33.01667,32.04,Clear sky,7.47,⚠ Moderate,2025-08-23 16:30:35
+Liopetri,Cyprus,35.0,33.88333,32.67,Clear sky,5.71,⚠ Moderate,2025-08-23 16:30:37
+Limassol Old Port,Cyprus,34.66667,33.05,32.66,Clear sky,7.43,⚠ Moderate,2025-08-23 16:30:38
+Tersefanou,Cyprus,34.8548144,33.5468888,33.61,Clear sky,5.46,⚠ Moderate,2025-08-23 16:30:40
+Ormidia,Cyprus,34.9923198,33.7791944,33.0,Clear sky,5.85,⚠ Moderate,2025-08-23 16:30:41
+Paralimni,Cyprus,35.03333,34.03333,32.3,Clear sky,5.69,⚠ Moderate,2025-08-23 16:30:43
+Pomos,Cyprus,35.16667,32.55,32.41,Clear sky,6.29,⚠ Moderate,2025-08-23 16:30:45
+Potamos,Cyprus,34.96667,33.9,32.67,Clear sky,5.42,⚠ Moderate,2025-08-23 16:30:47
+Psimolofou,Cyprus,35.05,33.25,32.51,Clear sky,3.07,✅ Safe,2025-08-23 16:30:49
+Pyrgos,Cyprus,35.18333,32.66667,31.58,Clear sky,5.25,⚠ Moderate,2025-08-23 16:30:50
+Ayia Triada,Cyprus,35.05,34.01667,32.3,Clear sky,5.69,⚠ Moderate,2025-08-23 16:30:52
+Xylotymbou,Cyprus,35.0153362,33.7407024,33.14,Clear sky,5.96,⚠ Moderate,2025-08-23 16:30:53
+Xylofagou,Cyprus,34.96667,33.83333,32.78,Clear sky,5.71,⚠ Moderate,2025-08-23 16:30:55
+Xeros,Cyprus,35.13333,32.83333,33.83,Clear sky,4.1,✅ Safe,2025-08-23 16:30:57
+Zygi,Cyprus,34.73333,33.33333,33.02,Clear sky,5.71,⚠ Moderate,2025-08-23 16:30:58

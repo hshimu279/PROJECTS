@@ -1,0 +1,179 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Abinsk,Russian Federation,44.8667,38.15,31.89,Clear sky,7.23,⚠ Moderate,2025-08-23 16:53:51
+Aleksandrovsk-Sakhalinskiy,Russian Federation,50.9,142.15,14.35,Overcast clouds,1.76,✅ Safe,2025-08-23 16:53:52
+Amderma,Russian Federation,69.7667,61.6667,15.11,Moderate rain,4.11,✅ Safe,2025-08-23 16:53:54
+Angarsk,Russian Federation,52.5333,103.8833,20.7,Overcast clouds,2.02,✅ Safe,2025-08-23 16:53:56
+Bagaevskaya,Russian Federation,47.3167,40.3833,34.26,Clear sky,5.6,⚠ Moderate,2025-08-23 16:53:57
+Belaya Kalitva,Russian Federation,48.1667,40.7833,34.53,Broken clouds,6.02,⚠ Moderate,2025-08-23 16:54:00
+Boshnyakovo,Russian Federation,49.65,142.1667,13.01,Overcast clouds,1.73,✅ Safe,2025-08-23 16:54:02
+Bukhta Ol'ga,Russian Federation,43.723141,135.2273801,21.39,Scattered clouds,0.82,✅ Safe,2025-08-23 16:54:04
+Chamgu,Russian Federation,50.9333,143.6,11.99,Overcast clouds,1.78,✅ Safe,2025-08-23 16:54:06
+Chebarkul',Russian Federation,54.9667,60.3667,21.19,Broken clouds,2.78,✅ Safe,2025-08-23 16:54:07
+Derbeshkinskiy,Russian Federation,55.8667,53.5,21.65,Overcast clouds,6.77,⚠ Moderate,2025-08-23 16:54:09
+Ekonomiya,Russian Federation,64.7,40.6333,17.22,Broken clouds,4.13,✅ Safe,2025-08-23 16:54:11
+Engels,Russian Federation,51.5,46.1167,29.64,Broken clouds,8.45,⚠ Moderate,2025-08-23 16:54:12
+Gavrilov-Yam,Russian Federation,57.3,39.85,11.58,Overcast clouds,2.78,✅ Safe,2025-08-23 16:54:14
+Ikryanoye,Russian Federation,46.0833,47.7333,29.25,Clear sky,9.35,⚠ Moderate,2025-08-23 16:54:15
+Ivanovo,Russian Federation,57.0167,41.0,11.96,Overcast clouds,3.96,✅ Safe,2025-08-23 16:54:17
+Kashira,Russian Federation,54.8333,38.1667,13.22,Overcast clouds,3.77,✅ Safe,2025-08-23 16:54:18
+Kasimov,Russian Federation,54.9333,41.4,14.87,Light rain,3.03,✅ Safe,2025-08-23 16:54:20
+Kavkaz,Russian Federation,45.4167,36.7667,25.68,Clear sky,9.6,⚠ Moderate,2025-08-23 16:54:22
+Kholmsk,Russian Federation,47.05,142.05,16.75,Overcast clouds,1.04,✅ Safe,2025-08-23 16:54:23
+Khvalynsk,Russian Federation,52.4833,48.1,27.64,Overcast clouds,7.72,⚠ Moderate,2025-08-23 16:54:25
+Kirovskiy,Russian Federation,45.0833,133.5,21.41,Overcast clouds,1.71,✅ Safe,2025-08-23 16:54:27
+Konakovo,Russian Federation,56.7,36.7833,16.42,Broken clouds,1.87,✅ Safe,2025-08-23 16:54:28
+Kotel'niki,Russian Federation,55.6333,37.85,14.26,Overcast clouds,2.77,✅ Safe,2025-08-23 16:54:30
+Kotel'nyy,Russian Federation,75.632202,138.8649531,6.81,Scattered clouds,4.13,✅ Safe,2025-08-23 16:54:32
+Krasnoturansk,Russian Federation,54.3167,91.55,21.55,Overcast clouds,3.22,✅ Safe,2025-08-23 16:54:33
+Krasnotur'insk,Russian Federation,59.7667,60.4667,18.4,Few clouds,3.56,✅ Safe,2025-08-23 16:54:35
+Krasnoyarsk,Russian Federation,56.0167,93.0667,24.28,Broken clouds,2.74,✅ Safe,2025-08-23 16:54:36
+Krasnyye Barrikady,Russian Federation,46.2,47.85,29.52,Clear sky,9.56,⚠ Moderate,2025-08-23 16:54:38
+Lavrentiya,Russian Federation,65.5833,-171.0,7.73,Overcast clouds,3.05,✅ Safe,2025-08-23 16:54:39
+Lebedyan',Russian Federation,53.0,39.15,18.61,Overcast clouds,4.97,✅ Safe,2025-08-23 16:54:41
+Lesogorsk,Russian Federation,49.4333,142.1167,13.92,Overcast clouds,1.27,✅ Safe,2025-08-23 16:54:42
+Lyubim,Russian Federation,58.35,40.6833,15.3,Overcast clouds,3.71,✅ Safe,2025-08-23 16:54:43
+Makhachkala,Russian Federation,42.9667,47.5,28.18,Clear sky,8.64,⚠ Moderate,2025-08-23 16:54:45
+Malino,Russian Federation,55.1,38.1667,13.66,Overcast clouds,3.31,✅ Safe,2025-08-23 16:54:46
+Miass,Russian Federation,54.9833,60.1,21.18,Overcast clouds,3.84,✅ Safe,2025-08-23 16:54:48
+Moskva,Russian Federation,55.75,37.6,14.3,Overcast clouds,2.24,✅ Safe,2025-08-23 16:54:50
+Mys Shmidta,Russian Federation,68.8833,-179.4333,0.21,Scattered clouds,6.72,⚠ Moderate,2025-08-23 16:54:52
+Naberezhnyye Chelny,Russian Federation,55.75,52.4167,23.34,Overcast clouds,6.3,⚠ Moderate,2025-08-23 16:54:53
+Nizhnevartovsk,Russian Federation,60.9333,76.5667,23.07,Overcast clouds,3.12,✅ Safe,2025-08-23 16:54:55
+Nogliki,Russian Federation,51.8167,143.1,12.35,Overcast clouds,2.85,✅ Safe,2025-08-23 16:54:56
+Novodvinsk,Russian Federation,64.4167,40.8333,17.47,Broken clouds,4.41,✅ Safe,2025-08-23 16:54:58
+Novomoskovsk,Russian Federation,54.0833,38.1833,13.4,Overcast clouds,4.63,✅ Safe,2025-08-23 16:55:00
+Novorossiysk,Russian Federation,44.7167,37.7667,28.46,Clear sky,5.86,⚠ Moderate,2025-08-23 16:55:01
+"Okha, Sakhalin",Russian Federation,53.5667,143.0,12.55,Overcast clouds,3.1,✅ Safe,2025-08-23 16:55:03
+Oleniy Ostrov,Russian Federation,62.0333,35.3333,13.71,Light rain,6.77,⚠ Moderate,2025-08-23 16:55:04
+Ol'ga,Russian Federation,43.7333,135.2833,21.13,Scattered clouds,1.01,✅ Safe,2025-08-23 16:55:05
+Olya,Russian Federation,45.7833,47.5333,29.32,Clear sky,9.67,⚠ Moderate,2025-08-23 16:55:07
+Oranzherei,Russian Federation,45.8333,47.5667,29.37,Clear sky,9.62,⚠ Moderate,2025-08-23 16:55:08
+Orekhovo-Zuevo,Russian Federation,55.8167,38.9667,13.73,Overcast clouds,2.6,✅ Safe,2025-08-23 16:55:10
+Ozery,Russian Federation,54.85,38.55,13.41,Overcast clouds,3.99,✅ Safe,2025-08-23 16:55:11
+Poyarkovo,Russian Federation,49.6,128.6833,17.27,Broken clouds,2.16,✅ Safe,2025-08-23 16:55:13
+Preobrazheniye,Russian Federation,42.9,133.9,22.27,Scattered clouds,1.5,✅ Safe,2025-08-23 16:55:14
+Prigorodnoye,Russian Federation,46.6167,142.9,14.97,Overcast clouds,5.01,⚠ Moderate,2025-08-23 16:55:16
+"Provideniya, Bukhta",Russian Federation,64.3833,-173.3,9.45,Light rain,3.18,✅ Safe,2025-08-23 16:55:17
+Rostov-na-Donu,Russian Federation,47.2333,39.7167,33.22,Few clouds,6.03,⚠ Moderate,2025-08-23 16:55:19
+Sabetta,Russian Federation,71.25,72.0833,11.77,Broken clouds,4.76,✅ Safe,2025-08-23 16:55:20
+Salekhard,Russian Federation,66.5167,66.6,17.86,Overcast clouds,3.17,✅ Safe,2025-08-23 16:55:22
+Samara,Russian Federation,53.2167,50.1667,30.1,Broken clouds,6.61,⚠ Moderate,2025-08-23 16:55:23
+Shebekino,Russian Federation,50.4,36.9,17.88,Overcast clouds,5.09,⚠ Moderate,2025-08-23 16:55:25
+Siziman,Russian Federation,50.7167,140.4167,13.74,Overcast clouds,3.28,✅ Safe,2025-08-23 16:55:26
+Sochi,Russian Federation,43.6,39.7167,30.3,Clear sky,1.09,✅ Safe,2025-08-23 16:55:28
+Solnechnogorsk,Russian Federation,56.1833,36.9667,14.89,Overcast clouds,2.01,✅ Safe,2025-08-23 16:55:29
+Solovki,Russian Federation,65.4167,35.6833,10.78,Light rain,7.07,⚠ Moderate,2025-08-23 16:55:31
+Taman',Russian Federation,45.2167,36.7167,26.24,Clear sky,8.13,⚠ Moderate,2025-08-23 16:55:32
+Timashevsk,Russian Federation,45.6167,38.9333,35.8,Clear sky,6.53,⚠ Moderate,2025-08-23 16:55:34
+Tol'yatti,Russian Federation,53.4667,49.5,27.0,Broken clouds,7.78,⚠ Moderate,2025-08-23 16:55:36
+Trudfront,Russian Federation,45.9167,47.6667,29.22,Clear sky,9.2,⚠ Moderate,2025-08-23 16:55:37
+Uglich,Russian Federation,57.5167,38.3167,17.45,Overcast clouds,2.14,✅ Safe,2025-08-23 16:55:39
+Ust-Kamchatsk,Russian Federation,56.22747,162.469299,11.06,Light rain,3.63,✅ Safe,2025-08-23 16:55:40
+Varandey,Russian Federation,68.7833,57.9833,8.85,Light rain,4.6,✅ Safe,2025-08-23 16:55:42
+Vityaz,Russian Federation,42.6,131.1667,21.94,Scattered clouds,4.65,✅ Safe,2025-08-23 16:55:43
+Vladivostok,Russian Federation,43.1333,131.9,22.05,Few clouds,3.21,✅ Safe,2025-08-23 16:55:45
+Volgograd,Russian Federation,48.8,44.5833,30.51,Clear sky,6.2,⚠ Moderate,2025-08-23 16:55:46
+Volzhsk,Russian Federation,55.8333,48.25,24.73,Overcast clouds,6.85,⚠ Moderate,2025-08-23 16:55:48
+Vostochnyy Port,Russian Federation,42.7667,133.05,22.09,Scattered clouds,2.06,✅ Safe,2025-08-23 16:55:50
+Vostokmorservice,Russian Federation,43.0833,131.8667,22.09,Few clouds,3.33,✅ Safe,2025-08-23 16:55:51
+Vyksa,Russian Federation,55.3167,42.1667,14.72,Light rain,2.1,✅ Safe,2025-08-23 16:55:53
+Yuzhno-Kuril'sk,Russian Federation,44.0333,145.85,15.82,Overcast clouds,0.75,✅ Safe,2025-08-23 16:55:54
+Zarubino,Russian Federation,42.6167,131.0833,22.35,Few clouds,3.7,✅ Safe,2025-08-23 16:55:56
+Zelenodol'sk,Russian Federation,55.8333,48.5167,23.42,Overcast clouds,6.28,⚠ Moderate,2025-08-23 16:55:57
+Ambarchik,Russian Federation,69.617,162.3,0.82,Few clouds,2.11,✅ Safe,2025-08-23 16:55:59
+Aksay,Russian Federation,47.25,39.883,33.39,Few clouds,5.8,⚠ Moderate,2025-08-23 16:56:00
+Amderma,Russian Federation,69.76667,61.56667,16.54,Moderate rain,4.33,✅ Safe,2025-08-23 16:56:02
+Amursk,Russian Federation,50.217,136.9,13.33,Overcast clouds,3.18,✅ Safe,2025-08-23 16:56:03
+Arman (Magadan),Russian Federation,59.6733284,150.1414857,12.73,Scattered clouds,5.17,⚠ Moderate,2025-08-23 16:56:05
+Azov,Russian Federation,47.096418,39.414202,32.03,Few clouds,5.79,⚠ Moderate,2025-08-23 16:56:06
+Bolshoy Kamen,Russian Federation,62.45,66.233,14.63,Overcast clouds,5.72,⚠ Moderate,2025-08-23 16:56:08
+Balakhna,Russian Federation,56.483,43.617,14.89,Moderate rain,2.84,✅ Safe,2025-08-23 16:56:09
+Balakhnya,Russian Federation,56.8,105.817,21.23,Broken clouds,1.45,✅ Safe,2025-08-23 16:56:11
+Borisova,Russian Federation,57.017,106.233,21.47,Broken clouds,1.41,✅ Safe,2025-08-23 16:56:13
+Chemashi,Russian Federation,63.033,65.183,13.08,Overcast clouds,5.18,⚠ Moderate,2025-08-23 16:56:14
+Chuya,Russian Federation,59.267,112.433,18.8,Scattered clouds,1.24,✅ Safe,2025-08-23 16:56:15
+Cpc Terminal,Russian Federation,44.667,37.65,27.22,Clear sky,6.07,⚠ Moderate,2025-08-23 16:56:17
+Dubovka,Russian Federation,49.05,44.817,27.89,Clear sky,6.98,⚠ Moderate,2025-08-23 16:56:19
+Dubna,Russian Federation,56.75,37.133,16.6,Broken clouds,2.19,✅ Safe,2025-08-23 16:56:20
+Fish Port Terminal,Russian Federation,43.133,131.9,22.05,Few clouds,3.21,✅ Safe,2025-08-23 16:56:21
+Indiga,Russian Federation,67.65,49.017,14.29,Overcast clouds,3.9,✅ Safe,2025-08-23 16:56:23
+Kirensk,Russian Federation,57.76667,108.1,21.94,Few clouds,0.4,✅ Safe,2025-08-23 16:56:24
+Kimry,Russian Federation,56.883,37.367,16.83,Broken clouds,2.38,✅ Safe,2025-08-23 16:56:26
+Kulakovo,Russian Federation,58.1,93.767,25.92,Broken clouds,1.71,✅ Safe,2025-08-23 16:56:27
+Koltogorskiye,Russian Federation,60.667,77.467,24.52,Overcast clouds,1.67,✅ Safe,2025-08-23 16:56:29
+Kalyazin,Russian Federation,57.233,37.833,15.75,Overcast clouds,2.59,✅ Safe,2025-08-23 16:56:30
+Malaya Kheta,Russian Federation,69.585656,84.485272,23.18,Scattered clouds,2.24,✅ Safe,2025-08-23 16:56:32
+Konets Lug,Russian Federation,57.15,106.917,21.58,Few clouds,0.6,✅ Safe,2025-08-23 16:56:33
+Korsakov,Russian Federation,46.6353796,142.7841876,15.67,Overcast clouds,4.79,✅ Safe,2025-08-23 16:56:35
+Krivosheino,Russian Federation,57.333,83.95,18.06,Moderate rain,1.48,✅ Safe,2025-08-23 16:56:36
+Krasnyy Yar,Russian Federation,55.217,82.867,20.53,Moderate rain,3.57,✅ Safe,2025-08-23 16:56:38
+Kharasavey,Russian Federation,71.1,66.767,16.71,Scattered clouds,6.86,⚠ Moderate,2025-08-23 16:56:39
+Khatyrka,Russian Federation,62.067,175.3,9.48,Light rain,2.88,✅ Safe,2025-08-23 16:56:41
+Kubekovo,Russian Federation,56.15,98.133,24.22,Few clouds,1.84,✅ Safe,2025-08-23 16:56:42
+Kureysk,Russian Federation,58.95,111.333,20.98,Broken clouds,2.46,✅ Safe,2025-08-23 16:56:44
+Kolpashevo,Russian Federation,58.3,82.933,20.02,Light rain,2.84,✅ Safe,2025-08-23 16:56:45
+Kolguyev Island,Russian Federation,69.083,49.15,13.99,Overcast clouds,4.22,✅ Safe,2025-08-23 16:56:47
+Kireyevskoye,Russian Federation,56.033,84.083,20.25,Light rain,1.78,✅ Safe,2025-08-23 16:56:48
+Kozhevnikovo,Russian Federation,56.267,83.983,19.14,Light rain,1.54,✅ Safe,2025-08-23 16:56:50
+Kozmino Port,Russian Federation,42.717,133.017,22.05,Scattered clouds,2.29,✅ Safe,2025-08-23 16:56:51
+Leonova,Russian Federation,57.333,107.45,21.28,Scattered clouds,1.12,✅ Safe,2025-08-23 16:56:53
+Leushinskiye,Russian Federation,62.183,67.183,15.14,Overcast clouds,6.19,⚠ Moderate,2025-08-23 16:56:54
+Lensk,Russian Federation,60.717,114.933,20.21,Broken clouds,1.26,✅ Safe,2025-08-23 16:56:56
+Lugovoye,Russian Federation,57.717,83.8,20.22,Moderate rain,4.08,✅ Safe,2025-08-23 16:56:57
+Mamadysh,Russian Federation,55.7,51.383,24.33,Overcast clouds,6.81,⚠ Moderate,2025-08-23 16:56:59
+Makarovo,Russian Federation,57.483,107.8,21.35,Few clouds,1.2,✅ Safe,2025-08-23 16:57:00
+Mogochin,Russian Federation,57.7,83.583,20.0,Moderate rain,3.44,✅ Safe,2025-08-23 16:57:01
+Molchanovo,Russian Federation,57.6,83.8,19.35,Moderate rain,3.28,✅ Safe,2025-08-23 16:57:03
+Narym,Russian Federation,58.917,81.583,22.76,Light rain,4.91,✅ Safe,2025-08-23 16:57:04
+Nakhodka,Russian Federation,42.8222753,132.8834039,22.33,Few clouds,1.94,✅ Safe,2025-08-23 16:57:06
+Neftelensk,Russian Federation,57.333,107.067,21.56,Scattered clouds,0.14,✅ Safe,2025-08-23 16:57:07
+Nizhnevartovsk,Russian Federation,60.93333,76.55,22.98,Overcast clouds,3.11,✅ Safe,2025-08-23 16:57:09
+Nizhnyaya Pesha,Russian Federation,66.75,47.767,16.55,Scattered clouds,4.76,✅ Safe,2025-08-23 16:57:11
+Okruzhnoe,Russian Federation,50.317,143.8,11.83,Overcast clouds,1.02,✅ Safe,2025-08-23 16:57:12
+Olekminsk,Russian Federation,60.367,120.417,20.25,Overcast clouds,1.76,✅ Safe,2025-08-23 16:57:13
+Oktyabrskoye,Russian Federation,62.45,66.05,14.18,Overcast clouds,5.64,⚠ Moderate,2025-08-23 16:57:15
+Peregrebnoye,Russian Federation,62.983,65.067,13.2,Overcast clouds,5.84,⚠ Moderate,2025-08-23 16:57:16
+Prokhorovskiy,Russian Federation,59.5,79.417,24.06,Few clouds,2.3,✅ Safe,2025-08-23 16:57:18
+Petropavlovsk-Kamchatskiy,Russian Federation,53.0,158.65,12.2,Scattered clouds,4.33,✅ Safe,2025-08-23 16:57:19
+Polnovat,Russian Federation,63.783,65.9,14.09,Overcast clouds,6.11,⚠ Moderate,2025-08-23 16:57:21
+Posyet,Russian Federation,42.6541056,130.8062539,21.91,Few clouds,1.38,✅ Safe,2025-08-23 16:57:22
+Potapova,Russian Federation,57.383,107.517,21.51,Broken clouds,1.2,✅ Safe,2025-08-23 16:57:24
+Angarsk,Russian Federation,52.55,103.91667,20.86,Overcast clouds,1.93,✅ Safe,2025-08-23 16:57:25
+Rubnoye,Russian Federation,58.117,94.517,24.1,Broken clouds,1.84,✅ Safe,2025-08-23 16:57:27
+Severodvinsk,Russian Federation,64.566667,39.866667,17.04,Broken clouds,4.33,✅ Safe,2025-08-23 16:57:28
+Slavyanka,Russian Federation,42.8711878,131.3784441,21.92,Clear sky,2.54,✅ Safe,2025-08-23 16:57:30
+Streika,Russian Federation,58.083,93.033,25.63,Scattered clouds,1.77,✅ Safe,2025-08-23 16:57:31
+Taganrog,Russian Federation,47.216667,38.916667,30.07,Scattered clouds,6.85,⚠ Moderate,2025-08-23 16:57:33
+Tayura,Russian Federation,57.0,106.65,20.19,Few clouds,1.38,✅ Safe,2025-08-23 16:57:34
+Tazovskiy,Russian Federation,67.467,78.733,21.19,Few clouds,3.66,✅ Safe,2025-08-23 16:57:36
+Tuapse,Russian Federation,44.106518,39.0806454,28.64,Clear sky,4.54,✅ Safe,2025-08-23 16:57:37
+Uelen,Russian Federation,66.167,-169.817,7.08,Overcast clouds,5.68,⚠ Moderate,2025-08-23 16:57:38
+Vaygach,Russian Federation,70.417,58.75,8.26,Moderate rain,4.98,✅ Safe,2025-08-23 16:57:40
+Vankarem,Russian Federation,67.833,-175.867,1.72,Overcast clouds,9.18,⚠ Moderate,2025-08-23 16:57:41
+Volga,Russian Federation,57.95,38.4,18.21,Broken clouds,2.14,✅ Safe,2025-08-23 16:57:43
+Vitim,Russian Federation,59.417,112.567,18.99,Scattered clouds,1.36,✅ Safe,2025-08-23 16:57:44
+Vladivostok,Russian Federation,43.1198091,131.8869243,21.96,Few clouds,3.27,✅ Safe,2025-08-23 16:57:46
+Vertikoye,Russian Federation,59.383,79.683,22.06,Scattered clouds,2.19,✅ Safe,2025-08-23 16:57:47
+Yamburg,Russian Federation,68.283,77.15,14.82,Overcast clouds,2.46,✅ Safe,2025-08-23 16:57:48
+Balozhi,Russian Federation,58.3667,31.8833,16.85,Light rain,3.67,✅ Safe,2025-08-23 16:57:50
+Bronka Port,Russian Federation,59.9167,29.6667,14.96,Light rain,3.98,✅ Safe,2025-08-23 16:57:51
+Gorskaya,Russian Federation,60.05,29.9667,15.58,Overcast clouds,4.37,✅ Safe,2025-08-23 16:57:53
+Kondopoga,Russian Federation,62.2,34.2833,11.64,Moderate rain,3.65,✅ Safe,2025-08-23 16:57:54
+Kostomuksha,Russian Federation,64.6833,30.8167,13.53,Overcast clouds,2.01,✅ Safe,2025-08-23 16:57:56
+Lomonosov,Russian Federation,59.9,29.7333,15.23,Overcast clouds,4.13,✅ Safe,2025-08-23 16:57:57
+Ozerko,Russian Federation,69.7167,32.1167,9.93,Overcast clouds,4.19,✅ Safe,2025-08-23 16:57:58
+Pionerskiy,Russian Federation,54.95,20.2167,15.37,Overcast clouds,7.06,⚠ Moderate,2025-08-23 16:58:00
+Rzhev,Russian Federation,56.25,34.3333,17.79,Clear sky,2.26,✅ Safe,2025-08-23 16:58:01
+Saint Petersburg (ex Leningrad),Russian Federation,59.8833,30.25,15.65,Overcast clouds,3.86,✅ Safe,2025-08-23 16:58:03
+Sestroretsk,Russian Federation,60.1,29.95,15.0,Overcast clouds,4.28,✅ Safe,2025-08-23 16:58:04
+Sovetsk,Russian Federation,55.0667,21.8833,17.17,Broken clouds,6.46,⚠ Moderate,2025-08-23 16:58:06
+Svetlyy,Russian Federation,54.7,20.5,15.79,Overcast clouds,5.32,⚠ Moderate,2025-08-23 16:58:07
+Ura-Guba,Russian Federation,69.2833,32.8,10.43,Overcast clouds,6.74,⚠ Moderate,2025-08-23 16:58:09
+Ust'-Luga,Russian Federation,59.6667,28.3167,15.26,Light rain,1.74,✅ Safe,2025-08-23 16:58:10
+Vitino,Russian Federation,67.0833,32.3333,13.27,Broken clouds,4.74,✅ Safe,2025-08-23 16:58:12
+Vysotsk,Russian Federation,60.6333,28.5667,14.85,Overcast clouds,1.32,✅ Safe,2025-08-23 16:58:14
+Yartsevo,Russian Federation,55.0667,32.6667,18.88,Few clouds,2.69,✅ Safe,2025-08-23 16:58:15
+Baltiysk,Russian Federation,54.6591222,19.9228947,15.12,Heavy intensity rain,5.52,⚠ Moderate,2025-08-23 16:58:17
+Kaliningrad,Russian Federation,54.7104264,20.4522144,15.64,Overcast clouds,5.37,⚠ Moderate,2025-08-23 16:58:19
+Murmansk,Russian Federation,68.9781,33.0563,12.19,Overcast clouds,3.46,✅ Safe,2025-08-23 16:58:20
+Svetlaya,Russian Federation,58.422778,30.065556,17.39,Light rain,3.74,✅ Safe,2025-08-23 16:58:22

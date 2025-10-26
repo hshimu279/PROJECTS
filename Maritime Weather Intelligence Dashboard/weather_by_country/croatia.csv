@@ -1,0 +1,170 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Aljmas,Croatia,45.5333,18.95,23.98,Broken clouds,4.21,✅ Safe,2025-08-23 21:30:36
+Antenal,Croatia,45.3167,13.55,23.66,Broken clouds,2.3,✅ Safe,2025-08-23 21:30:37
+Bakar,Croatia,45.3,14.5167,22.71,Broken clouds,0.85,✅ Safe,2025-08-23 21:30:39
+Baska,Croatia,44.9667,14.75,22.93,Scattered clouds,1.19,✅ Safe,2025-08-23 21:30:41
+Batina,Croatia,45.8667,18.8667,23.24,Overcast clouds,4.2,✅ Safe,2025-08-23 21:30:43
+Belisce,Croatia,45.7,18.4167,22.61,Broken clouds,2.56,✅ Safe,2025-08-23 21:30:44
+Biograd na Moru,Croatia,43.9333,15.45,25.81,Clear sky,2.15,✅ Safe,2025-08-23 21:30:46
+Blace,Croatia,43.0167,17.4833,24.93,Clear sky,1.61,✅ Safe,2025-08-23 21:30:47
+Bol,Croatia,43.2667,16.65,22.41,Clear sky,2.84,✅ Safe,2025-08-23 21:30:49
+Borovo,Croatia,45.3667,18.9667,24.4,Broken clouds,4.21,✅ Safe,2025-08-23 21:30:51
+Bozava,Croatia,44.1333,14.9,23.05,Clear sky,2.13,✅ Safe,2025-08-23 21:30:53
+Brbinj/Lucina,Croatia,44.0833,15.0,23.23,Clear sky,2.0,✅ Safe,2025-08-23 21:30:55
+Brioni,Croatia,44.9,13.75,24.05,Scattered clouds,1.52,✅ Safe,2025-08-23 21:30:57
+Cavtat,Croatia,42.5667,18.2167,25.14,Clear sky,1.08,✅ Safe,2025-08-23 21:30:58
+Cres,Croatia,44.95,14.4,23.79,Broken clouds,1.95,✅ Safe,2025-08-23 21:30:59
+Crikvenica,Croatia,45.1833,14.7,22.4,Broken clouds,1.27,✅ Safe,2025-08-23 21:31:01
+Dalj,Croatia,45.4833,18.9833,24.0,Broken clouds,4.22,✅ Safe,2025-08-23 21:31:02
+Donje Celo,Croatia,42.6833,18.0,24.85,Few clouds,1.26,✅ Safe,2025-08-23 21:31:03
+Drvenik,Croatia,43.15,16.25,24.38,Clear sky,2.06,✅ Safe,2025-08-23 21:31:05
+Dubrovnik,Croatia,42.65,18.0833,25.01,Few clouds,1.2,✅ Safe,2025-08-23 21:31:06
+Duga Resa,Croatia,45.4167,15.4833,21.88,Overcast clouds,2.26,✅ Safe,2025-08-23 21:31:13
+Dugi Rat,Croatia,43.4333,16.6333,24.43,Clear sky,1.69,✅ Safe,2025-08-23 21:31:21
+Erdut,Croatia,45.5333,19.0667,23.92,Broken clouds,4.32,✅ Safe,2025-08-23 21:31:25
+Fazana,Croatia,44.9333,13.7333,23.86,Scattered clouds,1.55,✅ Safe,2025-08-23 21:31:26
+Fericanci,Croatia,45.5167,17.9667,21.58,Overcast clouds,0.95,✅ Safe,2025-08-23 21:31:28
+Gazenica,Croatia,44.1,15.2667,24.1,Few clouds,2.31,✅ Safe,2025-08-23 21:31:30
+Hvar,Croatia,43.1667,16.4333,24.31,Clear sky,3.1,✅ Safe,2025-08-23 21:31:32
+Ilok,Croatia,45.2167,19.3667,24.47,Broken clouds,5.11,⚠ Moderate,2025-08-23 21:31:34
+Ist,Croatia,44.2667,14.7667,23.42,Few clouds,2.4,✅ Safe,2025-08-23 21:31:35
+Jablanac,Croatia,44.7167,14.9,23.23,Scattered clouds,1.52,✅ Safe,2025-08-23 21:31:37
+Jadrija,Croatia,43.7167,15.85,24.35,Clear sky,2.36,✅ Safe,2025-08-23 21:31:39
+Jelsa,Croatia,43.1667,16.7,25.31,Clear sky,3.17,✅ Safe,2025-08-23 21:31:41
+Kaprije,Croatia,43.6833,15.7167,23.19,Clear sky,1.91,✅ Safe,2025-08-23 21:31:43
+Karlobag,Croatia,44.5167,15.0667,24.06,Scattered clouds,0.61,✅ Safe,2025-08-23 21:31:45
+Kijevo,Croatia,44.0,16.35,21.82,Broken clouds,2.19,✅ Safe,2025-08-23 21:31:47
+Klek,Croatia,42.95,17.5667,22.2,Few clouds,1.57,✅ Safe,2025-08-23 21:31:48
+Klimno,Croatia,45.15,14.6333,22.91,Broken clouds,1.34,✅ Safe,2025-08-23 21:31:50
+Komiza,Croatia,43.0333,16.0833,23.51,Clear sky,1.93,✅ Safe,2025-08-23 21:31:52
+Korcula,Croatia,42.95,17.1167,24.83,Clear sky,2.2,✅ Safe,2025-08-23 21:31:54
+Koromacno,Croatia,44.9667,14.1167,23.44,Broken clouds,0.43,✅ Safe,2025-08-23 21:31:56
+Kostrena,Croatia,45.3,14.5,23.23,Broken clouds,0.84,✅ Safe,2025-08-23 21:31:58
+Kraljevica,Croatia,45.2667,14.5667,23.52,Broken clouds,0.9,✅ Safe,2025-08-23 21:31:59
+Krk,Croatia,45.0333,14.5833,22.07,Broken clouds,1.93,✅ Safe,2025-08-23 21:32:01
+Lamjane,Croatia,44.0333,15.2,23.93,Clear sky,2.09,✅ Safe,2025-08-23 21:32:03
+Lastovo,Croatia,42.7667,16.9,24.5,Clear sky,1.91,✅ Safe,2025-08-23 21:32:04
+Lokrum,Croatia,42.6167,18.1333,25.24,Few clouds,1.19,✅ Safe,2025-08-23 21:32:06
+Lopar,Croatia,44.8333,14.8,23.88,Scattered clouds,1.4,✅ Safe,2025-08-23 21:32:09
+Lopud,Croatia,42.6833,17.95,24.93,Few clouds,1.24,✅ Safe,2025-08-23 21:32:11
+Makarska,Croatia,43.3,17.0167,24.66,Clear sky,1.64,✅ Safe,2025-08-23 21:32:12
+Mali Losinj,Croatia,44.5333,14.4667,23.2,Few clouds,1.59,✅ Safe,2025-08-23 21:32:14
+Malinska,Croatia,45.1167,14.5333,23.62,Broken clouds,1.64,✅ Safe,2025-08-23 21:32:16
+Martinscica,Croatia,44.8167,14.4167,22.48,Scattered clouds,1.71,✅ Safe,2025-08-23 21:32:18
+Maslenica,Croatia,44.2167,15.5333,24.46,Few clouds,2.62,✅ Safe,2025-08-23 21:32:19
+Merag,Croatia,44.9833,14.45,23.73,Broken clouds,2.07,✅ Safe,2025-08-23 21:32:21
+Metkovic,Croatia,43.05,17.6333,25.95,Scattered clouds,2.25,✅ Safe,2025-08-23 21:32:23
+Milna,Croatia,43.3167,16.45,24.13,Clear sky,2.35,✅ Safe,2025-08-23 21:32:25
+Misnjak,Croatia,44.7,14.8667,23.84,Scattered clouds,1.68,✅ Safe,2025-08-23 21:32:26
+Mohovo,Croatia,45.25,19.2167,24.72,Broken clouds,5.19,⚠ Moderate,2025-08-23 21:32:28
+Momjan,Croatia,45.4333,13.7,22.43,Broken clouds,1.41,✅ Safe,2025-08-23 21:32:30
+Moscenicka Draga,Croatia,45.2333,14.25,20.04,Broken clouds,0.66,✅ Safe,2025-08-23 21:32:32
+Muna na Zirju,Croatia,43.6667,15.6667,23.5,Clear sky,1.69,✅ Safe,2025-08-23 21:32:34
+Murter,Croatia,43.8167,15.6,23.97,Clear sky,2.09,✅ Safe,2025-08-23 21:32:35
+Nerezine,Croatia,44.6667,14.4,23.33,Few clouds,1.31,✅ Safe,2025-08-23 21:32:37
+Novalja,Croatia,44.55,14.8833,23.67,Few clouds,1.93,✅ Safe,2025-08-23 21:32:39
+Novi Vinodolski,Croatia,45.1333,14.7833,22.89,Broken clouds,1.07,✅ Safe,2025-08-23 21:32:41
+Novigrad,Croatia,45.3,13.55,23.67,Broken clouds,2.31,✅ Safe,2025-08-23 21:32:43
+Novigrad (Dalmacija),Croatia,44.1833,15.55,26.63,Few clouds,2.87,✅ Safe,2025-08-23 21:32:45
+Obonjan,Croatia,43.6833,15.7833,23.84,Clear sky,2.08,✅ Safe,2025-08-23 21:32:47
+Omis,Croatia,43.45,16.7,22.89,Clear sky,1.69,✅ Safe,2025-08-23 21:32:49
+Omisalj,Croatia,45.2167,14.55,22.87,Broken clouds,1.1,✅ Safe,2025-08-23 21:32:51
+Opatija,Croatia,45.3333,14.3,19.67,Broken clouds,0.37,✅ Safe,2025-08-23 21:32:52
+Opatovac,Croatia,45.2667,19.1667,24.76,Broken clouds,5.1,⚠ Moderate,2025-08-23 21:32:55
+Orebic,Croatia,42.9667,17.1833,24.88,Clear sky,2.25,✅ Safe,2025-08-23 21:32:57
+Osijek,Croatia,45.55,18.6833,23.84,Light rain,3.72,✅ Safe,2025-08-23 21:32:59
+Pag,Croatia,44.4333,15.05,24.05,Few clouds,0.82,✅ Safe,2025-08-23 21:33:01
+Ploce,Croatia,43.05,17.4333,24.84,Clear sky,1.7,✅ Safe,2025-08-23 21:33:02
+Plomin,Croatia,45.1333,14.1667,22.88,Broken clouds,0.58,✅ Safe,2025-08-23 21:33:04
+Polace,Croatia,42.7833,17.3833,24.76,Clear sky,2.03,✅ Safe,2025-08-23 21:33:06
+Pomena,Croatia,42.7833,17.35,24.77,Clear sky,2.15,✅ Safe,2025-08-23 21:33:08
+Porec,Croatia,45.2167,13.5833,23.79,Broken clouds,2.13,✅ Safe,2025-08-23 21:33:10
+Porozina,Croatia,45.1333,14.1333,21.64,Broken clouds,0.46,✅ Safe,2025-08-23 21:33:12
+Prapratno,Croatia,42.8167,17.6833,23.56,Few clouds,1.31,✅ Safe,2025-08-23 21:33:13
+Preko,Croatia,44.0833,15.2,24.68,Few clouds,2.29,✅ Safe,2025-08-23 21:33:15
+Primosten,Croatia,43.5833,15.9333,24.37,Clear sky,2.1,✅ Safe,2025-08-23 21:33:17
+Privlaka,Croatia,44.2667,15.1167,24.53,Few clouds,1.8,✅ Safe,2025-08-23 21:33:19
+Prizna,Croatia,44.6,14.9667,22.79,Scattered clouds,1.1,✅ Safe,2025-08-23 21:33:21
+Prvic,Croatia,43.7167,15.8,23.93,Clear sky,2.23,✅ Safe,2025-08-23 21:33:22
+Prvic Sepurine,Croatia,43.7333,15.7833,23.94,Clear sky,2.23,✅ Safe,2025-08-23 21:33:24
+Pucisca,Croatia,43.3667,16.75,25.31,Clear sky,1.97,✅ Safe,2025-08-23 21:33:26
+Pula,Croatia,44.8667,13.8333,23.74,Scattered clouds,0.99,✅ Safe,2025-08-23 21:33:27
+Punat,Croatia,45.0167,14.6333,24.07,Broken clouds,1.68,✅ Safe,2025-08-23 21:33:29
+Rab,Croatia,44.75,14.75,23.84,Scattered clouds,1.77,✅ Safe,2025-08-23 21:33:31
+Rabac,Croatia,45.0833,14.1667,20.88,Broken clouds,0.58,✅ Safe,2025-08-23 21:33:32
+Rasa,Croatia,45.0667,14.0667,22.18,Broken clouds,0.08,✅ Safe,2025-08-23 21:33:34
+Rijeka,Croatia,45.3333,14.4,22.24,Broken clouds,0.64,✅ Safe,2025-08-23 21:33:36
+Rogac,Croatia,43.4,16.3,23.94,Clear sky,2.4,✅ Safe,2025-08-23 21:33:38
+Rogoznica,Croatia,43.5333,15.9667,24.69,Clear sky,2.12,✅ Safe,2025-08-23 21:33:40
+Rovinj,Croatia,45.0833,13.6333,23.99,Broken clouds,1.95,✅ Safe,2025-08-23 21:33:41
+Rugvica,Croatia,45.7333,16.2333,22.29,Broken clouds,1.47,✅ Safe,2025-08-23 21:33:43
+Sali,Croatia,43.9333,15.1667,24.39,Clear sky,1.48,✅ Safe,2025-08-23 21:33:45
+Sarengrad,Croatia,45.2333,19.2833,24.53,Broken clouds,5.25,⚠ Moderate,2025-08-23 21:33:47
+Selce,Croatia,45.15,14.7167,24.23,Broken clouds,1.29,✅ Safe,2025-08-23 21:33:49
+Senj,Croatia,44.9833,14.9,23.91,Broken clouds,0.86,✅ Safe,2025-08-23 21:33:50
+Sibenik,Croatia,43.7333,15.8833,24.35,Clear sky,2.36,✅ Safe,2025-08-23 21:33:51
+Silba,Croatia,44.3667,14.7,23.23,Clear sky,2.43,✅ Safe,2025-08-23 21:33:53
+Silo,Croatia,45.15,14.6667,24.16,Broken clouds,1.32,✅ Safe,2025-08-23 21:33:55
+Sisak,Croatia,45.4667,16.3667,22.38,Overcast clouds,1.76,✅ Safe,2025-08-23 21:33:57
+Skradin,Croatia,43.8167,15.9167,24.62,Clear sky,3.01,✅ Safe,2025-08-23 21:33:58
+Slano,Croatia,42.7833,17.9,22.66,Scattered clouds,1.65,✅ Safe,2025-08-23 21:34:00
+Slatine,Croatia,43.5,16.35,24.14,Clear sky,2.69,✅ Safe,2025-08-23 21:34:02
+Slavonski Brod,Croatia,45.15,18.0,22.92,Broken clouds,2.29,✅ Safe,2025-08-23 21:34:03
+Sobra,Croatia,42.75,17.6167,24.24,Clear sky,0.91,✅ Safe,2025-08-23 21:34:05
+Split,Croatia,43.5,16.45,24.1,Clear sky,2.14,✅ Safe,2025-08-23 21:34:07
+Stari Grad,Croatia,43.1833,16.6,24.35,Clear sky,3.33,✅ Safe,2025-08-23 21:34:09
+Starigrad,Croatia,44.3,15.4333,23.25,Few clouds,2.1,✅ Safe,2025-08-23 21:34:11
+Stomorska,Croatia,43.3667,16.35,23.43,Clear sky,2.19,✅ Safe,2025-08-23 21:34:12
+Ston,Croatia,42.8333,17.7,23.61,Few clouds,1.31,✅ Safe,2025-08-23 21:34:14
+Sucurac,Croatia,43.55,16.4167,24.04,Clear sky,2.61,✅ Safe,2025-08-23 21:34:16
+Sucuraj,Croatia,43.1167,17.1833,24.57,Clear sky,1.89,✅ Safe,2025-08-23 21:34:17
+Sudurad,Croatia,42.7167,17.9167,24.52,Few clouds,1.31,✅ Safe,2025-08-23 21:34:19
+Sumartin,Croatia,43.2833,16.8833,25.1,Clear sky,1.81,✅ Safe,2025-08-23 21:34:20
+Supetar,Croatia,43.3833,16.55,24.14,Clear sky,1.95,✅ Safe,2025-08-23 21:34:22
+Susak,Croatia,44.5167,14.3,24.33,Clear sky,1.44,✅ Safe,2025-08-23 21:34:24
+Susak,Croatia,45.4833,14.3167,18.4,Broken clouds,0.24,✅ Safe,2025-08-23 21:34:26
+Sustjepan,Croatia,42.6667,18.1,22.45,Few clouds,1.31,✅ Safe,2025-08-23 21:34:27
+Sveti Juraj,Croatia,44.9333,14.9167,23.94,Scattered clouds,1.04,✅ Safe,2025-08-23 21:34:30
+Sveti Kajo,Croatia,43.5333,16.45,24.51,Clear sky,2.27,✅ Safe,2025-08-23 21:34:32
+Tisno,Croatia,43.8,15.65,24.35,Clear sky,2.33,✅ Safe,2025-08-23 21:34:33
+Tkon,Croatia,43.9167,15.45,25.57,Clear sky,2.03,✅ Safe,2025-08-23 21:34:35
+Tribunj,Croatia,43.75,15.75,23.85,Clear sky,2.28,✅ Safe,2025-08-23 21:34:36
+Trogir,Croatia,43.5,16.25,24.34,Clear sky,2.87,✅ Safe,2025-08-23 21:34:38
+Trpanj,Croatia,43.0167,17.2667,24.8,Clear sky,2.09,✅ Safe,2025-08-23 21:34:39
+Trstenik,Croatia,42.9167,17.4167,24.46,Clear sky,1.87,✅ Safe,2025-08-23 21:34:41
+Tunarica,Croatia,44.9667,14.1,23.3,Broken clouds,0.11,✅ Safe,2025-08-23 21:34:42
+Ubli,Croatia,42.75,16.8333,24.74,Clear sky,1.74,✅ Safe,2025-08-23 21:34:44
+Umag,Croatia,45.4167,13.5167,23.68,Broken clouds,2.24,✅ Safe,2025-08-23 21:34:45
+Unije,Croatia,44.6333,14.2333,24.32,Few clouds,1.23,✅ Safe,2025-08-23 21:34:47
+Valbiska,Croatia,45.0333,14.5,22.92,Broken clouds,2.07,✅ Safe,2025-08-23 21:34:49
+Vela Luka,Croatia,42.95,16.7167,24.5,Clear sky,2.84,✅ Safe,2025-08-23 21:34:50
+Veli Losinj,Croatia,44.5167,14.5,23.18,Few clouds,1.59,✅ Safe,2025-08-23 21:34:52
+Velika Mlaka,Croatia,45.7333,16.0167,22.21,Broken clouds,1.36,✅ Safe,2025-08-23 21:34:54
+Viganj,Croatia,42.9833,17.1,23.04,Clear sky,2.14,✅ Safe,2025-08-23 21:34:55
+Vis,Croatia,43.05,16.1667,23.07,Clear sky,1.88,✅ Safe,2025-08-23 21:34:57
+Vodice,Croatia,43.7667,15.7667,23.35,Clear sky,2.45,✅ Safe,2025-08-23 21:34:59
+Vranjic,Croatia,43.5333,16.4667,24.51,Clear sky,2.15,✅ Safe,2025-08-23 21:35:01
+Vrbnik,Croatia,45.0833,14.6833,22.91,Broken clouds,1.41,✅ Safe,2025-08-23 21:35:03
+Vrboska,Croatia,43.1833,16.6833,25.19,Clear sky,3.2,✅ Safe,2025-08-23 21:35:05
+Vrgada,Croatia,43.8667,15.5,25.22,Clear sky,2.03,✅ Safe,2025-08-23 21:35:07
+Vrsar,Croatia,45.15,13.6,23.86,Broken clouds,2.11,✅ Safe,2025-08-23 21:35:09
+Vukovar,Croatia,45.35,19.0,24.11,Broken clouds,4.34,✅ Safe,2025-08-23 21:35:10
+Zadar,Croatia,44.1167,15.2333,23.93,Few clouds,2.31,✅ Safe,2025-08-23 21:35:12
+Zigljen,Croatia,44.5833,14.95,22.41,Few clouds,1.52,✅ Safe,2025-08-23 21:35:14
+Zlarin,Croatia,43.7,15.8333,24.04,Clear sky,2.14,✅ Safe,2025-08-23 21:35:16
+Borovo Selo,Croatia,45.417,18.983,23.93,Broken clouds,4.27,✅ Safe,2025-08-23 21:35:17
+Dalmacia,Croatia,44.05,15.3,25.17,Few clouds,2.17,✅ Safe,2025-08-23 21:35:22
+Filipjakov,Croatia,43.967,15.417,25.72,Clear sky,2.11,✅ Safe,2025-08-23 21:35:24
+Kali,Croatia,44.067,15.2,23.39,Clear sky,2.21,✅ Safe,2025-08-23 21:35:25
+Kukljica,Croatia,44.033,15.25,23.83,Clear sky,2.1,✅ Safe,2025-08-23 21:35:27
+Kneza,Croatia,42.967,17.05,24.5,Clear sky,2.15,✅ Safe,2025-08-23 21:35:29
+Mali Iz,Croatia,44.033,15.133,23.21,Clear sky,2.01,✅ Safe,2025-08-23 21:35:31
+Novaglia,Croatia,44.55,14.883,23.67,Few clouds,1.93,✅ Safe,2025-08-23 21:35:33
+Pasman,Croatia,43.95,15.383,23.21,Clear sky,1.88,✅ Safe,2025-08-23 21:35:35
+Splitska,Croatia,43.367,16.6,23.51,Clear sky,2.18,✅ Safe,2025-08-23 21:35:36
+Sutivan,Croatia,43.383,16.483,23.89,Clear sky,1.96,✅ Safe,2025-08-23 21:35:38
+Turanj,Croatia,43.967,15.4,25.72,Clear sky,2.11,✅ Safe,2025-08-23 21:35:40
+Uvala Mir,Croatia,43.883,15.15,24.42,Clear sky,0.85,✅ Safe,2025-08-23 21:35:42
+Veli Iz,Croatia,44.05,15.117,23.21,Clear sky,2.02,✅ Safe,2025-08-23 21:35:43
+Vranjic,Croatia,43.53333,16.46667,24.51,Clear sky,2.15,✅ Safe,2025-08-23 21:35:45
+Zut Marina,Croatia,43.883,15.283,24.67,Clear sky,1.34,✅ Safe,2025-08-23 21:35:47

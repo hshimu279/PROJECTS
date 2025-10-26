@@ -1,0 +1,38 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Arskogssandur,Iceland,65.9333,-18.3667,16.96,Scattered clouds,1.58,✅ Safe,2025-08-23 21:45:10
+Bakkafjordur,Iceland,66.0333,-14.8,15.64,Clear sky,2.61,✅ Safe,2025-08-23 21:45:12
+Bolungarvik,Iceland,66.1333,-23.25,10.84,Overcast clouds,2.18,✅ Safe,2025-08-23 21:45:14
+Brjanslakur,Iceland,65.5333,-23.2,15.2,Light rain,1.99,✅ Safe,2025-08-23 21:45:16
+Budardalur,Iceland,65.1167,-21.7667,18.76,Overcast clouds,2.15,✅ Safe,2025-08-23 21:45:17
+Dalvik,Iceland,65.9667,-18.5333,17.23,Scattered clouds,2.21,✅ Safe,2025-08-23 21:45:19
+Djupivogur,Iceland,64.65,-14.2833,12.38,Overcast clouds,4.13,✅ Safe,2025-08-23 21:45:21
+Flatey,Iceland,65.3667,-22.9333,13.42,Overcast clouds,3.56,✅ Safe,2025-08-23 21:45:23
+Gardabaer,Iceland,64.0907747,-21.9285133,13.77,Overcast clouds,9.87,⚠ Moderate,2025-08-23 21:45:24
+Grenivik,Iceland,65.95,-18.1833,18.03,Scattered clouds,0.89,✅ Safe,2025-08-23 21:45:27
+Grindavik,Iceland,63.8333,-22.4333,12.4,Overcast clouds,15.96,⚡ Dangerous,2025-08-23 21:45:28
+Hafnir,Iceland,63.9167,-22.6833,12.48,Overcast clouds,16.06,⚡ Dangerous,2025-08-23 21:45:30
+Helguvik,Iceland,64.0333,-22.55,13.18,Overcast clouds,15.11,⚡ Dangerous,2025-08-23 21:45:31
+"Hofn, Hornafjordur",Iceland,64.25,-15.2167,11.94,Overcast clouds,0.5,✅ Safe,2025-08-23 21:45:33
+Hofsos,Iceland,65.9,-19.4333,15.3,Scattered clouds,2.75,✅ Safe,2025-08-23 21:45:35
+Kopavogur,Iceland,64.1,-21.9167,14.04,Overcast clouds,9.52,⚠ Moderate,2025-08-23 21:45:37
+Landeyjahofn,Iceland,63.5308305,-20.1170353,13.67,Overcast clouds,9.67,⚠ Moderate,2025-08-23 21:45:39
+Litli Sandur,Iceland,64.4,-21.45,14.24,Overcast clouds,4.01,✅ Safe,2025-08-23 21:45:40
+Mosfellsbaer,Iceland,64.1667,-21.7167,14.94,Light rain,6.28,⚠ Moderate,2025-08-23 21:45:42
+Olafsvik,Iceland,64.8833,-23.7167,11.04,Heavy intensity rain,4.59,✅ Safe,2025-08-23 21:45:44
+Ospakseyri,Iceland,65.45,-21.4333,16.7,Overcast clouds,2.61,✅ Safe,2025-08-23 21:45:46
+Raufarhofn,Iceland,66.45,-15.95,12.67,Clear sky,5.34,⚠ Moderate,2025-08-23 21:45:48
+Reykholar,Iceland,65.45,-22.2,16.63,Overcast clouds,3.03,✅ Safe,2025-08-23 21:45:50
+Reykjavik,Iceland,64.15,-21.95,,No Data,,❓ Unknown,2025-08-23 21:49:46
+Skagastrond,Iceland,65.8333,-20.3167,13.08,Broken clouds,1.63,✅ Safe,2025-08-23 21:49:47
+Vogar,Iceland,63.9833,-22.3833,13.13,Overcast clouds,15.19,⚡ Dangerous,2025-08-23 21:49:51
+Vopnafjordur,Iceland,65.75,-14.8333,12.13,Clear sky,1.81,✅ Safe,2025-08-23 21:49:56
+Akureyri,Iceland,65.6825509,-18.0906859,20.46,Scattered clouds,3.82,✅ Safe,2025-08-23 21:49:58
+Bildudalur - hofn,Iceland,65.6863784,-23.6006172,14.86,Light rain,2.55,✅ Safe,2025-08-23 21:49:59
+Grundartangi,Iceland,64.3603796,-21.7758052,16.04,Heavy intensity rain,3.04,✅ Safe,2025-08-23 21:50:01
+Hafnarfjordur,Iceland,64.066667,-21.933333,13.73,Overcast clouds,10.19,⚡ Dangerous,2025-08-23 21:50:03
+Husavik - hofn,Iceland,66.0449706,-17.3383442,17.41,Clear sky,2.07,✅ Safe,2025-08-23 21:50:04
+Isafjordur - hofn,Iceland,66.074878,-23.1250684,13.31,Overcast clouds,1.52,✅ Safe,2025-08-23 21:50:06
+Mjoeyrarhofn,Iceland,64.917,-13.95,12.64,Broken clouds,4.29,✅ Safe,2025-08-23 21:50:08
+Reydarfjordur,Iceland,65.0354339,-14.2159929,15.85,Few clouds,3.64,✅ Safe,2025-08-23 21:50:09
+Saudarkrokur - hofn,Iceland,65.7409444,-19.6404746,17.1,Broken clouds,0.75,✅ Safe,2025-08-23 21:50:11
+Straumsvik,Iceland,64.01503,-22.12969,13.44,Overcast clouds,13.64,⚡ Dangerous,2025-08-23 21:50:12

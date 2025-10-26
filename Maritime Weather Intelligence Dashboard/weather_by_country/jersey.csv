@@ -1,0 +1,4 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Saint Aubin,Jersey,49.1833,-2.1667,21.06,Overcast clouds,4.96,✅ Safe,2025-08-23 21:58:54
+Saint Clement,Jersey,49.1667,-2.0667,21.48,Overcast clouds,5.21,⚠ Moderate,2025-08-23 21:58:56
+Saint Helier,Jersey,49.1833,-2.1,21.32,Overcast clouds,5.11,⚠ Moderate,2025-08-23 21:58:58

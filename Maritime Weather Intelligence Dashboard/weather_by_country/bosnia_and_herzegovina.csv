@@ -1,0 +1,10 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Cazin,Bosnia and Herzegovina,44.9667,15.9333,22.92,Broken clouds,1.83,✅ Safe,2025-08-23 18:32:28
+Domaljevac,Bosnia and Herzegovina,45.05,18.5667,26.93,Few clouds,1.53,✅ Safe,2025-08-23 18:32:30
+Fojnica,Bosnia and Herzegovina,43.95,17.9,22.96,Clear sky,1.99,✅ Safe,2025-08-23 18:32:33
+Jablanica,Bosnia and Herzegovina,43.65,17.75,23.9,Clear sky,0.33,✅ Safe,2025-08-23 18:32:35
+Maglaj,Bosnia and Herzegovina,44.5333,18.0833,25.28,Scattered clouds,2.7,✅ Safe,2025-08-23 18:32:37
+Neum,Bosnia and Herzegovina,42.9167,17.6167,26.25,Scattered clouds,4.15,✅ Safe,2025-08-23 18:32:40
+Sanski Most,Bosnia and Herzegovina,44.7667,16.6667,25.57,Overcast clouds,3.71,✅ Safe,2025-08-23 18:32:42
+Vogosca,Bosnia and Herzegovina,43.9,18.35,25.37,Clear sky,1.82,✅ Safe,2025-08-23 18:32:44
+Zvornik,Bosnia and Herzegovina,44.3833,19.1,25.5,Few clouds,1.08,✅ Safe,2025-08-23 18:32:47

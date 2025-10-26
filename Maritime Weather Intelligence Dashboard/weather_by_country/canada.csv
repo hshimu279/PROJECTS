@@ -1,0 +1,358 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Adlavik,Canada,54.9167,-58.9167,8.16,Broken clouds,4.79,✅ Safe,2025-08-23 17:19:22
+Aguathuna,Canada,48.55,-58.7667,15.26,Clear sky,4.42,✅ Safe,2025-08-23 17:19:26
+Anzac,Canada,56.4333,-111.0333,9.69,Overcast clouds,1.2,✅ Safe,2025-08-23 17:19:27
+Arctic Bay,Canada,73.0333,-85.1667,6.37,Overcast clouds,2.95,✅ Safe,2025-08-23 17:19:29
+Argentia,Canada,47.3,-54.0,11.51,Broken clouds,10.25,⚡ Dangerous,2025-08-23 17:19:31
+Arichat,Canada,45.5167,-61.0167,15.63,Clear sky,2.31,✅ Safe,2025-08-23 17:19:32
+Arnold's Cove,Canada,47.7667,-53.9833,11.72,Scattered clouds,7.13,⚠ Moderate,2025-08-23 17:19:34
+Arviat,Canada,61.1,-94.05,8.12,Broken clouds,4.32,✅ Safe,2025-08-23 17:19:35
+Asquith,Canada,52.1167,-107.2167,9.82,Few clouds,1.36,✅ Safe,2025-08-23 17:19:37
+Atholville,Canada,47.9833,-66.7167,13.57,Light rain,1.0,✅ Safe,2025-08-23 17:19:39
+Avondale,Canada,47.4167,-53.2,11.05,Overcast clouds,9.23,⚠ Moderate,2025-08-23 17:19:41
+Avonport,Canada,45.1,-64.25,15.71,Few clouds,2.51,✅ Safe,2025-08-23 17:19:43
+Baie Verte,Canada,49.9167,-56.1833,10.63,Few clouds,3.9,✅ Safe,2025-08-23 17:19:45
+Baie-Johan-Beetz,Canada,50.3,-62.8333,13.97,Broken clouds,4.48,✅ Safe,2025-08-23 17:19:46
+Baker Lake,Canada,64.3167,-96.0333,8.04,Broken clouds,2.51,✅ Safe,2025-08-23 17:19:48
+Bala,Canada,45.0,-79.6,17.93,Overcast clouds,2.22,✅ Safe,2025-08-23 17:19:50
+Bald Rock,Canada,44.4667,-63.5667,15.44,Scattered clouds,1.16,✅ Safe,2025-08-23 17:19:52
+Bantry,Canada,50.4833,-111.7333,10.77,Clear sky,2.67,✅ Safe,2025-08-23 17:19:53
+Barrington,Canada,43.5667,-65.5667,16.26,Clear sky,1.22,✅ Safe,2025-08-23 17:19:55
+Bay Bulls,Canada,47.3333,-52.8333,10.08,Overcast clouds,10.67,⚡ Dangerous,2025-08-23 17:19:56
+Bay Roberts,Canada,47.5833,-53.3,11.0,Overcast clouds,9.06,⚠ Moderate,2025-08-23 17:19:58
+"Bayside, Charlotte",Canada,45.1333,-67.1167,17.24,Few clouds,3.12,✅ Safe,2025-08-23 17:20:00
+Beach Point,Canada,46.0167,-62.4833,16.8,Scattered clouds,1.97,✅ Safe,2025-08-23 17:20:01
+Beaver Cove,Canada,50.5167,-126.8667,12.53,Clear sky,0.53,✅ Safe,2025-08-23 17:20:03
+Becancour,Canada,46.3333,-72.4333,19.39,Broken clouds,5.42,⚠ Moderate,2025-08-23 17:20:05
+Bedford,Canada,44.7167,-63.6833,16.67,Scattered clouds,1.16,✅ Safe,2025-08-23 17:20:07
+Beresford,Canada,47.6833,-65.7,14.86,Overcast clouds,3.11,✅ Safe,2025-08-23 17:20:20
+Bobcaygeon,Canada,44.5333,-78.55,17.76,Overcast clouds,2.55,✅ Safe,2025-08-23 17:20:33
+Borden,Canada,46.25,-63.7,16.79,Broken clouds,4.08,✅ Safe,2025-08-23 17:20:36
+Botwood,Canada,49.15,-55.3667,11.84,Few clouds,5.28,⚠ Moderate,2025-08-23 17:20:39
+Bouctouche,Canada,46.4667,-64.7167,16.19,Broken clouds,2.94,✅ Safe,2025-08-23 17:20:41
+Bow City,Canada,50.4167,-112.2667,10.61,Clear sky,2.12,✅ Safe,2025-08-23 17:20:43
+Bowen Island,Canada,49.3667,-123.3333,14.76,Clear sky,2.55,✅ Safe,2025-08-23 17:20:45
+Brentwood Bay,Canada,48.5833,-123.45,15.14,Clear sky,1.57,✅ Safe,2025-08-23 17:20:47
+Bull Arm,Canada,47.8333,-53.8667,11.58,Broken clouds,8.66,⚠ Moderate,2025-08-23 17:20:49
+Burgeo,Canada,47.6,-57.6333,13.93,Clear sky,3.71,✅ Safe,2025-08-23 17:20:51
+Burin,Canada,47.05,-55.1833,12.04,Broken clouds,9.29,⚠ Moderate,2025-08-23 17:20:53
+Burnside,Canada,48.7,-53.8,10.5,Scattered clouds,8.69,⚠ Moderate,2025-08-23 17:20:55
+Burrard Inlet,Canada,49.3,-123.1833,15.78,Clear sky,1.2,✅ Safe,2025-08-23 17:20:57
+Cambridge Bay,Canada,69.1167,-105.0833,10.47,Broken clouds,2.7,✅ Safe,2025-08-23 17:20:58
+Campbell River,Canada,50.0167,-125.25,15.33,Clear sky,2.73,✅ Safe,2025-08-23 17:21:00
+Campbellford,Canada,44.3,-77.7833,18.03,Overcast clouds,1.94,✅ Safe,2025-08-23 17:21:02
+Canso,Canada,45.3333,-61.0,15.76,Clear sky,3.27,✅ Safe,2025-08-23 17:21:04
+Cap-Chat,Canada,49.0833,-66.6833,12.81,Moderate rain,2.75,✅ Safe,2025-08-23 17:21:06
+Cape Ray,Canada,47.6333,-59.3,15.86,Clear sky,3.98,✅ Safe,2025-08-23 17:21:09
+Cap-St-Ignace,Canada,47.0333,-70.45,19.99,Broken clouds,6.52,⚠ Moderate,2025-08-23 17:21:17
+Carberry,Canada,49.8667,-99.35,13.34,Overcast clouds,5.51,⚠ Moderate,2025-08-23 17:21:18
+Carbonear,Canada,47.7333,-53.25,10.77,Overcast clouds,8.93,⚠ Moderate,2025-08-23 17:21:20
+Carmanville,Canada,49.3667,-54.2667,10.1,Scattered clouds,9.07,⚠ Moderate,2025-08-23 17:21:21
+Catalina,Canada,48.5167,-53.0833,9.87,Overcast clouds,9.07,⚠ Moderate,2025-08-23 17:21:24
+Change Islands,Canada,49.6667,-54.4167,9.59,Few clouds,10.18,⚡ Dangerous,2025-08-23 17:21:26
+Channel-Port aux Basques,Canada,47.5667,-59.15,15.68,Clear sky,3.53,✅ Safe,2025-08-23 17:21:27
+Charlottetown,Canada,46.2333,-63.1333,17.19,Broken clouds,2.14,✅ Safe,2025-08-23 17:21:29
+Chateau-Richer,Canada,46.9667,-71.0167,19.41,Overcast clouds,3.69,✅ Safe,2025-08-23 17:21:30
+Chesterfield Inlet,Canada,63.3333,-90.7,9.28,Broken clouds,1.68,✅ Safe,2025-08-23 17:21:32
+Chestermere,Canada,51.0333,-113.8167,8.99,Clear sky,1.5,✅ Safe,2025-08-23 17:21:34
+Cheticamp,Canada,46.6167,-61.0167,17.26,Clear sky,3.59,✅ Safe,2025-08-23 17:21:36
+Churchill,Canada,58.7667,-94.1833,9.18,Overcast clouds,6.79,⚠ Moderate,2025-08-23 17:21:38
+Clarenville,Canada,48.15,-53.9667,11.32,Scattered clouds,6.86,⚠ Moderate,2025-08-23 17:21:40
+Clark's Harbour,Canada,43.45,-65.6333,15.28,Clear sky,1.37,✅ Safe,2025-08-23 17:21:42
+Clearwater,Canada,51.65,-120.0333,11.82,Clear sky,1.23,✅ Safe,2025-08-23 17:21:44
+Cleveland,Canada,44.65,-64.0,16.5,Few clouds,0.81,✅ Safe,2025-08-23 17:21:45
+Clifford,Canada,43.9667,-80.9667,17.44,Overcast clouds,4.15,✅ Safe,2025-08-23 17:21:47
+Coal Harbour,Canada,49.2890842,-123.1224997,15.99,Clear sky,1.23,✅ Safe,2025-08-23 17:21:49
+Cobourg,Canada,43.9667,-78.1667,18.56,Overcast clouds,3.39,✅ Safe,2025-08-23 17:21:51
+Coley's Point,Canada,47.5833,-53.2667,11.15,Overcast clouds,9.23,⚠ Moderate,2025-08-23 17:21:52
+Come By Chance,Canada,47.85,-53.9833,11.26,Scattered clouds,7.16,⚠ Moderate,2025-08-23 17:21:54
+Coniston,Canada,46.4833,-80.85,18.23,Overcast clouds,3.3,✅ Safe,2025-08-23 17:21:56
+Coral Harbour,Canada,64.1333,-83.1667,9.52,Scattered clouds,2.05,✅ Safe,2025-08-23 17:21:57
+Corner Brook,Canada,48.95,-57.9333,13.82,Scattered clouds,0.85,✅ Safe,2025-08-23 17:21:59
+Cow Head,Canada,49.9,-57.7833,13.28,Scattered clouds,3.78,✅ Safe,2025-08-23 17:22:01
+Cranford,Canada,49.75,-112.35,10.6,Clear sky,1.46,✅ Safe,2025-08-23 17:22:03
+Crystal City,Canada,49.1333,-98.95,11.43,Overcast clouds,6.59,⚠ Moderate,2025-08-23 17:22:05
+Daniels Harbour,Canada,50.2333,-57.5833,12.16,Few clouds,4.28,✅ Safe,2025-08-23 17:22:06
+Deer Island,Canada,44.9667,-66.9667,15.34,Few clouds,3.04,✅ Safe,2025-08-23 17:22:08
+Delta,Canada,49.0833,-123.0,15.68,Clear sky,1.07,✅ Safe,2025-08-23 17:22:10
+Denman Island,Canada,49.55,-124.8,14.91,Clear sky,1.96,✅ Safe,2025-08-23 17:22:11
+Dildo,Canada,47.55,-53.55,12.19,Broken clouds,7.8,⚠ Moderate,2025-08-23 17:22:13
+Dingwall,Canada,46.9,-60.4667,17.45,Clear sky,2.97,✅ Safe,2025-08-23 17:22:14
+Dublin,Canada,43.5,-81.2833,17.52,Overcast clouds,3.36,✅ Safe,2025-08-23 17:22:16
+East Angus,Canada,45.4833,-71.6667,17.49,Broken clouds,1.59,✅ Safe,2025-08-23 17:22:17
+Emerald Park,Canada,50.7333,-104.6333,7.1,Clear sky,2.05,✅ Safe,2025-08-23 17:22:19
+Endako,Canada,54.0833,-125.0167,8.11,Clear sky,0.57,✅ Safe,2025-08-23 17:22:20
+English Bay,Canada,49.2667,-123.1667,15.8,Clear sky,0.89,✅ Safe,2025-08-23 17:22:22
+Etang-du-Nord,Canada,47.3667,-61.9333,16.17,Few clouds,1.49,✅ Safe,2025-08-23 17:22:23
+Etzikom,Canada,49.4833,-111.1,10.24,Clear sky,3.92,✅ Safe,2025-08-23 17:22:25
+Fall River,Canada,44.8167,-63.6167,17.08,Few clouds,1.38,✅ Safe,2025-08-23 17:22:26
+Fogo,Canada,49.7167,-54.2833,9.42,Scattered clouds,10.35,⚡ Dangerous,2025-08-23 17:22:27
+Forest,Canada,43.1,-82.0,18.52,Overcast clouds,4.02,✅ Safe,2025-08-23 17:22:29
+Fort Frances,Canada,48.6,-93.4,12.92,Broken clouds,5.1,⚠ Moderate,2025-08-23 17:22:30
+Fort Franklin,Canada,65.1833,-123.4167,12.83,Overcast clouds,2.7,✅ Safe,2025-08-23 17:22:32
+Fort Langley,Canada,49.1667,-122.5667,15.43,Clear sky,1.6,✅ Safe,2025-08-23 17:22:33
+Fort MacKay,Canada,57.1833,-111.6333,10.28,Broken clouds,1.06,✅ Safe,2025-08-23 17:22:35
+Fort William,Canada,48.4,-89.2333,15.77,Broken clouds,6.42,⚠ Moderate,2025-08-23 17:22:36
+Fortune,Canada,47.0667,-55.8333,12.38,Few clouds,10.48,⚡ Dangerous,2025-08-23 17:22:38
+Fraser Wharves,Canada,50.9667,-119.2,12.06,Clear sky,1.65,✅ Safe,2025-08-23 17:22:39
+Fraser-Surrey Docks,Canada,49.1167,-122.7333,15.57,Clear sky,0.98,✅ Safe,2025-08-23 17:22:40
+Fredericton,Canada,45.95,-66.65,17.33,Broken clouds,3.37,✅ Safe,2025-08-23 17:22:42
+Galt,Canada,43.35,-80.3,17.86,Overcast clouds,2.68,✅ Safe,2025-08-23 17:22:43
+Gander,Canada,48.95,-54.55,10.79,Clear sky,6.02,⚠ Moderate,2025-08-23 17:22:45
+Gaspe,Canada,48.8333,-64.4833,14.08,Broken clouds,2.15,✅ Safe,2025-08-23 17:22:47
+Gjoa Haven,Canada,68.6167,-95.8333,7.72,Few clouds,4.47,✅ Safe,2025-08-23 17:22:49
+Glace Bay,Canada,46.2,-59.9667,17.09,Clear sky,4.87,✅ Safe,2025-08-23 17:22:51
+Goose Bay,Canada,53.4,-60.1667,7.62,Clear sky,1.88,✅ Safe,2025-08-23 17:22:52
+Grand Bank,Canada,47.1,-55.7833,12.32,Few clouds,10.18,⚡ Dangerous,2025-08-23 17:22:54
+Grand Manan,Canada,44.7,-66.8,14.76,Few clouds,4.08,✅ Safe,2025-08-23 17:22:56
+Grande-Digue,Canada,46.2833,-64.55,16.46,Broken clouds,3.15,✅ Safe,2025-08-23 17:22:57
+Grise Fiord,Canada,76.4167,-82.95,3.67,Overcast clouds,0.6,✅ Safe,2025-08-23 17:22:59
+Hacketts Cove,Canada,44.5667,-63.9333,16.07,Scattered clouds,0.74,✅ Safe,2025-08-23 17:23:00
+Halton Hills,Canada,43.6167,-79.95,17.89,Overcast clouds,3.32,✅ Safe,2025-08-23 17:23:02
+Hampden,Canada,49.5333,-56.8667,12.48,Scattered clouds,3.45,✅ Safe,2025-08-23 17:23:04
+Hanover,Canada,44.1333,-81.0167,17.96,Overcast clouds,4.19,✅ Safe,2025-08-23 17:23:05
+Hants Harbour,Canada,48.0167,-53.2667,10.24,Overcast clouds,10.42,⚡ Dangerous,2025-08-23 17:23:07
+Harbour Breton,Canada,47.4833,-55.8333,12.32,Few clouds,8.89,⚠ Moderate,2025-08-23 17:23:09
+Harbour Grace,Canada,47.6833,-53.25,10.68,Overcast clouds,9.06,⚠ Moderate,2025-08-23 17:23:11
+Harriet Harbour,Canada,56.130366,-106.346771,8.31,Overcast clouds,0.98,✅ Safe,2025-08-23 17:23:13
+Harwood,Canada,44.1333,-78.1833,18.13,Overcast clouds,3.38,✅ Safe,2025-08-23 17:23:14
+Hebertville,Canada,48.3833,-71.6833,17.63,Overcast clouds,3.01,✅ Safe,2025-08-23 17:23:16
+Hebron,Canada,58.2,-62.6333,8.04,Overcast clouds,1.39,✅ Safe,2025-08-23 17:23:18
+Hemmingford,Canada,45.05,-73.6,18.41,Scattered clouds,2.0,✅ Safe,2025-08-23 17:23:19
+Herschel Island,Canada,69.5667,-139.0667,3.93,Overcast clouds,6.95,⚠ Moderate,2025-08-23 17:23:21
+Hibernia,Canada,44.3333,-64.9833,15.81,Scattered clouds,1.22,✅ Safe,2025-08-23 17:23:23
+Holyrood,Canada,47.3833,-53.1333,10.98,Overcast clouds,9.45,⚠ Moderate,2025-08-23 17:23:24
+Hopedale,Canada,55.45,-60.2167,6.83,Clear sky,5.86,⚠ Moderate,2025-08-23 17:23:26
+Horsefly,Canada,52.3333,-121.4167,9.84,Clear sky,0.41,✅ Safe,2025-08-23 17:23:28
+Igloolik,Canada,69.3667,-81.8167,4.46,Overcast clouds,1.46,✅ Safe,2025-08-23 17:23:30
+Imperial,Canada,51.3333,-105.4333,9.37,Clear sky,2.67,✅ Safe,2025-08-23 17:23:32
+Indian Arm,Canada,49.3667,-122.8667,15.65,Clear sky,2.14,✅ Safe,2025-08-23 17:23:33
+Inkerman,Canada,45.0333,-75.4,18.42,Overcast clouds,4.08,✅ Safe,2025-08-23 17:23:35
+Invermere,Canada,50.5167,-116.0333,8.75,Clear sky,1.06,✅ Safe,2025-08-23 17:23:37
+Iqaluit,Canada,63.7333,-68.5,8.14,Broken clouds,4.62,✅ Safe,2025-08-23 17:23:38
+Irvine,Canada,49.95,-110.2667,10.66,Clear sky,1.71,✅ Safe,2025-08-23 17:23:40
+Island Lake,Canada,53.8667,-94.6667,11.8,Light rain,6.68,⚠ Moderate,2025-08-23 17:23:42
+Jackson Arm,Canada,49.8667,-56.8,10.8,Scattered clouds,3.1,✅ Safe,2025-08-23 17:23:44
+Jemseg,Canada,45.8167,-66.1,17.86,Broken clouds,3.5,✅ Safe,2025-08-23 17:23:45
+Kaslo,Canada,49.9,-116.9167,8.3,Clear sky,1.35,✅ Safe,2025-08-23 17:23:47
+Key Harbour,Canada,45.8833,-80.7333,20.33,Overcast clouds,6.12,⚠ Moderate,2025-08-23 17:23:49
+Kinnear's Mills,Canada,46.2167,-71.3833,18.21,Overcast clouds,3.18,✅ Safe,2025-08-23 17:23:50
+Kovik Bay,Canada,61.55,-77.7333,9.49,Clear sky,6.1,⚠ Moderate,2025-08-23 17:23:52
+Kuujjuaq,Canada,58.1,-68.4,8.15,Clear sky,4.29,✅ Safe,2025-08-23 17:23:54
+La Salle,Canada,49.7,-97.2667,13.59,Overcast clouds,5.68,⚠ Moderate,2025-08-23 17:23:55
+Lac La Biche,Canada,54.7667,-111.95,11.05,Broken clouds,0.68,✅ Safe,2025-08-23 17:23:57
+Lac-Drolet,Canada,45.7167,-70.85,16.23,Broken clouds,1.72,✅ Safe,2025-08-23 17:23:59
+Lakeshore,Canada,42.2833,-82.7333,18.65,Broken clouds,3.59,✅ Safe,2025-08-23 17:24:00
+Lansdowne,Canada,52.2167,-87.8833,15.37,Overcast clouds,2.26,✅ Safe,2025-08-23 17:24:02
+L'Anse-a-Beaufils,Canada,48.4667,-64.3,14.26,Broken clouds,3.96,✅ Safe,2025-08-23 17:24:04
+L'Anse-au-Loup,Canada,51.5167,-56.8333,9.54,Few clouds,3.66,✅ Safe,2025-08-23 17:24:05
+Lantzville,Canada,49.25,-124.0833,15.69,Clear sky,4.28,✅ Safe,2025-08-23 17:24:07
+Laverlochere,Canada,47.4167,-79.2833,16.02,Overcast clouds,2.96,✅ Safe,2025-08-23 17:24:08
+Les Mechins,Canada,49.0,-66.9667,13.5,Overcast clouds,3.89,✅ Safe,2025-08-23 17:24:10
+Levis,Canada,46.8,-71.1667,19.74,Overcast clouds,3.37,✅ Safe,2025-08-23 17:24:12
+Lewisporte,Canada,49.2333,-55.0667,11.37,Clear sky,5.98,⚠ Moderate,2025-08-23 17:24:14
+L'Ile-des-Soeurs (Nuns Island),Canada,45.3,-74.0333,18.51,Broken clouds,2.7,✅ Safe,2025-08-23 17:24:16
+Lobo,Canada,43.0,-81.4167,17.77,Overcast clouds,2.36,✅ Safe,2025-08-23 17:24:17
+Lockeport,Canada,43.7,-65.1167,16.33,Clear sky,1.45,✅ Safe,2025-08-23 17:24:23
+Lomond,Canada,49.45,-57.7667,14.81,Few clouds,1.68,✅ Safe,2025-08-23 17:24:25
+Long Harbour,Canada,47.4333,-53.8,12.0,Broken clouds,8.31,⚠ Moderate,2025-08-23 17:24:27
+Long Pond,Canada,48.0,-55.9167,11.68,Broken clouds,7.94,⚠ Moderate,2025-08-23 17:24:29
+Louisbourg,Canada,45.9167,-59.9833,17.31,Few clouds,3.85,✅ Safe,2025-08-23 17:24:31
+Lowbanks,Canada,42.8667,-79.45,18.41,Broken clouds,4.86,✅ Safe,2025-08-23 17:24:32
+Lower Cove,Canada,48.5167,-59.0,16.22,Few clouds,4.75,✅ Safe,2025-08-23 17:24:34
+Lower Woods Harbour,Canada,43.5167,-65.7333,14.74,Clear sky,1.24,✅ Safe,2025-08-23 17:24:36
+Mabou,Canada,46.0667,-61.3833,16.97,Clear sky,3.09,✅ Safe,2025-08-23 17:24:37
+Magog,Canada,45.2667,-72.15,17.47,Broken clouds,2.15,✅ Safe,2025-08-23 17:24:39
+Main Brook,Canada,51.1833,-56.0167,9.62,Broken clouds,5.4,⚠ Moderate,2025-08-23 17:24:40
+Malartic,Canada,48.1333,-78.1167,16.23,Overcast clouds,3.11,✅ Safe,2025-08-23 17:24:42
+Mary's Harbour,Canada,52.3167,-55.8333,8.95,Overcast clouds,6.82,⚠ Moderate,2025-08-23 17:24:43
+Marystown,Canada,47.1667,-55.1667,11.93,Scattered clouds,8.43,⚠ Moderate,2025-08-23 17:24:45
+Meaford,Canada,44.6,-80.6,18.8,Overcast clouds,5.53,⚠ Moderate,2025-08-23 17:24:47
+Merigomish,Canada,45.6167,-62.4167,16.25,Few clouds,2.87,✅ Safe,2025-08-23 17:24:48
+Metiskow,Canada,52.4,-110.6333,10.04,Few clouds,1.12,✅ Safe,2025-08-23 17:24:49
+Millbank,Canada,47.05,-65.45,14.34,Overcast clouds,2.65,✅ Safe,2025-08-23 17:24:51
+Milne Inlet Port,Canada,72.2467491,-80.5453401,2.13,Overcast clouds,0.79,✅ Safe,2025-08-23 17:24:53
+Mindemoya,Canada,45.7333,-82.1667,18.9,Overcast clouds,4.37,✅ Safe,2025-08-23 17:24:55
+Minesville,Canada,44.6833,-63.3667,16.28,Few clouds,1.48,✅ Safe,2025-08-23 17:24:56
+Minto,Canada,43.9134019,-80.8717169,17.34,Overcast clouds,3.83,✅ Safe,2025-08-23 17:24:58
+Mission,Canada,49.1333,-122.3,14.37,Clear sky,2.18,✅ Safe,2025-08-23 17:24:59
+Mont-Louis,Canada,49.2167,-65.75,12.52,Moderate rain,4.75,✅ Safe,2025-08-23 17:25:01
+Montreal-Est,Canada,45.6333,-73.5,18.74,Broken clouds,3.76,✅ Safe,2025-08-23 17:25:02
+Mould Bay,Canada,76.2333,-119.35,-1.49,Overcast clouds,5.82,⚠ Moderate,2025-08-23 17:25:04
+Musquodoboit Harbour,Canada,44.7833,-63.1333,16.46,Few clouds,1.56,✅ Safe,2025-08-23 17:25:06
+Nain,Canada,56.55,-61.6833,8.17,Broken clouds,0.99,✅ Safe,2025-08-23 17:25:07
+Nakusp,Canada,50.2333,-117.8,10.76,Clear sky,0.67,✅ Safe,2025-08-23 17:25:09
+Nanticoke,Canada,42.8,-80.0667,18.5,Broken clouds,4.95,✅ Safe,2025-08-23 17:25:11
+Naramata,Canada,49.6,-119.5833,13.08,Clear sky,0.83,✅ Safe,2025-08-23 17:25:13
+Neil's Harbour,Canada,46.25,-60.55,17.91,Clear sky,1.2,✅ Safe,2025-08-23 17:25:14
+Nelson,Canada,49.4833,-117.3,11.8,Clear sky,2.26,✅ Safe,2025-08-23 17:25:16
+Newton,Canada,49.9333,-98.0667,13.4,Overcast clouds,8.05,⚠ Moderate,2025-08-23 17:25:18
+Niagara-on-the-Lake,Canada,43.25,-79.0667,18.78,Overcast clouds,2.87,✅ Safe,2025-08-23 17:25:19
+Norman's Cove,Canada,47.55,-53.6667,11.72,Broken clouds,8.25,⚠ Moderate,2025-08-23 17:25:21
+North Bend,Canada,49.8833,-121.4667,7.58,Clear sky,2.11,✅ Safe,2025-08-23 17:25:22
+Notre-Dame-de-Lourdes,Canada,49.5333,-98.55,12.36,Overcast clouds,7.23,⚠ Moderate,2025-08-23 17:25:24
+Notre-Dame-du-Bon-Conseil,Canada,46.0,-72.35,18.74,Overcast clouds,4.22,✅ Safe,2025-08-23 17:25:25
+Oakville,Canada,49.9167,-98.0,13.43,Light rain,7.96,⚠ Moderate,2025-08-23 17:25:27
+Odessa,Canada,44.2667,-76.7167,18.31,Overcast clouds,4.34,✅ Safe,2025-08-23 17:25:29
+Oliver,Canada,49.1667,-119.55,13.57,Clear sky,1.88,✅ Safe,2025-08-23 17:25:31
+Orleans,Canada,45.45,-75.5333,18.95,Overcast clouds,3.29,✅ Safe,2025-08-23 17:25:33
+Philipsburg,Canada,45.0333,-73.0667,18.41,Broken clouds,5.23,⚠ Moderate,2025-08-23 17:25:35
+Pleasantville,Canada,44.3333,-64.4333,16.45,Scattered clouds,1.38,✅ Safe,2025-08-23 17:25:36
+Pohenegamook,Canada,47.4833,-69.2833,19.1,Overcast clouds,3.37,✅ Safe,2025-08-23 17:25:38
+Point Edward,Canada,43.0,-82.4,18.68,Overcast clouds,3.23,✅ Safe,2025-08-23 17:25:40
+Point Tupper,Canada,45.6,-61.3667,16.42,Clear sky,2.05,✅ Safe,2025-08-23 17:25:41
+Pointe Noire,Canada,50.15,-66.4833,12.0,Moderate rain,3.41,✅ Safe,2025-08-23 17:25:43
+Pointe-aux-Trembles,Canada,45.65,-73.4833,18.8,Broken clouds,3.96,✅ Safe,2025-08-23 17:25:44
+Pointe-Claire,Canada,45.4333,-73.7333,18.59,Broken clouds,2.61,✅ Safe,2025-08-23 17:25:46
+Pointe-Fortune,Canada,45.5667,-74.3667,18.5,Broken clouds,2.8,✅ Safe,2025-08-23 17:25:48
+Port au Port,Canada,48.55,-58.7167,15.45,Clear sky,4.12,✅ Safe,2025-08-23 17:25:49
+Port Elgin,Canada,46.0333,-64.0833,16.34,Scattered clouds,2.73,✅ Safe,2025-08-23 17:25:51
+Port McNeill,Canada,50.5833,-127.1,12.59,Clear sky,0.39,✅ Safe,2025-08-23 17:25:53
+Port Weller,Canada,43.2167,-79.2167,18.92,Overcast clouds,2.87,✅ Safe,2025-08-23 17:25:55
+Port-Alfred,Canada,48.3333,-70.8833,18.65,Overcast clouds,0.66,✅ Safe,2025-08-23 17:25:56
+Port-Cartier,Canada,50.0167,-66.8667,11.81,Moderate rain,2.77,✅ Safe,2025-08-23 17:25:58
+Port-Daniel,Canada,48.1833,-64.9833,14.21,Overcast clouds,2.03,✅ Safe,2025-08-23 17:26:00
+Port-Daniel - Gascons,Canada,48.1667,-64.9167,14.96,Overcast clouds,2.74,✅ Safe,2025-08-23 17:26:02
+Port-Menier,Canada,49.8167,-64.35,13.11,Overcast clouds,3.91,✅ Safe,2025-08-23 17:26:04
+Preissac,Canada,48.4,-78.3667,16.19,Light rain,3.27,✅ Safe,2025-08-23 17:26:05
+Prevost,Canada,45.8667,-74.0833,17.64,Broken clouds,3.1,✅ Safe,2025-08-23 17:26:07
+Prospect,Canada,44.4667,-63.7833,15.45,Scattered clouds,0.82,✅ Safe,2025-08-23 17:26:08
+Ramea,Canada,47.5167,-57.4167,13.32,Clear sky,4.48,✅ Safe,2025-08-23 17:26:10
+Rankin Inlet,Canada,62.8167,-92.0667,8.99,Overcast clouds,1.1,✅ Safe,2025-08-23 17:26:11
+Riviere-du-Loup,Canada,47.8333,-69.5333,17.16,Overcast clouds,4.4,✅ Safe,2025-08-23 17:26:13
+Robert's Bank,Canada,49.0667,-123.1667,15.75,Clear sky,3.74,✅ Safe,2025-08-23 17:26:14
+Robertsonville,Canada,46.1333,-71.2167,17.46,Overcast clouds,2.89,✅ Safe,2025-08-23 17:26:16
+Rockwood,Canada,43.6167,-80.1333,17.34,Overcast clouds,3.18,✅ Safe,2025-08-23 17:26:17
+Rocky View County,Canada,51.1833,-113.9333,8.63,Clear sky,2.01,✅ Safe,2025-08-23 17:26:19
+Roddickton,Canada,50.85,-56.1167,10.49,Clear sky,4.45,✅ Safe,2025-08-23 17:26:21
+Rossport,Canada,48.8333,-87.5167,13.92,Broken clouds,4.19,✅ Safe,2025-08-23 17:26:22
+Saguenay,Canada,48.4167,-71.0667,18.39,Overcast clouds,0.66,✅ Safe,2025-08-23 17:26:23
+Saint Albert,Canada,53.6333,-113.6333,10.96,Clear sky,2.1,✅ Safe,2025-08-23 17:26:25
+Saint-Anthony,Canada,51.3833,-55.6,7.66,Broken clouds,7.43,⚠ Moderate,2025-08-23 17:26:26
+Saint-Armand,Canada,45.0167,-73.0333,18.37,Broken clouds,4.79,✅ Safe,2025-08-23 17:26:27
+Saint-Augustin,Canada,51.2333,-58.65,11.77,Few clouds,2.86,✅ Safe,2025-08-23 17:26:29
+Saint-Bruno-Lac-Saint-Jean,Canada,48.4667,-71.6667,17.47,Overcast clouds,2.19,✅ Safe,2025-08-23 17:26:30
+Saint-Catharines,Canada,43.1667,-79.2333,18.77,Overcast clouds,2.64,✅ Safe,2025-08-23 17:26:32
+Saint-Charles-sur-Richelieu,Canada,45.6833,-73.1833,18.76,Broken clouds,4.3,✅ Safe,2025-08-23 17:26:33
+Saint-Damien-de-Brandon,Canada,46.3333,-73.4833,17.72,Broken clouds,2.05,✅ Safe,2025-08-23 17:26:35
+Sainte-Catherine,Canada,45.4,-73.5833,18.67,Broken clouds,2.17,✅ Safe,2025-08-23 17:26:36
+Sainte-Famille,Canada,46.9667,-70.9667,20.17,Overcast clouds,4.03,✅ Safe,2025-08-23 17:26:38
+Saint-Eustache,Canada,45.5667,-73.9,18.28,Broken clouds,3.77,✅ Safe,2025-08-23 17:26:39
+Saint-Felix-de-Kingsey,Canada,45.8,-72.1833,18.04,Broken clouds,2.99,✅ Safe,2025-08-23 17:26:40
+Saint-Felix-de-Valois,Canada,46.1667,-73.4,18.22,Broken clouds,3.09,✅ Safe,2025-08-23 17:26:42
+Saint-Francois-du-Lac,Canada,46.0667,-72.8333,19.03,Broken clouds,6.09,⚠ Moderate,2025-08-23 17:26:44
+Saint-Gedeon,Canada,48.4833,-71.7833,17.8,Overcast clouds,2.76,✅ Safe,2025-08-23 17:26:45
+Saint-Isidore d'Auckland,Canada,45.2667,-71.5167,16.56,Scattered clouds,2.33,✅ Safe,2025-08-23 17:26:46
+Saint-John,Canada,45.2667,-66.0667,17.43,Broken clouds,2.84,✅ Safe,2025-08-23 17:26:48
+Saint-John's,Canada,47.5667,-52.7333,9.97,Overcast clouds,9.33,⚠ Moderate,2025-08-23 17:26:49
+Saint-Joseph-de-Beauce,Canada,46.3,-70.8667,18.49,Broken clouds,2.51,✅ Safe,2025-08-23 17:26:51
+Saint-Lambert,Canada,45.4833,-73.5,18.76,Scattered clouds,2.45,✅ Safe,2025-08-23 17:26:54
+Saint-Lawrence,Canada,46.9,-55.4,12.06,Scattered clouds,9.06,⚠ Moderate,2025-08-23 17:26:55
+Saint-Marys,Canada,46.9167,-53.5833,12.5,Overcast clouds,9.61,⚠ Moderate,2025-08-23 17:26:57
+Saint-Pascal,Canada,47.5333,-69.8,19.06,Overcast clouds,6.32,⚠ Moderate,2025-08-23 17:26:58
+Saint-Pierre,Canada,45.45,-73.6333,18.48,Broken clouds,2.54,✅ Safe,2025-08-23 17:27:01
+Saint-Romuald-d'Etchemin,Canada,46.75,-71.2333,20.18,Overcast clouds,3.43,✅ Safe,2025-08-23 17:27:03
+Saint-Shotts,Canada,46.6333,-53.6,12.35,Overcast clouds,11.48,⚡ Dangerous,2025-08-23 17:27:05
+Saint-Tite,Canada,46.7333,-72.5667,18.56,Overcast clouds,2.95,✅ Safe,2025-08-23 17:27:06
+Saint-Zotique,Canada,45.2333,-74.25,18.56,Broken clouds,3.75,✅ Safe,2025-08-23 17:27:08
+Sandy Beach,Canada,48.8167,-64.4167,14.95,Broken clouds,2.36,✅ Safe,2025-08-23 17:27:09
+Sanford,Canada,49.6667,-97.4333,13.54,Overcast clouds,5.95,⚠ Moderate,2025-08-23 17:27:11
+Sayward,Canada,50.35,-125.9167,12.04,Clear sky,1.53,✅ Safe,2025-08-23 17:27:12
+Sedgewick,Canada,52.7667,-111.6833,10.52,Clear sky,1.31,✅ Safe,2025-08-23 17:27:13
+Seldom,Canada,49.6,-54.1667,9.48,Scattered clouds,10.67,⚡ Dangerous,2025-08-23 17:27:15
+Sept-Iles,Canada,50.2,-66.3833,12.2,Moderate rain,2.76,✅ Safe,2025-08-23 17:27:16
+Seven Islands Bay,Canada,59.4167,-63.75,6.97,Few clouds,1.81,✅ Safe,2025-08-23 17:27:18
+Shaunavon,Canada,49.65,-108.4,9.29,Clear sky,0.52,✅ Safe,2025-08-23 17:27:19
+Sheet Harbour,Canada,44.9333,-62.5333,16.99,Clear sky,1.6,✅ Safe,2025-08-23 17:27:21
+Shelburne,Canada,44.0667,-80.2,16.76,Overcast clouds,4.19,✅ Safe,2025-08-23 17:27:22
+Sicamous,Canada,50.8333,-118.9833,12.36,Clear sky,2.23,✅ Safe,2025-08-23 17:27:24
+Spaniards Bay,Canada,47.6167,-53.3,10.64,Overcast clouds,9.07,⚠ Moderate,2025-08-23 17:27:25
+Split Lake,Canada,56.25,-96.1,8.09,Overcast clouds,4.94,✅ Safe,2025-08-23 17:27:27
+Springdale,Canada,49.4833,-56.1,11.94,Few clouds,3.38,✅ Safe,2025-08-23 17:27:28
+Stephenville,Canada,48.55,-58.5667,14.3,Clear sky,1.44,✅ Safe,2025-08-23 17:27:30
+Stoney Island,Canada,43.4667,-65.5667,15.6,Clear sky,1.48,✅ Safe,2025-08-23 17:27:31
+Stormont,Canada,45.2167,-61.7333,16.99,Clear sky,2.13,✅ Safe,2025-08-23 17:27:32
+Sylvan Lake,Canada,52.3167,-114.0833,8.81,Clear sky,1.67,✅ Safe,2025-08-23 17:27:34
+Thamesford,Canada,43.05,-80.9833,17.71,Broken clouds,2.39,✅ Safe,2025-08-23 17:27:36
+Thawwassen,Canada,49.0,-123.0667,15.48,Clear sky,2.89,✅ Safe,2025-08-23 17:27:37
+Thetis Island,Canada,48.9833,-123.6833,15.28,Clear sky,1.8,✅ Safe,2025-08-23 17:27:39
+Three Hills,Canada,51.7,-113.2667,9.85,Few clouds,1.51,✅ Safe,2025-08-23 17:27:40
+Tilt Cove,Canada,49.8833,-55.6167,9.0,Clear sky,8.49,⚠ Moderate,2025-08-23 17:27:41
+Tring Jonction,Canada,46.2667,-71.0,17.68,Broken clouds,2.96,✅ Safe,2025-08-23 17:27:43
+Trochu,Canada,51.8333,-113.2333,9.65,Few clouds,1.67,✅ Safe,2025-08-23 17:27:45
+Twillingate,Canada,49.65,-54.75,10.0,Clear sky,8.98,⚠ Moderate,2025-08-23 17:27:46
+Ucluelet,Canada,48.9333,-125.5167,15.18,Clear sky,0.81,✅ Safe,2025-08-23 17:27:47
+Upton,Canada,45.6333,-72.6833,18.53,Broken clouds,4.35,✅ Safe,2025-08-23 17:27:49
+Valleyfield,Canada,45.25,-74.1333,18.55,Broken clouds,3.16,✅ Safe,2025-08-23 17:27:52
+Vercheres,Canada,45.7667,-73.35,18.79,Broken clouds,5.08,⚠ Moderate,2025-08-23 17:27:53
+Victoria,Canada,48.4333,-123.35,15.03,Clear sky,1.74,✅ Safe,2025-08-23 17:27:54
+Voisey's Bay,Canada,56.25,-61.85,8.01,Few clouds,0.97,✅ Safe,2025-08-23 17:27:56
+Walton,Canada,45.2167,-64.0167,15.25,Clear sky,3.38,✅ Safe,2025-08-23 17:27:57
+West Vancouver,Canada,49.3333,-123.15,14.57,Clear sky,1.91,✅ Safe,2025-08-23 17:27:59
+Westport,Canada,44.6833,-76.4,18.23,Overcast clouds,2.86,✅ Safe,2025-08-23 17:28:01
+Whale Cove,Canada,62.1667,-92.5833,7.63,Overcast clouds,3.25,✅ Safe,2025-08-23 17:28:03
+Wildwood,Canada,53.6167,-115.2333,9.23,Clear sky,0.78,✅ Safe,2025-08-23 17:28:04
+Williams Harbour,Canada,52.55,-55.7833,8.39,Overcast clouds,7.39,⚠ Moderate,2025-08-23 17:28:07
+Windsor,Canada,44.9833,-64.1333,16.78,Few clouds,1.08,✅ Safe,2025-08-23 17:28:09
+Yamachiche,Canada,46.2833,-72.8333,19.22,Broken clouds,6.51,⚠ Moderate,2025-08-23 17:28:11
+Port of Toronto,Canada,43.63333333,-79.38333333,19.3,Overcast clouds,3.15,✅ Safe,2025-08-23 17:28:13
+Port of Montreal,Canada,45.5,-73.58333333,18.6,Broken clouds,2.74,✅ Safe,2025-08-23 17:28:15
+Amberly,Canada,44.05,-81.717,19.05,Overcast clouds,6.28,⚠ Moderate,2025-08-23 17:28:16
+Brockville,Canada,44.5895244,-75.6842858,18.23,Overcast clouds,2.95,✅ Safe,2025-08-23 17:28:18
+Brocket,Canada,49.55,-113.767,9.53,Clear sky,1.24,✅ Safe,2025-08-23 17:28:19
+Belwood,Canada,43.767,-80.333,16.98,Overcast clouds,2.95,✅ Safe,2025-08-23 17:28:21
+Burlington,Canada,43.325794,-79.800948,19.1,Overcast clouds,2.83,✅ Safe,2025-08-23 17:28:24
+Bridgewater,Canada,44.3721167,-64.5208798,17.06,Few clouds,1.36,✅ Safe,2025-08-23 17:28:25
+Blackstock,Canada,44.1,-78.783,17.65,Overcast clouds,2.84,✅ Safe,2025-08-23 17:28:27
+Burks Falls,Canada,45.633,-79.45,17.13,Overcast clouds,2.86,✅ Safe,2025-08-23 17:28:29
+Bowmanville,Canada,43.9126042,-78.688019,18.57,Overcast clouds,3.13,✅ Safe,2025-08-23 17:28:31
+Comfort Cove,Canada,49.333,-54.867,11.03,Clear sky,7.07,⚠ Moderate,2025-08-23 17:28:32
+Chicoutimi,Canada,48.3516735,-71.1385136,18.17,Overcast clouds,0.88,✅ Safe,2025-08-23 17:28:34
+Chatham,Canada,47.0451445,-65.3702403,14.19,Overcast clouds,2.7,✅ Safe,2025-08-23 17:28:37
+Contrecoeur,Canada,45.8654102,-73.2412825,18.84,Broken clouds,5.36,⚠ Moderate,2025-08-23 17:28:38
+Conquitlam,Canada,49.233,-122.817,15.51,Clear sky,1.17,✅ Safe,2025-08-23 17:28:40
+Dorchester,Canada,42.983,-81.067,17.78,Broken clouds,2.28,✅ Safe,2025-08-23 17:28:42
+Dalhousie,Canada,44.6375134,-63.5923004,16.71,Scattered clouds,1.17,✅ Safe,2025-08-23 17:28:44
+Edwards Cove,Canada,56.833,-62.5,10.2,Scattered clouds,0.5,✅ Safe,2025-08-23 17:28:45
+Esquimalt,Canada,48.435842,-123.411234,15.04,Clear sky,1.4,✅ Safe,2025-08-23 17:28:47
+Grand-Mere,Canada,46.63333,-72.68333,18.46,Overcast clouds,2.63,✅ Safe,2025-08-23 17:28:49
+Rockport,Canada,44.55,-76.267,18.35,Overcast clouds,3.04,✅ Safe,2025-08-23 17:28:51
+Halifax,Canada,44.6487635,-63.5752387,16.71,Scattered clouds,1.17,✅ Safe,2025-08-23 17:28:53
+Hamilton,Canada,43.2557206,-79.8711024,19.09,Broken clouds,2.64,✅ Safe,2025-08-23 17:28:55
+Keene,Canada,44.25,-78.167,17.92,Overcast clouds,3.66,✅ Safe,2025-08-23 17:28:56
+Kinkora,Canada,46.3228776,-63.6026862,16.93,Broken clouds,3.28,✅ Safe,2025-08-23 17:28:58
+Kingsville,Canada,42.0362841,-82.7389809,18.49,Broken clouds,4.27,✅ Safe,2025-08-23 17:29:00
+Lachine/Montreal,Canada,45.441347,-73.6885847,18.54,Broken clouds,2.45,✅ Safe,2025-08-23 17:29:02
+L'Isletville,Canada,47.1,-70.35,19.94,Broken clouds,7.27,⚠ Moderate,2025-08-23 17:29:04
+Leamington,Canada,42.0531634,-82.5998874,18.48,Broken clouds,3.64,✅ Safe,2025-08-23 17:29:05
+Riverton,Canada,51.0,-97.0,12.74,Overcast clouds,7.0,⚠ Moderate,2025-08-23 17:29:07
+Moncton,Canada,46.088778,-64.779383,17.02,Broken clouds,2.44,✅ Safe,2025-08-23 17:29:09
+North Arm Fraser,Canada,49.1761138,-123.1577516,15.89,Clear sky,1.29,✅ Safe,2025-08-23 17:29:10
+New Westminster,Canada,49.2057179,-122.910956,15.37,Clear sky,0.72,✅ Safe,2025-08-23 17:29:12
+Port Hope,Canada,43.949164,-78.2934616,18.49,Overcast clouds,3.27,✅ Safe,2025-08-23 17:29:14
+Picton,Canada,44.0073128,-77.1423692,18.19,Overcast clouds,3.34,✅ Safe,2025-08-23 17:29:16
+Prince George,Canada,53.918241,-122.749702,6.35,Clear sky,0.98,✅ Safe,2025-08-23 17:29:17
+Prince Rupert,Canada,54.309805,-130.33721,14.72,Clear sky,1.31,✅ Safe,2025-08-23 17:29:19
+Penetanguishene,Canada,44.767,-79.933,18.56,Overcast clouds,4.32,✅ Safe,2025-08-23 17:29:21
+Queen Charlotte,Canada,53.25,-132.067,15.51,Few clouds,1.6,✅ Safe,2025-08-23 17:29:23
+Les Escoumins,Canada,48.35,-69.417,13.63,Overcast clouds,1.28,✅ Safe,2025-08-23 17:29:24
+Quebec,Canada,46.831454,-71.192992,20.26,Overcast clouds,3.2,✅ Safe,2025-08-23 17:29:26
+Robinsons,Canada,48.25,-58.783,15.53,Clear sky,3.68,✅ Safe,2025-08-23 17:29:28
+La Relance,Canada,50.15,-66.45,12.06,Heavy intensity rain,3.48,✅ Safe,2025-08-23 17:29:29
+Red Rock,Canada,48.95,-88.283,14.09,Broken clouds,2.93,✅ Safe,2025-08-23 17:29:31
+Saint-Christophe-d'Arthabaska,Canada,46.033,-71.917,18.6,Broken clouds,3.38,✅ Safe,2025-08-23 17:29:33
+Sainte-Anne-des-Monts,Canada,49.117,-66.483,13.93,Overcast clouds,3.18,✅ Safe,2025-08-23 17:29:35
+Squamish,Canada,49.7016339,-123.1558121,16.33,Clear sky,2.99,✅ Safe,2025-08-23 17:29:36
+Saint-Roch-de-l'Achigan,Canada,45.85,-73.583,18.43,Broken clouds,4.77,✅ Safe,2025-08-23 17:29:38
+Saint-Peters,Canada,45.65,-60.867,15.82,Clear sky,2.26,✅ Safe,2025-08-23 17:29:40
+Stoney Creek,Canada,43.2272182,-79.7195586,19.18,Broken clouds,3.03,✅ Safe,2025-08-23 17:29:41
+Stockton,Canada,49.583,-99.45,10.58,Overcast clouds,5.66,⚠ Moderate,2025-08-23 17:29:43
+Surrey,Canada,49.183333,-122.85,15.88,Clear sky,0.66,✅ Safe,2025-08-23 17:29:45
+Sainte-Victoire-de-Sorel,Canada,46.0,-73.167,18.9,Broken clouds,5.34,⚠ Moderate,2025-08-23 17:29:46
+Thornbury,Canada,44.55,-80.45,18.84,Overcast clouds,5.26,⚠ Moderate,2025-08-23 17:29:48
+Vancouver,Canada,49.303555,-123.0475,16.31,Clear sky,1.23,✅ Safe,2025-08-23 17:29:50
+Victoria Harbour,Canada,44.75,-79.767,18.69,Overcast clouds,3.56,✅ Safe,2025-08-23 17:29:52
+Wallaceburg,Canada,42.5926445,-82.3882529,18.65,Overcast clouds,3.19,✅ Safe,2025-08-23 17:29:54
+Welland,Canada,42.9921579,-79.2482555,18.14,Broken clouds,2.99,✅ Safe,2025-08-23 17:29:55
+Whiffen Head,Canada,47.75,-54.033,11.79,Scattered clouds,7.64,⚠ Moderate,2025-08-23 17:29:57
+Whitby,Canada,43.8975446,-78.9429329,18.78,Overcast clouds,3.65,✅ Safe,2025-08-23 17:29:59

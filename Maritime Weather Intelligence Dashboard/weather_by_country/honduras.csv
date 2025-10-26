@@ -1,0 +1,6 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Omoa,Honduras,15.7667,-88.0333,25.35,Overcast clouds,1.23,✅ Safe,2025-08-23 17:34:16
+Roatan,Honduras,16.3,-86.55,28.76,Overcast clouds,10.13,⚡ Dangerous,2025-08-23 17:34:18
+Puerto Castilla,Honduras,16.0173268,-85.9585544,28.08,Overcast clouds,5.47,⚠ Moderate,2025-08-23 17:34:20
+Puerto Cortes,Honduras,15.825072,-87.9285777,25.02,Overcast clouds,1.57,✅ Safe,2025-08-23 17:34:22
+San Lorenzo,Honduras,13.4326204,-87.4554432,23.31,Broken clouds,1.49,✅ Safe,2025-08-23 17:34:24

@@ -1,0 +1,6 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Khachmaz,Azerbaijan,41.4591168,48.8020626,33.59,Clear sky,8.07,⚠ Moderate,2025-08-23 16:17:15
+Qaradag,Azerbaijan,40.25,49.6,29.54,Clear sky,4.77,✅ Safe,2025-08-23 16:17:17
+Shirvan,Azerbaijan,39.9167,48.9167,34.04,Clear sky,5.62,⚠ Moderate,2025-08-23 16:17:18
+Sumqayit,Azerbaijan,40.5833,49.6667,30.97,Clear sky,8.23,⚠ Moderate,2025-08-23 16:17:20
+Baku,Azerbaijan,40.408005,49.86735,30.32,Clear sky,5.86,⚠ Moderate,2025-08-23 16:17:21

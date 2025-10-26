@@ -1,0 +1,4 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Alderney,Guernsey,49.6833,-2.2,19.95,Overcast clouds,2.39,✅ Safe,2025-08-23 21:19:19
+Guernsey,Guernsey,49.4333,-2.5833,20.5,Overcast clouds,2.84,✅ Safe,2025-08-23 21:19:21
+Saint Peter Port,Guernsey,49.45,-2.55,20.87,Overcast clouds,2.8,✅ Safe,2025-08-23 21:19:22

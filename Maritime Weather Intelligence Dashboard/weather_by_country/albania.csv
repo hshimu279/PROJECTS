@@ -1,0 +1,7 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Sarande,Albania,39.8833,20.0,28.27,Few clouds,5.44,⚠ Moderate,2025-08-23 18:28:30
+Shengjin,Albania,41.8,19.5667,24.82,Scattered clouds,4.08,✅ Safe,2025-08-23 18:28:32
+Vlore,Albania,40.4667,19.4833,28.07,Clear sky,5.99,⚠ Moderate,2025-08-23 18:28:34
+Butrint,Albania,41.153332,20.168331,26.97,Broken clouds,6.93,⚠ Moderate,2025-08-23 18:28:35
+Durres,Albania,41.3245904,19.4564686,25.81,Clear sky,4.53,✅ Safe,2025-08-23 18:28:37
+Himare,Albania,40.133,19.717,24.25,Scattered clouds,7.4,⚠ Moderate,2025-08-23 18:28:39

@@ -1,0 +1,23 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Akko,Israel,32.9167,35.0667,29.99,Clear sky,5.23,⚠ Moderate,2025-08-23 16:36:21
+Binyamina-Giv'at Ada,Israel,32.5167,34.9333,33.11,Clear sky,5.67,⚠ Moderate,2025-08-23 16:36:22
+Gush Halav,Israel,33.1667,35.4333,28.5,Clear sky,5.94,⚠ Moderate,2025-08-23 16:36:24
+Haifa,Israel,32.8,34.9833,30.63,Clear sky,5.28,⚠ Moderate,2025-08-23 16:36:25
+Haifa Israel Shipyards Port,Israel,32.8,34.9833,30.63,Clear sky,5.28,⚠ Moderate,2025-08-23 16:36:26
+Julis,Israel,31.6833,34.65,33.63,Few clouds,5.49,⚠ Moderate,2025-08-23 16:36:28
+Karmei Yosef,Israel,31.8333,34.9167,33.25,Clear sky,6.27,⚠ Moderate,2025-08-23 16:36:29
+Kfar Vitkin,Israel,32.3667,34.8667,33.17,Clear sky,5.42,⚠ Moderate,2025-08-23 16:36:31
+Magshimim,Israel,32.0333,34.9,33.49,Clear sky,5.55,⚠ Moderate,2025-08-23 16:36:32
+Mishor Adumim,Israel,31.7833,35.3167,31.74,Clear sky,4.76,✅ Safe,2025-08-23 16:36:33
+Nabulus,Israel,32.2167,35.25,29.7,Clear sky,6.56,⚠ Moderate,2025-08-23 16:36:35
+Netanya,Israel,32.3333,34.8667,33.16,Clear sky,5.43,⚠ Moderate,2025-08-23 16:36:36
+Ofra,Israel,31.95,35.25,28.78,Clear sky,6.9,⚠ Moderate,2025-08-23 16:36:37
+Tel Aviv-Yafo,Israel,32.05,34.75,33.68,Few clouds,5.22,⚠ Moderate,2025-08-23 16:36:39
+Tiberias,Israel,32.8,35.5333,36.62,Clear sky,6.56,⚠ Moderate,2025-08-23 16:36:40
+Port of Ashdod,Israel,31.83333333,34.63333333,30.83,Few clouds,5.11,⚠ Moderate,2025-08-23 16:36:42
+Ashkelon,Israel,31.6687885,34.5742523,33.36,Few clouds,5.42,⚠ Moderate,2025-08-23 16:36:43
+Ashdod Southport,Israel,31.817,34.65,30.83,Few clouds,5.11,⚠ Moderate,2025-08-23 16:36:45
+Elat (Eilath),Israel,29.557669,34.951925,38.01,Clear sky,6.52,⚠ Moderate,2025-08-23 16:36:46
+Hadera,Israel,32.433672,34.919217,33.31,Clear sky,5.74,⚠ Moderate,2025-08-23 16:36:47
+Haifa Bayport,Israel,32.8,34.983,30.63,Clear sky,5.28,⚠ Moderate,2025-08-23 16:36:49
+Ramla,Israel,31.931566,34.872938,33.48,Few clouds,5.63,⚠ Moderate,2025-08-23 16:36:50

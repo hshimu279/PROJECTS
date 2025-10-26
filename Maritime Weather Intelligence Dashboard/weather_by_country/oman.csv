@@ -1,0 +1,15 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Al-Suwaiq,Oman,23.85,57.4333,36.63,Clear sky,6.26,⚠ Moderate,2025-08-23 16:50:34
+Duqm,Oman,19.65,57.7,27.08,Light rain,6.64,⚠ Moderate,2025-08-23 16:50:36
+Fahal,Oman,23.6833,58.5,32.8,Few clouds,3.2,✅ Safe,2025-08-23 16:50:37
+Mina' al Fahl,Oman,23.6333,58.5167,34.15,Few clouds,2.78,✅ Safe,2025-08-23 16:50:39
+"Mina Sultan Qaboos, Muscat",Oman,23.6167,58.55,35.25,Few clouds,2.49,✅ Safe,2025-08-23 16:50:41
+Muscat,Oman,23.6,58.5833,34.83,Few clouds,2.38,✅ Safe,2025-08-23 16:50:43
+Qalhat,Oman,22.7,59.3667,33.09,Light rain,2.46,✅ Safe,2025-08-23 16:50:45
+Shinas,Oman,24.7333,56.4667,38.96,Scattered clouds,5.79,⚠ Moderate,2025-08-23 16:50:46
+Sur,Oman,22.65,59.4333,34.34,Light rain,3.03,✅ Safe,2025-08-23 16:50:48
+Port Qaboos,Oman,23.60917,58.5517028,35.25,Few clouds,2.49,✅ Safe,2025-08-23 16:50:49
+Quoin Island,Oman,21.4735329,55.975413,39.11,Scattered clouds,4.49,✅ Safe,2025-08-23 16:50:51
+Salalah,Oman,17.0506675,54.1065864,25.85,Overcast clouds,5.92,⚠ Moderate,2025-08-23 16:50:52
+Sohar,Oman,24.3460959,56.7075141,39.81,Few clouds,5.82,⚠ Moderate,2025-08-23 16:50:54
+Port Sultan,Oman,23.617,58.633,34.15,Few clouds,2.46,✅ Safe,2025-08-23 16:50:56

@@ -1,0 +1,98 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Alleppey,India,9.4833,76.3167,26.83,Light rain,5.08,⚠ Moderate,2025-08-23 16:36:51
+Attur,India,12.7333,79.95,33.1,Overcast clouds,3.24,✅ Safe,2025-08-23 16:36:53
+Bangarapet,India,12.9833,78.1833,28.34,Overcast clouds,3.16,✅ Safe,2025-08-23 16:36:54
+Bhadohi,India,25.4167,82.5667,31.22,Broken clouds,3.42,✅ Safe,2025-08-23 16:36:56
+Bharuch,India,21.7,72.9667,26.65,Overcast clouds,9.39,⚠ Moderate,2025-08-23 16:36:57
+Bhavnagar,India,21.7667,72.1333,29.48,Overcast clouds,10.33,⚡ Dangerous,2025-08-23 16:36:58
+Chennai (ex Madras),India,13.0833,80.2833,31.46,Overcast clouds,6.66,⚠ Moderate,2025-08-23 16:37:00
+Cochin,India,9.9667,76.2333,26.68,Overcast clouds,5.43,⚠ Moderate,2025-08-23 16:37:01
+Dhamara,India,20.8,86.9,27.01,Overcast clouds,4.81,✅ Safe,2025-08-23 16:37:03
+Dhamra Port,India,20.8167,86.95,27.21,Overcast clouds,5.3,⚠ Moderate,2025-08-23 16:37:04
+Dighi (Pune),India,18.25,72.9667,26.1,Overcast clouds,6.57,⚠ Moderate,2025-08-23 16:37:05
+Ernakulam,India,9.9833,76.2833,27.86,Overcast clouds,4.53,✅ Safe,2025-08-23 16:37:07
+Erode,India,11.35,77.7333,32.52,Overcast clouds,0.97,✅ Safe,2025-08-23 16:37:08
+Gangavaram,India,17.65,83.25,31.85,Overcast clouds,5.81,⚠ Moderate,2025-08-23 16:37:09
+Garden Reach,India,22.5167,88.3,26.63,Light rain,3.88,✅ Safe,2025-08-23 16:37:11
+Hazira Port/Surat,India,21.0833,72.6167,27.32,Overcast clouds,12.16,⚡ Dangerous,2025-08-23 16:37:12
+Jafarabad,India,20.85,71.3667,27.25,Overcast clouds,10.93,⚡ Dangerous,2025-08-23 16:37:13
+Jammu,India,32.7,74.85,32.86,Few clouds,2.06,✅ Safe,2025-08-23 16:37:15
+Jodhpur,India,21.8833,70.0333,26.96,Overcast clouds,9.53,⚠ Moderate,2025-08-23 16:37:16
+Kandla,India,23.0333,70.2167,30.56,Overcast clouds,10.29,⚡ Dangerous,2025-08-23 16:37:17
+Karur,India,10.95,78.0833,32.79,Overcast clouds,2.86,✅ Safe,2025-08-23 16:37:19
+Kattupalli,India,13.3,80.35,30.45,Overcast clouds,7.93,⚠ Moderate,2025-08-23 16:37:20
+Kattupalli Port,India,13.3,80.3833,29.03,Overcast clouds,7.91,⚠ Moderate,2025-08-23 16:37:21
+Khodiyar,India,23.05,72.9333,28.29,Overcast clouds,5.11,⚠ Moderate,2025-08-23 16:37:23
+Kolkata (ex Calcutta),India,22.5667,88.35,26.46,Light rain,3.64,✅ Safe,2025-08-23 16:37:24
+Kozhikode (ex Calicut),India,11.25,75.7667,26.93,Overcast clouds,5.32,⚠ Moderate,2025-08-23 16:37:25
+Lapanga,India,21.7333,84.0167,23.3,Overcast clouds,4.52,✅ Safe,2025-08-23 16:37:27
+Madurai,India,9.9333,78.1167,32.39,Overcast clouds,2.35,✅ Safe,2025-08-23 16:37:28
+Mahe,India,11.7,75.5333,27.0,Overcast clouds,5.23,⚠ Moderate,2025-08-23 16:37:29
+Mandvi,India,22.8333,69.3667,28.4,Overcast clouds,9.17,⚠ Moderate,2025-08-23 16:37:31
+Marmagao (Marmugao),India,15.4,73.7833,26.43,Overcast clouds,5.44,⚠ Moderate,2025-08-23 16:37:32
+Morbi,India,22.8167,70.8333,29.47,Overcast clouds,8.81,⚠ Moderate,2025-08-23 16:37:33
+Mul Dwarka,India,20.75,70.6667,26.95,Broken clouds,10.35,⚡ Dangerous,2025-08-23 16:37:35
+Mumbai (ex Bombay),India,18.9667,72.8167,26.96,Overcast clouds,9.18,⚠ Moderate,2025-08-23 16:37:36
+Munger,India,25.3833,86.4667,29.94,Overcast clouds,6.75,⚠ Moderate,2025-08-23 16:37:37
+Nagappattinam,India,10.7833,79.8167,31.58,Overcast clouds,3.54,✅ Safe,2025-08-23 16:37:39
+Nagercoil,India,8.1667,77.4333,29.26,Scattered clouds,9.27,⚠ Moderate,2025-08-23 16:37:40
+New Delhi,India,28.6,77.2,28.67,Overcast clouds,3.51,✅ Safe,2025-08-23 16:37:42
+New Tuticorin,India,8.75,78.2167,29.23,Overcast clouds,5.01,⚠ Moderate,2025-08-23 16:37:44
+Nhave,India,18.95,72.9667,26.95,Broken clouds,8.48,⚠ Moderate,2025-08-23 16:37:45
+Nindakara,India,8.9333,76.5333,26.46,Moderate rain,6.07,⚠ Moderate,2025-08-23 16:37:47
+Orissa,India,20.2333,84.2667,22.59,Overcast clouds,4.66,✅ Safe,2025-08-23 16:37:48
+Paradip Garh,India,20.3167,86.6167,27.77,Overcast clouds,3.74,✅ Safe,2025-08-23 16:37:49
+Pipavav (Victor) Port,India,20.9667,71.55,27.88,Overcast clouds,10.09,⚡ Dangerous,2025-08-23 16:37:51
+Pondicherry,India,11.9167,79.8167,29.99,Overcast clouds,3.75,✅ Safe,2025-08-23 16:37:52
+Port Pipavav,India,20.9333,71.5167,27.79,Overcast clouds,10.34,⚡ Dangerous,2025-08-23 16:37:53
+Positra,India,22.4,69.1667,28.01,Broken clouds,9.86,⚠ Moderate,2025-08-23 16:37:55
+Pratapganj,India,26.3,86.9667,31.7,Broken clouds,8.01,⚠ Moderate,2025-08-23 16:37:56
+Rozi,India,22.5667,70.0333,28.92,Overcast clouds,10.01,⚡ Dangerous,2025-08-23 16:37:57
+Samalkot,India,17.05,82.1833,32.73,Overcast clouds,5.17,⚠ Moderate,2025-08-23 16:37:59
+Sika,India,22.4333,69.8333,29.12,Overcast clouds,10.15,⚡ Dangerous,2025-08-23 16:38:00
+Sikkim,India,27.3516407,88.3239309,18.68,Overcast clouds,0.89,✅ Safe,2025-08-23 16:38:01
+Siliguri,India,26.7167,88.4167,29.3,Overcast clouds,3.28,✅ Safe,2025-08-23 16:38:03
+Surat,India,21.1667,72.8333,26.72,Overcast clouds,9.11,⚠ Moderate,2025-08-23 16:38:04
+Tadri,India,14.5167,74.35,27.68,Overcast clouds,3.32,✅ Safe,2025-08-23 16:38:05
+Thane,India,19.2,72.9667,26.85,Broken clouds,7.36,⚠ Moderate,2025-08-23 16:38:07
+Toranagallu,India,15.2,76.6833,28.47,Overcast clouds,6.68,⚠ Moderate,2025-08-23 16:38:08
+Tumkur,India,16.5,77.0833,29.41,Overcast clouds,7.56,⚠ Moderate,2025-08-23 16:38:10
+Tuticorin,India,8.7833,78.1333,30.68,Overcast clouds,4.1,✅ Safe,2025-08-23 16:38:11
+Uran,India,18.8833,72.9333,27.52,Overcast clouds,8.7,⚠ Moderate,2025-08-23 16:38:12
+Vadodara,India,22.3,73.2,27.24,Overcast clouds,6.19,⚠ Moderate,2025-08-23 16:38:14
+Visakhapatnam,India,17.7,83.3,32.51,Overcast clouds,5.22,⚠ Moderate,2025-08-23 16:38:15
+Wada,India,18.9833,73.75,22.93,Overcast clouds,7.69,⚠ Moderate,2025-08-23 16:38:16
+port of Nhava Sheva,India,19.0330488,73.02966,27.5,Broken clouds,7.91,⚠ Moderate,2025-08-23 16:38:18
+Port of Mundra,India,22.756025,69.636455,28.29,Overcast clouds,9.71,⚠ Moderate,2025-08-23 16:38:19
+Port of Bangalore,India,12.98333333,77.58333333,27.64,Overcast clouds,4.17,✅ Safe,2025-08-23 16:38:20
+Port of Ahmedabad,India,23.03,72.58,29.7,Light rain,5.8,⚠ Moderate,2025-08-23 16:38:22
+Amini Island,India,11.117,72.733,27.2,Overcast clouds,6.19,⚠ Moderate,2025-08-23 16:38:23
+Baindur,India,13.866,74.6333,27.69,Overcast clouds,3.42,✅ Safe,2025-08-23 16:38:24
+Bedi,India,22.4977692,70.0445662,29.37,Overcast clouds,9.91,⚠ Moderate,2025-08-23 16:38:26
+Beypore,India,11.173585,75.8040022,26.94,Overcast clouds,5.44,⚠ Moderate,2025-08-23 16:38:27
+GRFL ICD/Ballabhgarh,India,28.35,77.31667,29.87,Broken clouds,4.09,✅ Safe,2025-08-23 16:38:28
+Bheemunipatnam,India,17.8875169,83.4456801,32.48,Overcast clouds,3.26,✅ Safe,2025-08-23 16:38:30
+Cuddalore,India,11.75,79.75,29.94,Overcast clouds,3.8,✅ Safe,2025-08-23 16:38:31
+Chikaballur,India,13.2074794,77.9884958,28.19,Overcast clouds,5.26,⚠ Moderate,2025-08-23 16:38:32
+Cannanore,India,11.8744775,75.3703662,28.4,Overcast clouds,5.63,⚠ Moderate,2025-08-23 16:38:34
+Dahej,India,21.7129335,72.582009,28.14,Overcast clouds,10.52,⚡ Dangerous,2025-08-23 16:38:35
+Ennore,India,13.2666,80.35,30.62,Overcast clouds,7.89,⚠ Moderate,2025-08-23 16:38:37
+Ernakulam,India,9.98333,76.28333,27.86,Overcast clouds,4.53,✅ Safe,2025-08-23 16:38:38
+Gandhar,India,21.083,72.633,27.28,Overcast clouds,11.67,⚡ Dangerous,2025-08-23 16:38:39
+Greater Nodia,India,28.817,77.883,30.36,Overcast clouds,3.12,✅ Safe,2025-08-23 16:38:41
+Greater Noida,India,28.467,77.517,30.18,Overcast clouds,4.12,✅ Safe,2025-08-23 16:38:42
+Haldia,India,22.0666742,88.0698118,26.72,Overcast clouds,6.32,⚠ Moderate,2025-08-23 16:38:43
+Mangalore,India,12.9141417,74.8559568,28.14,Overcast clouds,3.51,✅ Safe,2025-08-23 16:38:45
+Jakhau,India,23.218611,68.716944,29.27,Broken clouds,8.38,⚠ Moderate,2025-08-23 16:38:46
+Port Jawaharlal Nehru,India,18.95,72.95,26.94,Overcast clouds,8.67,⚠ Moderate,2025-08-23 16:38:48
+Kakinada,India,16.9890648,82.2474648,33.14,Overcast clouds,4.81,✅ Safe,2025-08-23 16:38:49
+Kallai,India,25.0345221,86.5981031,28.66,Overcast clouds,4.72,✅ Safe,2025-08-23 16:38:50
+Kalpeni Island,India,10.067,73.633,27.12,Overcast clouds,6.52,⚠ Moderate,2025-08-23 16:38:52
+Krishnapatnam,India,14.2886008,80.1248476,33.38,Overcast clouds,2.81,✅ Safe,2025-08-23 16:38:53
+Mithivirdi,India,21.467,72.233,28.25,Overcast clouds,10.56,⚡ Dangerous,2025-08-23 16:38:54
+Navlakhi,India,21.5177091,70.3163535,27.33,Broken clouds,9.46,⚠ Moderate,2025-08-23 16:38:56
+New Mangalore,India,12.9477532,74.8214693,28.11,Overcast clouds,3.53,✅ Safe,2025-08-23 16:38:57
+Paradip Port,India,20.25,86.583,27.92,Overcast clouds,3.49,✅ Safe,2025-08-23 16:38:58
+Sahnewal,India,30.85,75.95,30.84,Overcast clouds,3.38,✅ Safe,2025-08-23 16:39:00
+Vizagapatanam,India,17.6411439,82.6712877,31.34,Overcast clouds,3.2,✅ Safe,2025-08-23 16:39:01
+Vizag,India,17.7,83.25,33.04,Overcast clouds,4.91,✅ Safe,2025-08-23 16:39:02

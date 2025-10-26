@@ -1,0 +1,4 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Barranco,Belize,16.0,-88.9167,23.27,Light rain,0.78,✅ Safe,2025-08-23 17:19:17
+Dangriga,Belize,16.9667,-88.2167,27.61,Broken clouds,5.72,⚠ Moderate,2025-08-23 17:19:19
+Belize City,Belize,17.5045661,-88.1962133,29.06,Broken clouds,7.87,⚠ Moderate,2025-08-23 17:19:21

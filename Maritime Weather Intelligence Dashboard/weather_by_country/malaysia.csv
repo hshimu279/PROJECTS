@@ -1,0 +1,79 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Bandar Tenggara,Malaysia,1.8667,103.6167,29.72,Overcast clouds,1.21,✅ Safe,2025-08-23 16:48:38
+Batang Kali,Malaysia,3.4667,101.6333,33.11,Few clouds,2.05,✅ Safe,2025-08-23 16:48:39
+Batu Gajah,Malaysia,4.4667,101.05,31.31,Scattered clouds,2.85,✅ Safe,2025-08-23 16:48:40
+Batu Kawan,Malaysia,5.25,100.4167,28.4,Few clouds,4.74,✅ Safe,2025-08-23 16:48:42
+Batu Maung,Malaysia,5.2833,100.2833,29.02,Few clouds,5.49,⚠ Moderate,2025-08-23 16:48:43
+Beaufort,Malaysia,5.3333,115.75,25.86,Light rain,0.09,✅ Safe,2025-08-23 16:48:45
+Hutan Melintang,Malaysia,3.8833,100.9333,31.82,Clear sky,2.86,✅ Safe,2025-08-23 16:48:46
+Jelutong,Malaysia,5.4,100.3167,28.63,Few clouds,5.0,⚠ Moderate,2025-08-23 16:48:47
+Kampong Tanjong Kupang,Malaysia,1.35,103.5833,29.81,Broken clouds,1.68,✅ Safe,2025-08-23 16:48:49
+Kampung Tanjung Langsat,Malaysia,1.4667,104.0167,29.8,Broken clouds,2.5,✅ Safe,2025-08-23 16:48:50
+Kepong,Malaysia,3.2167,101.6333,32.87,Broken clouds,2.19,✅ Safe,2025-08-23 16:48:52
+Kertih,Malaysia,4.5167,103.45,29.13,Broken clouds,1.99,✅ Safe,2025-08-23 16:48:54
+Kota Sarang Semut,Malaysia,5.9457664,100.3641409,29.11,Scattered clouds,4.87,✅ Safe,2025-08-23 16:48:55
+Kuala Besut,Malaysia,5.8333,102.5667,27.37,Few clouds,2.67,✅ Safe,2025-08-23 16:48:56
+Kuala Dungun,Malaysia,4.7833,103.4333,29.09,Broken clouds,2.17,✅ Safe,2025-08-23 16:48:58
+Kuala Selangor,Malaysia,3.3333,101.05,29.29,Few clouds,4.41,✅ Safe,2025-08-23 16:48:59
+Langkawi,Malaysia,6.3667,99.8,27.37,Light rain,8.04,⚠ Moderate,2025-08-23 16:49:00
+Merbok,Malaysia,5.7167,100.4167,27.91,Scattered clouds,3.26,✅ Safe,2025-08-23 16:49:02
+Nenasi,Malaysia,3.1333,103.45,29.24,Overcast clouds,4.18,✅ Safe,2025-08-23 16:49:03
+Nilai,Malaysia,2.8167,101.8,32.06,Overcast clouds,1.65,✅ Safe,2025-08-23 16:49:05
+Penang (Georgetown),Malaysia,5.4167,100.3167,28.53,Light rain,4.87,✅ Safe,2025-08-23 16:49:06
+Pending,Malaysia,1.55,110.3833,28.45,Broken clouds,0.82,✅ Safe,2025-08-23 16:49:07
+Pengerang,Malaysia,1.3667,104.1167,28.05,Scattered clouds,2.34,✅ Safe,2025-08-23 16:49:09
+Perai,Malaysia,5.3833,100.3833,28.45,Few clouds,4.52,✅ Safe,2025-08-23 16:49:10
+Port Klang (Ferry Port),Malaysia,3.0167,101.3667,28.88,Broken clouds,2.84,✅ Safe,2025-08-23 16:49:11
+Port Klang (Pelabuhan Klang),Malaysia,3.0,101.4,28.64,Overcast clouds,2.61,✅ Safe,2025-08-23 16:49:13
+Pulau Bruit,Malaysia,2.5833,111.3333,27.8,Overcast clouds,2.86,✅ Safe,2025-08-23 16:49:14
+Pulau Indah,Malaysia,2.9333,101.3167,33.1,Overcast clouds,3.23,✅ Safe,2025-08-23 16:49:16
+Samalaju,Malaysia,3.95,113.5333,28.46,Scattered clouds,4.72,✅ Safe,2025-08-23 16:49:17
+Samu,Malaysia,1.55,111.5333,25.37,Overcast clouds,0.81,✅ Safe,2025-08-23 16:49:19
+Sarikei,Malaysia,2.1167,111.5167,24.92,Overcast clouds,1.19,✅ Safe,2025-08-23 16:49:21
+Segamat,Malaysia,2.5,102.8167,30.9,Overcast clouds,2.61,✅ Safe,2025-08-23 16:49:22
+Senari - Sarawak,Malaysia,1.6,110.4333,28.69,Broken clouds,1.42,✅ Safe,2025-08-23 16:49:24
+"Sepang, Selangor",Malaysia,2.7,101.75,32.13,Overcast clouds,2.03,✅ Safe,2025-08-23 16:49:26
+Sungai Udang,Malaysia,2.25,102.0833,29.13,Scattered clouds,3.75,✅ Safe,2025-08-23 16:49:27
+Sungai Udang Port,Malaysia,2.25,102.1333,31.59,Scattered clouds,3.04,✅ Safe,2025-08-23 16:49:29
+Sungai Way,Malaysia,3.0833,101.6167,33.13,Broken clouds,2.5,✅ Safe,2025-08-23 16:49:30
+Tampoi,Malaysia,1.4833,103.6833,29.89,Overcast clouds,2.37,✅ Safe,2025-08-23 16:49:32
+Tanjong Bin,Malaysia,1.3333,103.55,29.87,Broken clouds,1.56,✅ Safe,2025-08-23 16:49:34
+Tanjung Gelang,Malaysia,3.9833,103.4167,28.99,Broken clouds,3.86,✅ Safe,2025-08-23 16:49:35
+Tanjung Lembung,Malaysia,6.2833,99.7833,28.59,Broken clouds,7.37,⚠ Moderate,2025-08-23 16:49:37
+Tanjung Manis,Malaysia,2.1333,111.35,25.42,Overcast clouds,0.8,✅ Safe,2025-08-23 16:49:39
+Tanjung Pelepas,Malaysia,1.3667,103.55,29.76,Broken clouds,1.6,✅ Safe,2025-08-23 16:49:40
+Teronoh,Malaysia,4.4167,100.9833,31.12,Scattered clouds,2.99,✅ Safe,2025-08-23 16:49:42
+Tubau,Malaysia,3.1333,113.7,24.9,Light rain,0.81,✅ Safe,2025-08-23 16:49:43
+Abu,Malaysia,6.117,105.283,28.6,Scattered clouds,1.76,✅ Safe,2025-08-23 16:49:44
+Angsi,Malaysia,5.083,104.683,28.66,Scattered clouds,1.27,✅ Safe,2025-08-23 16:49:46
+Bunga Raya,Malaysia,6.95,104.1,28.8,Scattered clouds,2.38,✅ Safe,2025-08-23 16:49:47
+"Kota Kinabalu, Sabah",Malaysia,5.980408,116.0734568,28.21,Broken clouds,1.08,✅ Safe,2025-08-23 16:49:48
+"Bintulu, Sarawak",Malaysia,3.171322,113.0419069,27.15,Moderate rain,3.26,✅ Safe,2025-08-23 16:49:50
+Cendor,Malaysia,5.567,104.55,28.59,Broken clouds,0.83,✅ Safe,2025-08-23 16:49:51
+"Kuching, Sarawak",Malaysia,1.553504,110.3592927,28.45,Broken clouds,0.82,✅ Safe,2025-08-23 16:49:52
+Kemaman,Malaysia,4.2338358,103.3638015,28.98,Broken clouds,2.42,✅ Safe,2025-08-23 16:49:54
+Kuala Kedah,Malaysia,6.105552,100.291428,28.42,Scattered clouds,5.78,⚠ Moderate,2025-08-23 16:49:56
+Kuantan (Tanjong Gelang),Malaysia,3.7633859,103.2201828,28.89,Overcast clouds,2.16,✅ Safe,2025-08-23 16:49:57
+"Labuan, Sabah",Malaysia,5.2831456,115.230825,29.07,Broken clouds,2.86,✅ Safe,2025-08-23 16:49:59
+Northport/Pt Klang,Malaysia,3.032328,101.36291,28.88,Broken clouds,2.84,✅ Safe,2025-08-23 16:50:00
+Lumut,Malaysia,4.236302,100.6322198,30.74,Few clouds,4.2,✅ Safe,2025-08-23 16:50:01
+Manjung,Malaysia,4.15,100.617,28.79,Few clouds,4.36,✅ Safe,2025-08-23 16:50:03
+Menumbok,Malaysia,5.3,115.367,28.29,Scattered clouds,1.88,✅ Safe,2025-08-23 16:50:04
+Malacca,Malaysia,2.19257,102.253,31.15,Scattered clouds,2.59,✅ Safe,2025-08-23 16:50:05
+Muar,Malaysia,2.048817,102.5715532,31.07,Scattered clouds,1.33,✅ Safe,2025-08-23 16:50:07
+Muda Marine Terminal,Malaysia,7.583,102.983,28.77,Scattered clouds,3.89,✅ Safe,2025-08-23 16:50:08
+"Miri, Sarawak",Malaysia,4.399493,113.9913832,27.21,Scattered clouds,3.12,✅ Safe,2025-08-23 16:50:10
+Nilai,Malaysia,2.802455,101.7988711,32.37,Overcast clouds,1.51,✅ Safe,2025-08-23 16:50:11
+Panchang,Malaysia,3.688114,100.99435,32.31,Few clouds,3.04,✅ Safe,2025-08-23 16:50:12
+Pasir Gogok,Malaysia,1.356738,104.1294229,28.12,Scattered clouds,2.33,✅ Safe,2025-08-23 16:50:14
+Pelabuhan Kelang,Malaysia,3.0,101.4,28.64,Overcast clouds,2.61,✅ Safe,2025-08-23 16:50:15
+Port Dickson,Malaysia,2.52254,101.7962932,32.27,Broken clouds,3.79,✅ Safe,2025-08-23 16:50:17
+"Pasir Gudang, Johor",Malaysia,1.470288,103.9029689,29.78,Broken clouds,2.71,✅ Safe,2025-08-23 16:50:18
+Pulau Jarak,Malaysia,3.96667,100.08333,29.16,Clear sky,4.16,✅ Safe,2025-08-23 16:50:20
+Pengkalan Kubor,Malaysia,6.1991001,102.0889679,29.64,Scattered clouds,1.79,✅ Safe,2025-08-23 16:50:21
+Penara Marine Terminal,Malaysia,6.117,105.017,28.62,Scattered clouds,1.21,✅ Safe,2025-08-23 16:50:23
+"Sibu, Sarawak",Malaysia,2.287284,111.830535,24.8,Overcast clouds,0.97,✅ Safe,2025-08-23 16:50:25
+"Sandakan, Sabah",Malaysia,5.839444,118.1171729,26.95,Overcast clouds,2.34,✅ Safe,2025-08-23 16:50:26
+Sungai Merah,Malaysia,2.333,111.833,24.79,Overcast clouds,0.98,✅ Safe,2025-08-23 16:50:29
+Telok Intan,Malaysia,4.022424,101.0206249,31.74,Few clouds,2.81,✅ Safe,2025-08-23 16:50:31
+"Tawau, Sabah",Malaysia,4.244651,117.8911861,27.01,Broken clouds,4.18,✅ Safe,2025-08-23 16:50:32

@@ -1,0 +1,202 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Abo (Turku),Finland,60.45,22.2833,15.58,Overcast clouds,3.63,✅ Safe,2025-08-23 20:05:19
+Ajos,Finland,65.6667,24.5667,11.6,Overcast clouds,1.63,✅ Safe,2025-08-23 20:05:21
+Alholmen,Finland,63.7,22.7,12.6,Overcast clouds,4.2,✅ Safe,2025-08-23 20:05:23
+Asikkala,Finland,62.05,28.4333,15.71,Overcast clouds,0.49,✅ Safe,2025-08-23 20:05:25
+Baronsalmi,Finland,59.9667,23.8667,15.58,Overcast clouds,1.81,✅ Safe,2025-08-23 20:05:26
+Bjorneborg (Pori),Finland,61.4833,21.8,13.78,Scattered clouds,4.49,✅ Safe,2025-08-23 20:05:28
+Borga (Porvoo),Finland,60.4,25.6667,16.02,Overcast clouds,0.67,✅ Safe,2025-08-23 20:05:29
+Brahestad (Raahe),Finland,64.6833,24.4833,12.75,Overcast clouds,4.96,✅ Safe,2025-08-23 20:05:31
+Brando,Finland,60.4167,21.05,14.71,Few clouds,9.0,⚠ Moderate,2025-08-23 20:05:32
+Bromarv,Finland,59.9833,23.0333,15.37,Overcast clouds,4.17,✅ Safe,2025-08-23 20:05:34
+Dalsbruk (Taalintehdas),Finland,60.0167,22.5167,15.0,Overcast clouds,5.88,⚠ Moderate,2025-08-23 20:05:36
+Degerby,Finland,60.1,24.1833,15.95,Overcast clouds,2.01,✅ Safe,2025-08-23 20:05:38
+Dragsfjard,Finland,60.0667,22.4667,15.02,Overcast clouds,5.67,⚠ Moderate,2025-08-23 20:05:39
+Ekenas (Tammisaari),Finland,59.9667,23.4333,16.0,Light rain,0.57,✅ Safe,2025-08-23 20:05:42
+Elamajarvi,Finland,63.4833,25.6667,13.01,Overcast clouds,1.49,✅ Safe,2025-08-23 20:05:43
+Enonkoski,Finland,62.0833,28.9167,15.28,Overcast clouds,1.37,✅ Safe,2025-08-23 20:05:45
+Esbo (Espoo),Finland,60.2,24.65,16.5,Overcast clouds,1.5,✅ Safe,2025-08-23 20:05:47
+Euraaminne (Eurajoki),Finland,61.2,21.7333,14.6,Scattered clouds,4.6,✅ Safe,2025-08-23 20:05:49
+Farjsundet,Finland,60.2333,20.0167,14.5,Few clouds,6.68,⚠ Moderate,2025-08-23 20:05:50
+Foglo,Finland,60.0167,20.4167,14.62,Clear sky,9.38,⚠ Moderate,2025-08-23 20:05:52
+Fredrikshamn (Hamina),Finland,60.5667,27.2,16.39,Scattered clouds,0.86,✅ Safe,2025-08-23 20:05:54
+Gottby (Godby),Finland,60.1333,19.8333,14.21,Few clouds,8.34,⚠ Moderate,2025-08-23 20:05:56
+Gullo,Finland,59.95,23.4167,16.0,Light rain,0.43,✅ Safe,2025-08-23 20:05:58
+Hailuoto,Finland,65.0,24.8333,12.87,Overcast clouds,5.97,⚠ Moderate,2025-08-23 20:05:59
+Hakkola,Finland,62.3833,22.7167,14.14,Overcast clouds,3.82,✅ Safe,2025-08-23 20:06:01
+Halosenlahti,Finland,65.2333,25.3167,12.65,Overcast clouds,3.81,✅ Safe,2025-08-23 20:06:03
+Harvaluoto,Finland,60.3667,20.4667,14.09,Few clouds,8.59,⚠ Moderate,2025-08-23 20:06:05
+Hiitinen,Finland,59.8833,22.5,15.94,Overcast clouds,8.33,⚠ Moderate,2025-08-23 20:06:06
+Himanka,Finland,64.0667,23.65,13.1,Light rain,2.92,✅ Safe,2025-08-23 20:06:08
+Himankakyla,Finland,64.1667,23.7,17.26,Moderate rain,2.93,✅ Safe,2025-08-23 20:06:10
+Hirvensalmi,Finland,61.6333,26.8,15.49,Broken clouds,2.12,✅ Safe,2025-08-23 20:06:12
+Hogsara,Finland,59.95,22.3667,15.82,Overcast clouds,8.42,⚠ Moderate,2025-08-23 20:06:14
+Houtskar (Houtskari),Finland,60.2167,21.3833,15.14,Few clouds,10.31,⚡ Dangerous,2025-08-23 20:06:15
+Idensalmi (Iisalmi),Finland,63.55,27.1833,13.67,Overcast clouds,1.2,✅ Safe,2025-08-23 20:06:17
+Imatra,Finland,61.1667,28.75,15.91,Overcast clouds,2.12,✅ Safe,2025-08-23 20:06:18
+Inio,Finland,60.4,21.4,15.23,Few clouds,9.9,⚠ Moderate,2025-08-23 20:06:20
+Jakobstad (Pietarsaari),Finland,63.6833,22.7833,13.13,Light rain,4.11,✅ Safe,2025-08-23 20:06:22
+Janakkala,Finland,60.9,24.6,15.64,Overcast clouds,1.84,✅ Safe,2025-08-23 20:06:24
+Joensuu,Finland,62.6,29.7667,15.14,Broken clouds,2.33,✅ Safe,2025-08-23 20:06:26
+Joutseno,Finland,61.1,28.4833,15.8,Overcast clouds,2.88,✅ Safe,2025-08-23 20:06:27
+Jussaro,Finland,59.8167,23.5667,15.93,Overcast clouds,1.51,✅ Safe,2025-08-23 20:06:29
+Jyvaskyla,Finland,62.25,25.7333,14.73,Overcast clouds,1.18,✅ Safe,2025-08-23 20:06:31
+Kaipola,Finland,61.8167,25.2167,15.02,Overcast clouds,1.7,✅ Safe,2025-08-23 20:06:32
+Kalajoki,Finland,64.25,23.95,12.78,Overcast clouds,3.0,✅ Safe,2025-08-23 20:06:34
+Kalliola,Finland,61.0833,25.6333,15.71,Overcast clouds,1.38,✅ Safe,2025-08-23 20:06:36
+Kallviken,Finland,60.3667,26.45,15.86,Broken clouds,1.52,✅ Safe,2025-08-23 20:06:38
+Kantlax (Kaitalahti),Finland,61.75,23.7167,15.34,Broken clouds,3.73,✅ Safe,2025-08-23 20:06:40
+Kantvik,Finland,60.0833,24.3833,16.1,Overcast clouds,2.51,✅ Safe,2025-08-23 20:06:42
+Karleby (Kokkola),Finland,63.8333,23.1167,13.5,Overcast clouds,3.76,✅ Safe,2025-08-23 20:06:43
+Kaskinen (Kasko),Finland,60.6167,21.8833,15.6,Broken clouds,6.58,⚠ Moderate,2025-08-23 20:06:45
+Kasnas,Finland,59.9167,22.4,15.24,Overcast clouds,8.99,⚠ Moderate,2025-08-23 20:06:47
+Kemi/Tornea (Kemi/Tornio),Finland,65.7333,24.5667,11.56,Overcast clouds,1.22,✅ Safe,2025-08-23 20:06:49
+Kemio (Kimito),Finland,60.1667,22.75,14.87,Overcast clouds,3.23,✅ Safe,2025-08-23 20:06:51
+Kesalahti,Finland,61.8833,29.8333,15.4,Overcast clouds,2.27,✅ Safe,2025-08-23 20:06:53
+Kilpilahti (Skoldvik),Finland,60.3,25.55,15.91,Overcast clouds,2.13,✅ Safe,2025-08-23 20:06:55
+Kirkniemi,Finland,60.1667,23.95,15.47,Light rain,1.88,✅ Safe,2025-08-23 20:06:57
+Kitee,Finland,62.1,30.1167,14.55,Overcast clouds,1.69,✅ Safe,2025-08-23 20:06:59
+Klamila,Finland,60.5167,27.4667,16.22,Scattered clouds,1.18,✅ Safe,2025-08-23 20:07:01
+Kojonkulma,Finland,60.95,22.9833,15.43,Overcast clouds,2.47,✅ Safe,2025-08-23 20:07:03
+Korpo (Korppoo),Finland,60.1667,21.5667,15.18,Few clouds,10.68,⚡ Dangerous,2025-08-23 20:07:04
+Koskenkorva,Finland,62.6833,22.4667,14.41,Overcast clouds,3.53,✅ Safe,2025-08-23 20:07:06
+Kotka,Finland,60.4667,26.9167,16.08,Scattered clouds,1.62,✅ Safe,2025-08-23 20:07:08
+Koverhaara (Koverhar),Finland,59.8667,23.2167,15.55,Overcast clouds,1.7,✅ Safe,2025-08-23 20:07:10
+Kristiinankaupunki (Kristinestad),Finland,62.2833,21.3833,13.79,Overcast clouds,4.67,✅ Safe,2025-08-23 20:07:12
+Kronvik,Finland,63.0667,21.5167,11.85,Overcast clouds,2.98,✅ Safe,2025-08-23 20:07:13
+Kumlinge,Finland,60.2667,20.7833,14.84,Few clouds,9.24,⚠ Moderate,2025-08-23 20:07:15
+Kuopio,Finland,62.8833,27.6833,14.65,Broken clouds,0.79,✅ Safe,2025-08-23 20:07:17
+Kuru,Finland,61.8667,23.7333,14.96,Light rain,3.81,✅ Safe,2025-08-23 20:07:19
+Lakulahti,Finland,60.5167,27.1667,16.32,Few clouds,0.94,✅ Safe,2025-08-23 20:07:21
+Lapaluoto,Finland,64.6667,24.4333,13.15,Overcast clouds,4.9,✅ Safe,2025-08-23 20:07:22
+Lappajarvi,Finland,63.2,23.6333,13.89,Moderate rain,3.28,✅ Safe,2025-08-23 20:07:24
+Lappeenranta (Villmanstrand),Finland,61.05,28.1833,15.7,Broken clouds,2.63,✅ Safe,2025-08-23 20:07:26
+Lappohja (Lappvik),Finland,59.9,23.25,15.47,Overcast clouds,1.72,✅ Safe,2025-08-23 20:07:28
+Laukaa,Finland,62.4167,25.95,14.5,Overcast clouds,1.08,✅ Safe,2025-08-23 20:07:30
+Lielax,Finland,60.3167,22.4,15.71,Overcast clouds,3.55,✅ Safe,2025-08-23 20:07:32
+Lindkoski,Finland,60.6333,26.2667,16.14,Overcast clouds,0.17,✅ Safe,2025-08-23 20:07:33
+Lovbole,Finland,60.15,22.55,14.84,Overcast clouds,3.22,✅ Safe,2025-08-23 20:07:35
+Loviisa (Lovisa),Finland,60.45,26.2333,15.9,Overcast clouds,1.57,✅ Safe,2025-08-23 20:07:37
+Luumaki,Finland,60.9167,27.6667,16.17,Broken clouds,2.22,✅ Safe,2025-08-23 20:07:39
+Luvia,Finland,61.35,21.6167,14.1,Scattered clouds,5.37,⚠ Moderate,2025-08-23 20:07:41
+Maaninka,Finland,63.15,27.3,14.73,Overcast clouds,2.36,✅ Safe,2025-08-23 20:07:42
+Maarianhamina (Mariehamn),Finland,60.1,19.95,14.48,Few clouds,8.17,⚠ Moderate,2025-08-23 20:07:44
+Mantyluoto,Finland,61.5833,21.4833,13.96,Scattered clouds,6.41,⚠ Moderate,2025-08-23 20:07:46
+Marsund,Finland,60.2,19.7,14.28,Few clouds,8.61,⚠ Moderate,2025-08-23 20:07:48
+Merikarvia (Sastmola),Finland,61.85,21.5,14.03,Broken clouds,5.33,⚠ Moderate,2025-08-23 20:07:49
+Mikkeli (Sankt Michel),Finland,61.6833,27.2667,15.42,Light rain,1.87,✅ Safe,2025-08-23 20:07:51
+Mustola,Finland,61.0667,28.3,15.71,Broken clouds,2.84,✅ Safe,2025-08-23 20:07:52
+Naantali (Nadendal),Finland,60.45,22.0333,15.52,Overcast clouds,8.11,⚠ Moderate,2025-08-23 20:07:54
+Nagu (Nauvo),Finland,60.1833,21.9167,15.31,Scattered clouds,11.46,⚡ Dangerous,2025-08-23 20:07:56
+Nilsia,Finland,63.2,28.8333,14.56,Overcast clouds,0.44,✅ Safe,2025-08-23 20:07:58
+Nousiainen (Nousis),Finland,60.6,22.0833,15.55,Overcast clouds,5.31,⚠ Moderate,2025-08-23 20:08:00
+Nurmes,Finland,63.5333,29.1667,13.47,Broken clouds,0.98,✅ Safe,2025-08-23 20:08:02
+Nykarleby (Uusikaarlepyy),Finland,63.5333,22.5333,12.92,Overcast clouds,2.98,✅ Safe,2025-08-23 20:08:04
+Nyslott (Savonlinna),Finland,61.8667,28.9,15.34,Overcast clouds,1.84,✅ Safe,2025-08-23 20:08:05
+Nystad (Uusikaupunki),Finland,60.8,21.4167,15.06,Few clouds,6.1,⚠ Moderate,2025-08-23 20:08:07
+Olkiluoto,Finland,61.2333,21.4833,14.38,Few clouds,5.93,⚠ Moderate,2025-08-23 20:08:10
+Oulu (Uleaborg),Finland,65.0167,25.4667,12.99,Overcast clouds,4.72,✅ Safe,2025-08-23 20:08:12
+Parainen (Pargas),Finland,60.3,22.3,15.36,Overcast clouds,5.7,⚠ Moderate,2025-08-23 20:08:13
+Parhalahti,Finland,64.4833,24.3333,12.74,Overcast clouds,3.43,✅ Safe,2025-08-23 20:08:15
+Parikkala,Finland,61.55,29.5,15.33,Overcast clouds,1.58,✅ Safe,2025-08-23 20:08:17
+Parola,Finland,61.0333,24.35,15.55,Broken clouds,2.71,✅ Safe,2025-08-23 20:08:19
+Perna (Pernaja),Finland,60.45,26.05,16.09,Overcast clouds,0.68,✅ Safe,2025-08-23 20:08:21
+Perttula,Finland,60.45,24.7,16.0,Overcast clouds,2.14,✅ Safe,2025-08-23 20:08:23
+Pihtipudas,Finland,63.3833,25.5667,13.37,Overcast clouds,1.32,✅ Safe,2025-08-23 20:08:25
+Piikkio,Finland,60.4333,22.5167,15.5,Overcast clouds,1.78,✅ Safe,2025-08-23 20:08:27
+Pohjankuru (Skuru),Finland,60.1167,23.55,15.44,Overcast clouds,1.76,✅ Safe,2025-08-23 20:08:28
+Poitsila,Finland,60.55,27.1667,16.36,Scattered clouds,0.84,✅ Safe,2025-08-23 20:08:30
+Rauma (Raumo),Finland,61.1333,21.5,14.58,Few clouds,5.75,⚠ Moderate,2025-08-23 20:08:32
+Rautaruukki,Finland,64.65,24.4167,12.73,Overcast clouds,4.72,✅ Safe,2025-08-23 20:08:34
+Reposaari,Finland,61.6167,21.45,13.34,Scattered clouds,6.55,⚠ Moderate,2025-08-23 20:08:35
+Rimito (Rymattyla),Finland,60.3667,21.95,15.34,Overcast clouds,10.06,⚡ Dangerous,2025-08-23 20:08:37
+Ristiina,Finland,61.5,27.2667,15.67,Overcast clouds,1.94,✅ Safe,2025-08-23 20:08:39
+Rouhu,Finland,60.5333,21.6667,15.32,Few clouds,8.73,⚠ Moderate,2025-08-23 20:08:41
+Rovaniemi,Finland,66.5,25.7167,7.42,Light rain,1.57,✅ Safe,2025-08-23 20:08:43
+Roytta,Finland,65.75,24.1667,11.35,Light rain,3.39,✅ Safe,2025-08-23 20:08:45
+Ruotsinpyhtaa (Stromfors),Finland,60.5333,26.45,15.96,Overcast clouds,1.29,✅ Safe,2025-08-23 20:08:47
+Ruovesi,Finland,61.9833,24.0833,15.16,Broken clouds,3.37,✅ Safe,2025-08-23 20:08:49
+Sando (Santasaari),Finland,60.2167,22.5,15.07,Overcast clouds,3.19,✅ Safe,2025-08-23 20:08:50
+Sarkisalmi,Finland,61.6,29.4833,15.15,Overcast clouds,1.89,✅ Safe,2025-08-23 20:08:52
+Sibbo (Sipoo),Finland,60.3667,25.2667,16.14,Overcast clouds,0.76,✅ Safe,2025-08-23 20:08:54
+Siilinjarvi,Finland,63.0833,27.6667,14.74,Broken clouds,0.67,✅ Safe,2025-08-23 20:08:55
+Siltakyla (Broby),Finland,60.5,26.75,16.01,Overcast clouds,1.78,✅ Safe,2025-08-23 20:08:57
+Skinnarvik,Finland,60.1333,22.4667,15.75,Overcast clouds,4.53,✅ Safe,2025-08-23 20:08:59
+Skutviken,Finland,59.9333,23.3833,15.55,Moderate rain,0.42,✅ Safe,2025-08-23 20:09:01
+Snappertuna,Finland,60.0,23.65,15.54,Light rain,1.11,✅ Safe,2025-08-23 20:09:03
+Sulkava,Finland,60.75,25.2,15.53,Overcast clouds,1.19,✅ Safe,2025-08-23 20:09:04
+Summa,Finland,60.5333,27.1167,16.33,Scattered clouds,0.99,✅ Safe,2025-08-23 20:09:06
+Sunila,Finland,60.4833,26.95,15.28,Scattered clouds,1.67,✅ Safe,2025-08-23 20:09:08
+Suomenlinna (Sveaborg),Finland,60.1333,24.9833,15.3,Overcast clouds,2.35,✅ Safe,2025-08-23 20:09:10
+Tahkoluoto,Finland,61.6333,21.4167,13.32,Scattered clouds,6.63,⚠ Moderate,2025-08-23 20:09:12
+Taivassalo (Tovsala),Finland,60.5667,21.6,15.37,Few clouds,8.49,⚠ Moderate,2025-08-23 20:09:13
+Tammerfors (Tampere),Finland,61.5,23.75,15.42,Overcast clouds,1.97,✅ Safe,2025-08-23 20:09:15
+Tervsund,Finland,60.25,22.3167,15.07,Overcast clouds,6.36,⚠ Moderate,2025-08-23 20:09:17
+Tessjo (Tesjoki),Finland,60.4667,26.3167,15.9,Overcast clouds,1.61,✅ Safe,2025-08-23 20:09:19
+Tessvar,Finland,60.05,22.9,16.04,Overcast clouds,4.69,✅ Safe,2025-08-23 20:09:21
+Tojby,Finland,62.65,21.1667,12.94,Light rain,4.11,✅ Safe,2025-08-23 20:09:23
+Tolkis (Tolkkinen),Finland,60.3333,25.5833,15.0,Overcast clouds,1.28,✅ Safe,2025-08-23 20:09:25
+Tornea (Tornio),Finland,65.85,24.1833,11.46,Overcast clouds,2.66,✅ Safe,2025-08-23 20:09:26
+Tottesund,Finland,63.2333,22.05,12.87,Overcast clouds,3.04,✅ Safe,2025-08-23 20:09:28
+Tvarminne,Finland,59.8333,23.1833,15.53,Overcast clouds,2.21,✅ Safe,2025-08-23 20:09:30
+Uimaharju,Finland,62.9,30.2333,13.97,Overcast clouds,1.46,✅ Safe,2025-08-23 20:09:32
+Ulvila,Finland,61.4333,21.8833,13.96,Scattered clouds,4.37,✅ Safe,2025-08-23 20:09:34
+Uskila,Finland,61.2333,24.25,15.51,Overcast clouds,3.06,✅ Safe,2025-08-23 20:09:35
+Vaasa (Vasa),Finland,63.1,21.6,12.67,Overcast clouds,2.5,✅ Safe,2025-08-23 20:09:37
+Varjakka,Finland,64.9,25.1333,12.99,Overcast clouds,5.23,⚠ Moderate,2025-08-23 20:09:39
+Varkaus,Finland,62.3167,27.9,15.77,Overcast clouds,1.33,✅ Safe,2025-08-23 20:09:40
+Varpuniemi (Kello),Finland,61.92411,25.748151,14.44,Overcast clouds,1.41,✅ Safe,2025-08-23 20:09:42
+Vartsala,Finland,60.3333,23.0,15.43,Overcast clouds,2.54,✅ Safe,2025-08-23 20:09:43
+Vasklot (Vaskiluoto),Finland,63.1,21.5667,11.89,Overcast clouds,2.63,✅ Safe,2025-08-23 20:09:45
+Vastanfjard,Finland,60.05,22.65,14.78,Overcast clouds,4.66,✅ Safe,2025-08-23 20:09:46
+Veitsiluoto,Finland,65.6833,24.6333,11.63,Overcast clouds,1.44,✅ Safe,2025-08-23 20:09:48
+Velkua,Finland,60.4667,21.6667,15.28,Few clouds,9.76,⚠ Moderate,2025-08-23 20:09:50
+Vestlax,Finland,60.0833,22.7667,14.88,Overcast clouds,4.29,✅ Safe,2025-08-23 20:09:51
+Virrat (Virdois),Finland,62.2333,23.75,14.35,Overcast clouds,2.17,✅ Safe,2025-08-23 20:09:53
+Vuoksen Terminal,Finland,61.2167,28.8167,15.72,Overcast clouds,1.98,✅ Safe,2025-08-23 20:09:55
+Vuosaari (Nordsjo),Finland,60.2167,25.1833,16.23,Overcast clouds,2.42,✅ Safe,2025-08-23 20:09:57
+Yxpila,Finland,63.8333,23.0333,13.84,Light rain,3.95,✅ Safe,2025-08-23 20:09:59
+Port of Helsinki,Finland,60.16666667,24.95,16.33,Overcast clouds,2.19,✅ Safe,2025-08-23 20:10:01
+Baggo,Finland,59.88333,23.51667,15.51,Overcast clouds,0.59,✅ Safe,2025-08-23 20:10:03
+Bergo,Finland,62.98333,21.11667,11.84,Overcast clouds,5.09,⚠ Moderate,2025-08-23 20:10:05
+Elavisluoto,Finland,64.4,24.03333,12.7,Overcast clouds,3.95,✅ Safe,2025-08-23 20:10:07
+Hahtisaari,Finland,65.73333,24.55,11.36,Overcast clouds,1.36,✅ Safe,2025-08-23 20:10:09
+Hangonkyla,Finland,59.85,22.95,16.16,Overcast clouds,6.6,⚠ Moderate,2025-08-23 20:10:11
+Hango (Hanko),Finland,59.8270084,22.969172,15.4,Overcast clouds,6.78,⚠ Moderate,2025-08-23 20:10:12
+Hakkeenpaa,Finland,60.5,21.61667,15.35,Few clouds,9.34,⚠ Moderate,2025-08-23 20:10:14
+Jerisjarvi,Finland,67.9,24.05,8.8,Overcast clouds,3.29,✅ Safe,2025-08-23 20:10:15
+Juuka,Finland,63.233,29.25,13.98,Overcast clouds,0.45,✅ Safe,2025-08-23 20:10:17
+Keihassalmi,Finland,60.43333,26.65,15.93,Light rain,1.66,✅ Safe,2025-08-23 20:10:19
+Kaakamoniemi,Finland,65.76667,24.43333,11.39,Light rain,2.07,✅ Safe,2025-08-23 20:10:21
+Klobbskat,Finland,63.3,21.08333,11.72,Overcast clouds,6.12,⚠ Moderate,2025-08-23 20:10:23
+Kaldinge,Finland,60.16667,22.05,15.16,Broken clouds,11.38,⚡ Dangerous,2025-08-23 20:10:25
+Kemijokisuu,Finland,65.78333,24.51667,11.56,Overcast clouds,1.64,✅ Safe,2025-08-23 20:10:26
+Kasnas,Finland,59.91667,22.41667,15.87,Overcast clouds,8.61,⚠ Moderate,2025-08-23 20:10:28
+Korrvik,Finland,60.08333,19.93333,13.81,Few clouds,8.5,⚠ Moderate,2025-08-23 20:10:30
+Krooka,Finland,61.85,21.48333,14.03,Broken clouds,5.33,⚠ Moderate,2025-08-23 20:10:31
+Kuusinen,Finland,60.46667,26.95,16.08,Scattered clouds,1.62,✅ Safe,2025-08-23 20:10:33
+Kiviniemi/Kello,Finland,65.11667,25.31667,12.84,Overcast clouds,5.01,⚠ Moderate,2025-08-23 20:10:34
+Lankoori,Finland,61.43333,21.46667,13.47,Scattered clouds,6.35,⚠ Moderate,2025-08-23 20:10:36
+Laupunen,Finland,60.48333,21.48333,15.32,Few clouds,9.55,⚠ Moderate,2025-08-23 20:10:37
+Laivaniemi,Finland,65.8,24.33333,11.5,Light rain,2.43,✅ Safe,2025-08-23 20:10:39
+Marjaniemi,Finland,65.03333,24.56667,12.74,Light rain,5.43,⚠ Moderate,2025-08-23 20:10:41
+Maksniemi,Finland,65.66667,24.76667,11.62,Overcast clouds,1.66,✅ Safe,2025-08-23 20:10:42
+Mourusalmi,Finland,66.1,28.41667,12.59,Moderate rain,3.16,✅ Safe,2025-08-23 20:10:44
+Mantyluoto,Finland,61.58333,21.48333,13.96,Scattered clouds,6.41,⚠ Moderate,2025-08-23 20:10:46
+Multia,Finland,62.417,24.783,14.34,Broken clouds,2.25,✅ Safe,2025-08-23 20:10:48
+Munsala,Finland,63.483,22.333,12.83,Overcast clouds,3.69,✅ Safe,2025-08-23 20:10:50
+Oskata/Nampnas,Finland,62.46667,21.13333,11.98,Light rain,5.94,⚠ Moderate,2025-08-23 20:10:52
+Oulu,Finland,65.01667,25.48333,12.99,Overcast clouds,4.72,✅ Safe,2025-08-23 20:10:53
+Pitkaluoto,Finland,61.0,21.28333,13.99,Few clouds,7.11,⚠ Moderate,2025-08-23 20:10:55
+Pennala,Finland,63.2782702,27.3886646,14.56,Overcast clouds,2.12,✅ Safe,2025-08-23 20:10:57
+Puhos,Finland,62.1,29.917,15.36,Overcast clouds,2.09,✅ Safe,2025-08-23 20:10:59
+Riutunkari,Finland,65.0,25.2,12.66,Overcast clouds,6.05,⚠ Moderate,2025-08-23 20:11:01
+Finby (Sarkisalo),Finland,60.1,22.933,15.1,Overcast clouds,3.95,✅ Safe,2025-08-23 20:11:03
+Siltaharju,Finland,68.0,26.88333,9.05,Overcast clouds,2.72,✅ Safe,2025-08-23 20:11:05
+Simojarvi,Finland,66.1,27.08333,10.26,Moderate rain,2.53,✅ Safe,2025-08-23 20:11:07
+Simoniemi,Finland,65.65,24.9,11.51,Overcast clouds,2.13,✅ Safe,2025-08-23 20:11:09
+Sarkansalmi,Finland,60.46667,21.91667,15.54,Overcast clouds,8.87,⚠ Moderate,2025-08-23 20:11:11
+Varessaikka,Finland,64.88333,24.8,12.84,Overcast clouds,5.16,⚠ Moderate,2025-08-23 20:11:13
+Veskoniemi,Finland,69.0388723,26.9975545,9.69,Overcast clouds,1.28,✅ Safe,2025-08-23 20:11:14
+Vuosnainen,Finland,60.51667,21.25,15.13,Few clouds,9.13,⚠ Moderate,2025-08-23 20:11:17
+Vatunginnokka,Finland,65.55,25.11667,12.19,Overcast clouds,3.48,✅ Safe,2025-08-23 20:11:18

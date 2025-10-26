@@ -1,0 +1,456 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Anpu,China,21.3833,109.8333,30.0,Clear sky,1.66,✅ Safe,2025-08-23 16:17:49
+Anqing Pt,China,30.5167,117.0333,30.97,Few clouds,2.45,✅ Safe,2025-08-23 16:17:51
+Anqiu,China,36.4167,119.1833,28.49,Overcast clouds,3.61,✅ Safe,2025-08-23 16:17:53
+Anting,China,31.3,121.15,32.94,Few clouds,1.67,✅ Safe,2025-08-23 16:17:54
+Aojiang Pt,China,27.5833,120.45,26.66,Clear sky,1.63,✅ Safe,2025-08-23 16:17:56
+Bacao,China,25.4667,105.7833,24.48,Overcast clouds,1.28,✅ Safe,2025-08-23 16:17:57
+Badong,China,31.0333,110.3833,28.23,Light rain,2.16,✅ Safe,2025-08-23 16:17:59
+Baiceng,China,25.4333,105.8,24.9,Overcast clouds,1.17,✅ Safe,2025-08-23 16:18:00
+Baimajing,China,19.7,109.2167,28.08,Scattered clouds,2.72,✅ Safe,2025-08-23 16:18:02
+Baimao,China,35.0167,118.6,26.92,Light rain,0.75,✅ Safe,2025-08-23 16:18:03
+Baiyang,China,30.4333,111.5167,29.74,Scattered clouds,3.73,✅ Safe,2025-08-23 16:18:05
+Baoshan Pt,China,31.4167,121.4833,32.49,Overcast clouds,1.69,✅ Safe,2025-08-23 16:18:06
+Basuo Pt,China,19.0,108.6167,28.35,Few clouds,5.65,⚠ Moderate,2025-08-23 16:18:08
+Beihai Pt,China,21.4667,109.1167,29.69,Clear sky,1.56,✅ Safe,2025-08-23 16:18:10
+Beijiao,China,22.9167,113.2,31.53,Broken clouds,4.61,✅ Safe,2025-08-23 16:18:11
+Beitan,China,21.3667,110.25,28.39,Light rain,3.2,✅ Safe,2025-08-23 16:18:13
+Bijia,China,22.6167,114.85,29.98,Heavy intensity rain,8.06,⚠ Moderate,2025-08-23 16:18:14
+Binhai,China,33.7167,119.6167,28.13,Clear sky,2.93,✅ Safe,2025-08-23 16:18:16
+Binyang,China,27.25,120.3333,26.58,Clear sky,1.42,✅ Safe,2025-08-23 16:18:18
+Bohe,China,21.5167,111.0,27.74,Clear sky,3.5,✅ Safe,2025-08-23 16:18:19
+Bozhong,China,38.45,118.4333,25.84,Light rain,0.44,✅ Safe,2025-08-23 16:18:20
+Cangshan,China,34.85,118.05,28.66,Broken clouds,2.36,✅ Safe,2025-08-23 16:18:22
+Cangwu,China,23.4833,111.3167,29.63,Broken clouds,1.18,✅ Safe,2025-08-23 16:18:24
+Caofeidian Pt,China,38.95,118.5333,26.24,Broken clouds,2.65,✅ Safe,2025-08-23 16:18:25
+Caojing,China,30.7833,121.4,31.41,Clear sky,5.45,⚠ Moderate,2025-08-23 16:18:27
+Changdianhekou,China,40.4167,124.8,24.64,Broken clouds,1.36,✅ Safe,2025-08-23 16:18:28
+Changsha,China,28.2,112.9833,33.28,Scattered clouds,2.7,✅ Safe,2025-08-23 16:18:30
+Changshu Pt,China,31.65,120.7167,29.82,Scattered clouds,0.39,✅ Safe,2025-08-23 16:18:31
+Changzhou Pt,China,31.7833,119.9667,30.87,Clear sky,1.51,✅ Safe,2025-08-23 16:18:32
+Chaohu,China,31.6,117.85,30.42,Few clouds,2.19,✅ Safe,2025-08-23 16:18:34
+Chaoyang Pt,China,23.2667,116.6,27.67,Moderate rain,3.4,✅ Safe,2025-08-23 16:18:35
+Chaozhou Pt,China,23.6667,116.6333,28.31,Broken clouds,1.8,✅ Safe,2025-08-23 16:18:37
+Chencun,China,22.95,113.2333,31.48,Broken clouds,4.38,✅ Safe,2025-08-23 16:18:38
+Chengde,China,40.9667,117.9333,17.95,Moderate rain,1.64,✅ Safe,2025-08-23 16:18:40
+Chenglingji Pt,China,29.4333,113.15,31.31,Clear sky,3.51,✅ Safe,2025-08-23 16:18:41
+Chengxi,China,31.9167,120.2333,30.75,Clear sky,1.26,✅ Safe,2025-08-23 16:18:43
+Chiwan Pt,China,22.4833,113.8833,30.41,Clear sky,7.12,⚠ Moderate,2025-08-23 16:18:44
+Chizhou Pt,China,30.65,117.4667,29.79,Few clouds,0.96,✅ Safe,2025-08-23 16:18:45
+Chongming,China,31.6333,121.4,31.65,Broken clouds,1.51,✅ Safe,2025-08-23 16:18:47
+Chongqing,China,29.5833,106.55,30.68,Overcast clouds,0.35,✅ Safe,2025-08-23 16:18:48
+Chuzhou,China,32.3167,118.2833,29.87,Broken clouds,2.1,✅ Safe,2025-08-23 16:18:50
+Cixi,China,30.1667,121.2333,32.34,Scattered clouds,3.85,✅ Safe,2025-08-23 16:18:51
+DA CHAN BAY,China,22.5333,113.8667,31.21,Clear sky,7.1,⚠ Moderate,2025-08-23 16:18:53
+Dadeng I.,China,24.5333,118.3167,28.93,Clear sky,3.77,✅ Safe,2025-08-23 16:18:54
+Dafeng Pt,China,33.1833,120.4667,27.73,Clear sky,2.67,✅ Safe,2025-08-23 16:18:56
+Dalian,China,38.9167,121.6,26.91,Moderate rain,2.25,✅ Safe,2025-08-23 16:18:58
+Dalu Island,China,39.7333,123.7167,25.44,Overcast clouds,1.72,✅ Safe,2025-08-23 16:18:59
+Damaiyu,China,25.1833,119.6,29.24,Clear sky,1.63,✅ Safe,2025-08-23 16:19:00
+Dandong,China,40.1333,124.3667,24.48,Broken clouds,2.03,✅ Safe,2025-08-23 16:19:02
+Danzhou,China,25.3667,109.4333,28.51,Overcast clouds,0.81,✅ Safe,2025-08-23 16:19:03
+Dapeng,China,22.6,114.5,30.36,Scattered clouds,5.27,⚠ Moderate,2025-08-23 16:19:05
+Dashihuagang,China,38.9,121.6,26.84,Moderate rain,2.25,✅ Safe,2025-08-23 16:19:06
+Daxie Pt,China,29.8833,121.95,28.59,Clear sky,7.43,⚠ Moderate,2025-08-23 16:19:08
+Dayawan,China,22.6667,114.6667,29.04,Moderate rain,5.91,⚠ Moderate,2025-08-23 16:19:09
+Defeng,China,26.2167,109.1167,25.15,Overcast clouds,1.71,✅ Safe,2025-08-23 16:19:10
+Dezhou,China,37.4333,116.2833,25.82,Broken clouds,5.24,⚠ Moderate,2025-08-23 16:19:12
+Dongdaiwan,China,26.2333,119.6167,27.59,Clear sky,0.56,✅ Safe,2025-08-23 16:19:13
+Dongfang,China,19.05,108.9333,26.45,Few clouds,2.73,✅ Safe,2025-08-23 16:19:15
+Donggang,China,39.8833,124.1333,24.83,Broken clouds,1.99,✅ Safe,2025-08-23 16:19:17
+Dongguan Pt,China,23.0333,113.75,30.92,Broken clouds,4.86,✅ Safe,2025-08-23 16:19:18
+Donghai,China,22.95,115.6333,29.15,Scattered clouds,4.96,✅ Safe,2025-08-23 16:19:20
+Dongjiangkou,China,33.6667,108.6667,21.98,Overcast clouds,2.24,✅ Safe,2025-08-23 16:19:21
+Dongjiaotou Pt,China,20.3333,110.4167,28.98,Few clouds,2.93,✅ Safe,2025-08-23 16:19:23
+Dongping,China,21.7167,112.2167,28.71,Few clouds,7.07,⚠ Moderate,2025-08-23 16:19:24
+Dongshi,China,24.6667,118.4667,29.43,Clear sky,2.67,✅ Safe,2025-08-23 16:19:26
+Dongxing,China,21.4833,107.9833,29.4,Overcast clouds,2.3,✅ Safe,2025-08-23 16:19:28
+Dongying Pt,China,37.4167,118.6833,24.57,Broken clouds,4.36,✅ Safe,2025-08-23 16:19:29
+Doumen Pt,China,22.2,113.2833,29.7,Clear sky,6.78,⚠ Moderate,2025-08-23 16:19:31
+Ezhou,China,30.4,114.8167,29.48,Clear sky,4.0,✅ Safe,2025-08-23 16:19:32
+Fangcheng Pt,China,21.7667,108.35,29.33,Overcast clouds,2.26,✅ Safe,2025-08-23 16:19:33
+Fengcheng,China,36.7,121.2333,27.88,Few clouds,3.42,✅ Safe,2025-08-23 16:19:35
+Fengkai,China,23.05,112.45,30.56,Light rain,0.82,✅ Safe,2025-08-23 16:19:37
+Fujin,China,47.25,132.0333,18.71,Broken clouds,3.77,✅ Safe,2025-08-23 16:19:38
+Fuling,China,29.7,107.3333,29.31,Overcast clouds,1.1,✅ Safe,2025-08-23 16:19:40
+Fuyong,China,22.65,113.7833,31.07,Few clouds,7.62,⚠ Moderate,2025-08-23 16:19:41
+Fuyuan,China,48.35,134.3,13.55,Scattered clouds,2.86,✅ Safe,2025-08-23 16:19:43
+Fuzhou,China,26.0833,119.3,27.81,Clear sky,1.49,✅ Safe,2025-08-23 16:19:44
+Gaogang,China,32.3,119.85,30.31,Clear sky,0.89,✅ Safe,2025-08-23 16:19:46
+Gaolan,China,21.9167,113.25,29.57,Clear sky,10.34,⚡ Dangerous,2025-08-23 16:19:47
+Gaolan,China,36.3167,103.9333,23.56,Clear sky,4.85,✅ Safe,2025-08-23 16:19:49
+Gaoming Pt,China,22.8833,112.8333,31.13,Light rain,3.03,✅ Safe,2025-08-23 16:19:50
+Gongkou,China,23.6333,117.2333,28.31,Scattered clouds,2.95,✅ Safe,2025-08-23 16:19:52
+Gongming,China,22.7833,113.8667,30.85,Scattered clouds,6.96,⚠ Moderate,2025-08-23 16:19:53
+Gongyi,China,22.25,112.8,29.45,Scattered clouds,4.1,✅ Safe,2025-08-23 16:19:55
+Guanghai Pt,China,21.9667,112.8,29.46,Clear sky,6.19,⚠ Moderate,2025-08-23 16:19:56
+Guangzhou,China,23.1333,113.2333,31.81,Light rain,2.71,✅ Safe,2025-08-23 16:19:58
+Guigang,China,23.1,109.6,30.39,Clear sky,1.73,✅ Safe,2025-08-23 16:19:59
+Guilin,China,25.2667,110.2833,30.29,Overcast clouds,1.03,✅ Safe,2025-08-23 16:20:01
+Guishan,China,22.1333,113.8167,30.9,Light rain,10.49,⚡ Dangerous,2025-08-23 16:20:02
+Guzhen,China,22.6,113.1667,30.93,Scattered clouds,5.99,⚠ Moderate,2025-08-23 16:20:04
+Haikou,China,20.0333,110.3333,28.65,Few clouds,2.17,✅ Safe,2025-08-23 16:20:05
+Haikou New Pt,China,20.25,108.8333,29.0,Few clouds,1.74,✅ Safe,2025-08-23 16:20:07
+Haikou Pt,China,20.0333,110.1667,28.94,Clear sky,1.46,✅ Safe,2025-08-23 16:20:08
+Haimen,China,28.6667,121.4333,28.02,Clear sky,3.15,✅ Safe,2025-08-23 16:20:10
+Harbin,China,45.7333,126.6,23.73,Overcast clouds,2.63,✅ Safe,2025-08-23 16:20:12
+Hebei,China,39.8833,115.2667,15.18,Moderate rain,2.44,✅ Safe,2025-08-23 16:20:13
+Heihe,China,50.2333,127.4833,17.6,Overcast clouds,1.88,✅ Safe,2025-08-23 16:20:15
+Heishantou,China,50.2,119.3833,14.34,Overcast clouds,3.64,✅ Safe,2025-08-23 16:20:17
+Hengban,China,22.2,112.3167,28.32,Scattered clouds,2.51,✅ Safe,2025-08-23 16:20:18
+Hengli,China,23.1667,114.6167,30.14,Scattered clouds,2.74,✅ Safe,2025-08-23 16:20:20
+Heshan Pt,China,22.7667,112.95,30.99,Light rain,4.83,✅ Safe,2025-08-23 16:20:21
+Hetang,China,22.65,113.1333,31.01,Scattered clouds,6.05,⚠ Moderate,2025-08-23 16:20:23
+Honghai Pt,China,23.1667,114.2667,30.22,Broken clouds,1.94,✅ Safe,2025-08-23 16:20:24
+Houjie,China,22.9333,113.6333,31.04,Broken clouds,6.72,⚠ Moderate,2025-08-23 16:20:26
+Houzhu,China,24.8833,118.6667,28.12,Few clouds,1.22,✅ Safe,2025-08-23 16:20:27
+Huachuan,China,47.0167,130.7,19.47,Overcast clouds,3.41,✅ Safe,2025-08-23 16:20:29
+Huaiji,China,23.05,112.45,30.56,Light rain,0.82,✅ Safe,2025-08-23 16:20:31
+Huailai,China,40.3667,115.5,17.2,Moderate rain,2.38,✅ Safe,2025-08-23 16:20:33
+Huaiyin,China,33.6333,119.0167,27.94,Clear sky,3.66,✅ Safe,2025-08-23 16:20:34
+Huanghua Pt,China,38.35,117.35,23.69,Broken clouds,4.7,✅ Safe,2025-08-23 16:20:35
+Huangjiang,China,25.1,107.3333,25.25,Overcast clouds,1.01,✅ Safe,2025-08-23 16:20:37
+Huangpu New Port,China,23.0833,113.5,31.03,Broken clouds,4.81,✅ Safe,2025-08-23 16:20:38
+Huangshi Pt,China,30.2,115.1,29.07,Few clouds,3.54,✅ Safe,2025-08-23 16:20:40
+Huangxian,China,29.55,121.5667,31.72,Clear sky,2.74,✅ Safe,2025-08-23 16:20:41
+Huangyan,China,28.6333,121.25,27.89,Clear sky,2.15,✅ Safe,2025-08-23 16:20:43
+Huidong Pt,China,22.9833,114.7,30.13,Few clouds,2.6,✅ Safe,2025-08-23 16:20:45
+Huizhou Pt,China,23.0833,114.3667,30.19,Scattered clouds,3.07,✅ Safe,2025-08-23 16:20:46
+Hulin,China,45.7833,132.95,19.88,Overcast clouds,2.78,✅ Safe,2025-08-23 16:20:48
+Huludao Pt,China,40.75,120.85,27.48,Scattered clouds,1.49,✅ Safe,2025-08-23 16:20:49
+Humen Pt,China,22.8333,113.6667,30.99,Broken clouds,7.27,⚠ Moderate,2025-08-23 16:20:51
+Huzhou Pt,China,30.8667,120.1,29.01,Few clouds,0.61,✅ Safe,2025-08-23 16:20:52
+Jiangkou,China,23.45,111.5,29.44,Light rain,0.93,✅ Safe,2025-08-23 16:20:54
+Jiangmen Pt,China,22.5833,113.0667,30.66,Scattered clouds,5.81,⚠ Moderate,2025-08-23 16:20:55
+Jiangshan Pt,China,21.6333,108.2667,29.21,Overcast clouds,1.99,✅ Safe,2025-08-23 16:20:57
+Jiangyin,China,25.4667,119.3,28.84,Clear sky,0.24,✅ Safe,2025-08-23 16:20:59
+Jiangyin Pt,China,31.9,120.2833,30.8,Clear sky,1.07,✅ Safe,2025-08-23 16:21:00
+Jiaxing,China,30.7667,120.75,30.02,Clear sky,3.55,✅ Safe,2025-08-23 16:21:02
+Jiayin,China,48.8667,130.3667,17.5,Scattered clouds,2.67,✅ Safe,2025-08-23 16:21:03
+Jiazi,China,22.8667,116.05,28.5,Moderate rain,6.51,⚠ Moderate,2025-08-23 16:21:05
+Jinghai,China,23.0333,116.3,27.78,Moderate rain,3.81,✅ Safe,2025-08-23 16:21:07
+Jinghong,China,22.0167,100.8,21.87,Overcast clouds,0.39,✅ Safe,2025-08-23 16:21:08
+Jingjiang Pt,China,32.0333,120.2833,30.04,Few clouds,1.9,✅ Safe,2025-08-23 16:21:10
+Jinguzhou,China,22.5167,113.0167,30.27,Scattered clouds,5.38,⚠ Moderate,2025-08-23 16:21:12
+Jingzhou Pt,China,30.3,112.2667,29.65,Clear sky,4.55,✅ Safe,2025-08-23 16:21:13
+Jinjing,China,25.5,119.7833,29.65,Clear sky,0.82,✅ Safe,2025-08-23 16:21:15
+Jinzhou Pt,China,41.1167,121.15,25.58,Broken clouds,3.58,✅ Safe,2025-08-23 16:21:17
+Jiujiang,China,22.8333,113.0,31.6,Light rain,4.98,✅ Safe,2025-08-23 16:21:19
+Jiujiang Pt,China,29.7167,115.9667,29.56,Broken clouds,1.89,✅ Safe,2025-08-23 16:21:20
+Jiuzhen,China,24.0333,117.7,28.02,Clear sky,3.1,✅ Safe,2025-08-23 16:21:22
+Jurong,China,31.9167,119.1667,29.53,Clear sky,1.83,✅ Safe,2025-08-23 16:21:23
+Kaifeng,China,34.7833,114.3333,31.01,Overcast clouds,3.05,✅ Safe,2025-08-23 16:21:25
+Laizhou Pt,China,37.1667,119.95,26.61,Moderate rain,0.3,✅ Safe,2025-08-23 16:21:26
+Lanshan Pt,China,35.0667,119.3667,30.1,Clear sky,3.47,✅ Safe,2025-08-23 16:21:28
+Lanxi,China,29.2,119.4667,30.04,Clear sky,0.65,✅ Safe,2025-08-23 16:21:30
+Lianhuashan Pt,China,23.0167,115.2667,28.21,Scattered clouds,2.83,✅ Safe,2025-08-23 16:21:31
+Lianyungang,China,34.7167,119.4333,28.97,Scattered clouds,4.08,✅ Safe,2025-08-23 16:21:33
+Lianzhou,China,24.7667,112.35,28.38,Overcast clouds,0.63,✅ Safe,2025-08-23 16:21:34
+Liling,China,27.6667,113.4833,30.47,Broken clouds,1.26,✅ Safe,2025-08-23 16:21:36
+Linhai,China,28.85,121.1167,28.98,Broken clouds,2.06,✅ Safe,2025-08-23 16:21:37
+Lisui,China,40.0667,116.75,21.41,Overcast clouds,4.69,✅ Safe,2025-08-23 16:21:39
+Liudu,China,23.0667,112.0,30.06,Moderate rain,2.1,✅ Safe,2025-08-23 16:21:41
+Liusha,China,20.9,110.0667,29.71,Few clouds,3.29,✅ Safe,2025-08-23 16:21:42
+Liuzhou Pt,China,23.3167,109.4,29.36,Scattered clouds,1.99,✅ Safe,2025-08-23 16:21:44
+Longguan,China,40.7667,115.5667,14.31,Light rain,0.22,✅ Safe,2025-08-23 16:21:45
+Longhai,China,26.4667,113.2667,28.91,Light rain,2.87,✅ Safe,2025-08-23 16:21:47
+Longkou Pt,China,37.65,120.35,27.58,Light rain,2.83,✅ Safe,2025-08-23 16:21:49
+Longyan Pt,China,37.4333,122.6333,26.52,Clear sky,5.23,⚠ Moderate,2025-08-23 16:21:50
+Lu'an,China,31.7333,116.4833,30.29,Broken clouds,1.54,✅ Safe,2025-08-23 16:21:52
+Lufeng,China,22.95,115.6333,29.15,Scattered clouds,4.96,✅ Safe,2025-08-23 16:21:54
+Lu-hua Shan,China,30.8167,122.6167,27.74,Clear sky,8.51,⚠ Moderate,2025-08-23 16:21:55
+Luobei,China,47.5667,130.8167,19.39,Broken clouds,3.0,✅ Safe,2025-08-23 16:21:57
+Lushun New Pt,China,38.6833,121.1833,26.04,Broken clouds,3.02,✅ Safe,2025-08-23 16:21:59
+Lusi,China,32.05,121.6167,29.43,Clear sky,4.15,✅ Safe,2025-08-23 16:22:00
+Luzhou,China,28.9,105.4,27.65,Overcast clouds,1.25,✅ Safe,2025-08-23 16:22:02
+Maanshan Pt,China,31.7167,118.4667,31.07,Few clouds,1.76,✅ Safe,2025-08-23 16:22:03
+Macun,China,19.95,110.0167,28.28,Clear sky,2.31,✅ Safe,2025-08-23 16:22:05
+Mafang,China,23.35,112.6833,30.51,Scattered clouds,1.18,✅ Safe,2025-08-23 16:22:06
+Maji Shan,China,30.6667,122.4,28.02,Clear sky,9.14,⚠ Moderate,2025-08-23 16:22:08
+Mawan Pt,China,22.45,113.8833,31.24,Clear sky,7.44,⚠ Moderate,2025-08-23 16:22:10
+Mawei Pt,China,25.9833,119.45,26.85,Clear sky,1.11,✅ Safe,2025-08-23 16:22:11
+Meisha Pt,China,24.7,117.0667,24.91,Scattered clouds,2.13,✅ Safe,2025-08-23 16:22:13
+Miyun,China,40.3667,116.8333,20.2,Light rain,4.63,✅ Safe,2025-08-23 16:22:15
+Mohe,China,53.0167,122.45,12.67,Overcast clouds,2.14,✅ Safe,2025-08-23 16:22:17
+Nanao Pt,China,23.4333,117.6833,28.83,Scattered clouds,3.1,✅ Safe,2025-08-23 16:22:18
+Nanhai Pt,China,23.0167,113.15,31.79,Light rain,3.65,✅ Safe,2025-08-23 16:22:19
+Nanjiangkou,China,23.1167,111.8,30.19,Scattered clouds,1.96,✅ Safe,2025-08-23 16:22:21
+Nanjing,China,32.05,118.7667,30.53,Few clouds,2.07,✅ Safe,2025-08-23 16:22:22
+Nanning,China,22.8,108.3167,30.5,Scattered clouds,2.05,✅ Safe,2025-08-23 16:22:24
+Nansha Pt,China,22.75,113.5833,30.48,Broken clouds,7.38,⚠ Moderate,2025-08-23 16:22:26
+Nantong Pt,China,32.0167,120.85,31.12,Few clouds,0.91,✅ Safe,2025-08-23 16:22:28
+Naozhou,China,20.9167,110.5833,29.64,Clear sky,3.79,✅ Safe,2025-08-23 16:22:29
+Ningbo,China,29.8667,121.55,32.96,Scattered clouds,3.44,✅ Safe,2025-08-23 16:22:31
+Ningbo Pt,China,29.9167,121.6667,32.7,Few clouds,4.03,✅ Safe,2025-08-23 16:22:33
+Ningbo,China,29.8667,121.55,32.96,Scattered clouds,3.44,✅ Safe,2025-08-23 16:22:34
+Nudao,China,36.3833,120.8667,28.45,Clear sky,5.37,⚠ Moderate,2025-08-23 16:22:36
+Panjin,China,41.1167,122.05,27.24,Few clouds,3.11,✅ Safe,2025-08-23 16:22:37
+Penglai Pt,China,37.8,120.75,27.38,Overcast clouds,1.63,✅ Safe,2025-08-23 16:22:39
+Pingshaxinmatou,China,22.1,113.1667,30.07,Clear sky,7.46,⚠ Moderate,2025-08-23 16:22:40
+Pingzhou,China,23.0333,113.2,31.62,Light rain,3.67,✅ Safe,2025-08-23 16:22:42
+Pizhou,China,34.3351999,118.01246,29.15,Scattered clouds,3.44,✅ Safe,2025-08-23 16:22:43
+Pudong/Shanghai,China,31.2333,121.5,32.54,Scattered clouds,3.17,✅ Safe,2025-08-23 16:22:45
+Putian,China,24.4333,119.0167,29.27,Clear sky,3.39,✅ Safe,2025-08-23 16:22:46
+Puyang,China,35.7,115.0,26.86,Overcast clouds,2.59,✅ Safe,2025-08-23 16:22:48
+Qianshan/Zhuhai,China,22.2333,113.5167,30.48,Clear sky,7.65,⚠ Moderate,2025-08-23 16:22:50
+Qianwan,China,36.05,120.2167,28.78,Few clouds,4.84,✅ Safe,2025-08-23 16:22:51
+Qianyu,China,26.2,119.5167,26.41,Clear sky,0.62,✅ Safe,2025-08-23 16:22:53
+Qingdao,China,36.05,120.3167,29.21,Few clouds,4.9,✅ Safe,2025-08-23 16:22:54
+Qingguji / Shangqiu,China,34.6833,115.7667,31.41,Overcast clouds,2.46,✅ Safe,2025-08-23 16:22:56
+Qinglan Pt,China,19.55,110.8167,27.28,Scattered clouds,4.71,✅ Safe,2025-08-23 16:22:57
+Qingshi,China,41.3667,126.5167,23.11,Scattered clouds,0.77,✅ Safe,2025-08-23 16:22:59
+Qingyuan,China,23.7,113.0167,31.13,Clear sky,1.04,✅ Safe,2025-08-23 16:23:00
+Qinhuangdao Pt,China,39.9167,119.5833,25.86,Broken clouds,1.77,✅ Safe,2025-08-23 16:23:02
+Qisha Pt,China,21.5833,108.4667,29.74,Overcast clouds,2.32,✅ Safe,2025-08-23 16:23:03
+Quanzhou,China,24.9333,118.6,28.48,Few clouds,1.7,✅ Safe,2025-08-23 16:23:05
+Quanzhou Pt,China,24.9333,118.6,28.48,Few clouds,1.7,✅ Safe,2025-08-23 16:23:06
+Quxi,China,23.5833,116.4333,28.07,Broken clouds,2.14,✅ Safe,2025-08-23 16:23:08
+Raohe,China,46.8,134.0,17.47,Broken clouds,1.5,✅ Safe,2025-08-23 16:23:09
+Raoping,China,23.6667,117.0,28.25,Broken clouds,2.31,✅ Safe,2025-08-23 16:23:11
+Rizhao Pt,China,35.3833,119.5333,28.49,Few clouds,3.74,✅ Safe,2025-08-23 16:23:13
+Rongcheng,China,37.15,122.3833,25.77,Clear sky,2.96,✅ Safe,2025-08-23 16:23:14
+Rongqi Pt,China,22.7833,113.2667,31.21,Broken clouds,6.04,⚠ Moderate,2025-08-23 16:23:16
+Saiqi,China,26.9667,119.6833,27.76,Clear sky,1.79,✅ Safe,2025-08-23 16:23:17
+Sanming / Shanming Shi,China,26.2333,117.6167,22.14,Light rain,2.79,✅ Safe,2025-08-23 16:23:19
+Sansha,China,26.9333,120.2167,24.64,Few clouds,3.56,✅ Safe,2025-08-23 16:23:20
+Sanshui,China,23.1667,112.8667,30.73,Moderate rain,2.39,✅ Safe,2025-08-23 16:23:22
+Sanya Pt,China,33.7833,120.25,27.69,Clear sky,2.58,✅ Safe,2025-08-23 16:23:23
+Sanzao,China,22.05,113.35,30.23,Clear sky,9.64,⚠ Moderate,2025-08-23 16:23:25
+Shacheng,China,26.65,119.5167,26.74,Clear sky,1.11,✅ Safe,2025-08-23 16:23:26
+Shadi,China,21.6,112.7833,28.45,Moderate rain,10.21,⚡ Dangerous,2025-08-23 16:23:28
+Shanghai,China,31.2333,121.4833,32.76,Scattered clouds,2.99,✅ Safe,2025-08-23 16:23:29
+Shanghai,China,31.2333,121.4833,32.76,Scattered clouds,2.99,✅ Safe,2025-08-23 16:23:31
+Shangyu,China,30.0,120.8667,32.27,Scattered clouds,0.33,✅ Safe,2025-08-23 16:23:32
+Shanshan,China,42.8667,90.1667,35.38,Clear sky,2.72,✅ Safe,2025-08-23 16:23:34
+Shantou Pt,China,23.4167,116.7667,29.45,Light rain,3.83,✅ Safe,2025-08-23 16:23:35
+Shanwai,China,28.05,121.2,28.09,Few clouds,4.41,✅ Safe,2025-08-23 16:23:36
+Shanwei Pt,China,22.7833,115.35,29.98,Scattered clouds,7.61,⚠ Moderate,2025-08-23 16:23:38
+Shaoguan New Pt,China,24.8,113.6167,28.24,Broken clouds,1.56,✅ Safe,2025-08-23 16:23:40
+Shapa,China,21.5,111.4833,27.9,Scattered clouds,5.58,⚠ Moderate,2025-08-23 16:23:41
+Shatian,China,23.9833,113.9,27.97,Broken clouds,1.85,✅ Safe,2025-08-23 16:23:43
+Shating,China,23.05,113.4333,31.13,Broken clouds,4.85,✅ Safe,2025-08-23 16:23:45
+Shekou Pt,China,22.4833,113.9167,30.71,Clear sky,6.84,⚠ Moderate,2025-08-23 16:23:46
+Shenhu,China,24.6167,118.6667,29.47,Few clouds,3.06,✅ Safe,2025-08-23 16:23:48
+Shenzhen,China,22.55,114.1167,30.56,Few clouds,5.08,⚠ Moderate,2025-08-23 16:23:49
+Sheyang,China,33.7667,120.25,27.75,Clear sky,2.53,✅ Safe,2025-08-23 16:23:51
+Shidao Pt,China,36.8667,122.4333,26.6,Clear sky,4.24,✅ Safe,2025-08-23 16:23:52
+Shijing,China,24.6167,118.4333,29.01,Clear sky,3.01,✅ Safe,2025-08-23 16:23:54
+Shijiu Pt,China,36.3667,119.55,28.8,Few clouds,4.03,✅ Safe,2025-08-23 16:23:55
+Shilou,China,23.0167,113.5,31.1,Broken clouds,5.69,⚠ Moderate,2025-08-23 16:23:57
+Shipai,China,30.3167,116.65,28.09,Scattered clouds,2.82,✅ Safe,2025-08-23 16:23:58
+Shipu,China,29.4833,121.85,29.81,Clear sky,5.83,⚠ Moderate,2025-08-23 16:24:00
+Shiqiao,China,22.95,113.3667,31.12,Broken clouds,5.33,⚠ Moderate,2025-08-23 16:24:01
+Shishi,China,24.7333,118.6333,29.46,Few clouds,2.37,✅ Safe,2025-08-23 16:24:03
+Shitoubu Pt,China,21.5833,109.55,30.22,Clear sky,1.4,✅ Safe,2025-08-23 16:24:05
+Shiwan,China,23.0,113.0833,31.92,Light rain,3.92,✅ Safe,2025-08-23 16:24:06
+Shuidong Pt,China,21.5167,111.0,27.73,Clear sky,3.5,✅ Safe,2025-08-23 16:24:08
+Shuikou,China,22.2333,110.9333,29.29,Moderate rain,0.14,✅ Safe,2025-08-23 16:24:09
+Shunde Pt,China,22.8333,113.25,31.33,Broken clouds,5.6,⚠ Moderate,2025-08-23 16:24:11
+Shuolong,China,22.8,106.8,26.76,Overcast clouds,1.62,✅ Safe,2025-08-23 16:24:13
+Sikuaishi,China,39.2833,122.5667,24.55,Overcast clouds,1.91,✅ Safe,2025-08-23 16:24:14
+Simao,China,22.8,100.9667,17.85,Overcast clouds,0.94,✅ Safe,2025-08-23 16:24:16
+Songjiang,China,31.0167,121.2333,31.89,Clear sky,3.26,✅ Safe,2025-08-23 16:24:17
+Songxia Pt,China,25.6833,119.5833,28.07,Clear sky,0.22,✅ Safe,2025-08-23 16:24:19
+Suibin,China,47.3,131.85,19.15,Broken clouds,4.04,✅ Safe,2025-08-23 16:24:20
+Suining,China,30.5333,105.5333,28.69,Overcast clouds,2.08,✅ Safe,2025-08-23 16:24:22
+Sunwu,China,49.4167,127.3167,15.6,Broken clouds,1.81,✅ Safe,2025-08-23 16:24:24
+Suzhou,China,31.3167,120.6167,31.84,Clear sky,0.6,✅ Safe,2025-08-23 16:24:25
+Taicang Pt,China,31.45,121.1,32.59,Broken clouds,0.78,✅ Safe,2025-08-23 16:24:27
+Taijiang,China,26.0833,119.5,25.09,Clear sky,0.99,✅ Safe,2025-08-23 16:24:29
+Taiping,China,21.0333,110.1667,29.66,Few clouds,3.16,✅ Safe,2025-08-23 16:24:30
+Taipingwan,China,37.2667,119.8333,27.42,Light rain,0.28,✅ Safe,2025-08-23 16:24:32
+Taizhou,China,32.4833,119.9,29.56,Clear sky,1.31,✅ Safe,2025-08-23 16:24:34
+Taizhou Pt,China,32.5,119.9,29.49,Clear sky,1.38,✅ Safe,2025-08-23 16:24:35
+Tanggu,China,39.0167,117.65,25.98,Scattered clouds,4.87,✅ Safe,2025-08-23 16:24:37
+Tangshan Pt,China,39.6,118.1833,23.6,Heavy intensity rain,4.36,✅ Safe,2025-08-23 16:24:39
+Tanmen,China,19.2333,110.4667,26.6,Overcast clouds,3.02,✅ Safe,2025-08-23 16:24:40
+Tianjin,China,39.0333,117.2,22.82,Broken clouds,4.79,✅ Safe,2025-08-23 16:24:42
+Tianjin Pt,China,38.9833,117.75,26.77,Few clouds,5.08,⚠ Moderate,2025-08-23 16:24:43
+Tianjin Xingang Pt,China,38.9833,117.7,26.61,Few clouds,5.0,⚠ Moderate,2025-08-23 16:24:45
+Tongjiang,China,47.65,132.5,16.98,Broken clouds,4.65,✅ Safe,2025-08-23 16:24:47
+Tongling Pt,China,30.9333,117.8,30.04,Clear sky,1.91,✅ Safe,2025-08-23 16:24:49
+Tongxiang,China,30.6333,120.5667,29.4,Clear sky,3.47,✅ Safe,2025-08-23 16:24:50
+Waihai,China,22.5833,113.1333,30.85,Scattered clouds,5.93,⚠ Moderate,2025-08-23 16:24:52
+Wanshan Pt,China,21.9333,113.7167,30.14,Clear sky,10.54,⚡ Dangerous,2025-08-23 16:24:53
+Wanzai,China,22.1833,113.5167,30.48,Clear sky,8.05,⚠ Moderate,2025-08-23 16:24:55
+Weifang Pt,China,36.7167,119.1,27.98,Overcast clouds,2.55,✅ Safe,2025-08-23 16:24:56
+Weihai,China,37.5167,122.1167,26.46,Clear sky,4.91,✅ Safe,2025-08-23 16:24:58
+Weihai Pt,China,37.5,122.1667,27.45,Clear sky,4.74,✅ Safe,2025-08-23 16:24:59
+Weitou,China,24.5333,118.6,29.18,Clear sky,3.47,✅ Safe,2025-08-23 16:25:01
+Wenling Longmen Port,China,28.4167,121.9833,28.81,Few clouds,5.7,⚠ Moderate,2025-08-23 16:25:03
+Wenshan,China,23.3667,104.25,21.25,Broken clouds,2.8,✅ Safe,2025-08-23 16:25:05
+Wenzhou Pt,China,28.0167,120.65,28.82,Few clouds,2.11,✅ Safe,2025-08-23 16:25:06
+Wuchuan,China,21.45,110.75,28.29,Scattered clouds,2.33,✅ Safe,2025-08-23 16:25:08
+Wuhan,China,30.5833,114.2833,33.74,Few clouds,2.56,✅ Safe,2025-08-23 16:25:09
+Wuhu Pt,China,31.3167,118.3667,30.93,Clear sky,1.55,✅ Safe,2025-08-23 16:25:11
+Wukan,China,22.85,115.65,28.46,Scattered clouds,6.64,⚠ Moderate,2025-08-23 16:25:13
+Wuxi,China,31.5667,120.3,31.98,Clear sky,1.03,✅ Safe,2025-08-23 16:25:15
+Wuzhou Pt,China,23.4833,111.3333,29.63,Light rain,1.18,✅ Safe,2025-08-23 16:25:17
+Xialong,China,25.7,119.3833,27.16,Clear sky,0.32,✅ Safe,2025-08-23 16:25:19
+Xiamen,China,24.45,118.1,28.38,Clear sky,3.18,✅ Safe,2025-08-23 16:25:20
+Xiamen Pt,China,24.35,118.2,29.12,Clear sky,4.81,✅ Safe,2025-08-23 16:25:22
+Xian,China,34.2833,108.95,27.11,Overcast clouds,1.83,✅ Safe,2025-08-23 16:25:23
+Xiangtan,China,27.85,112.9,31.19,Broken clouds,2.36,✅ Safe,2025-08-23 16:25:25
+Xiangzhi,China,24.7667,118.7667,28.9,Scattered clouds,2.13,✅ Safe,2025-08-23 16:25:27
+Xiantan,China,29.3333,104.8833,26.78,Overcast clouds,2.45,✅ Safe,2025-08-23 16:25:28
+Xiaocuo Pt,China,25.2,119.95,29.2,Clear sky,1.29,✅ Safe,2025-08-23 16:25:30
+Xiaolan,China,22.6667,113.2167,31.11,Scattered clouds,6.12,⚠ Moderate,2025-08-23 16:25:31
+Xiaotang,China,23.0833,112.9833,31.74,Moderate rain,3.15,✅ Safe,2025-08-23 16:25:33
+Xijiang,China,21.2833,114.8667,29.33,Overcast clouds,9.41,⚠ Moderate,2025-08-23 16:25:35
+Xincun,China,18.5,110.0167,28.1,Overcast clouds,1.94,✅ Safe,2025-08-23 16:25:37
+Xingang,China,23.0333,113.1,31.89,Moderate rain,3.67,✅ Safe,2025-08-23 16:25:38
+Xinhui Pt,China,22.5333,113.0167,29.41,Scattered clouds,5.47,⚠ Moderate,2025-08-23 16:25:40
+Xinsha,China,22.9833,113.5333,31.06,Broken clouds,6.19,⚠ Moderate,2025-08-23 16:25:42
+Xintang Pt,China,23.1167,113.6167,30.87,Broken clouds,4.61,✅ Safe,2025-08-23 16:25:44
+Xinyang,China,32.1333,114.05,29.46,Scattered clouds,3.58,✅ Safe,2025-08-23 16:25:45
+Xinying,China,19.7333,109.2833,27.92,Scattered clouds,2.61,✅ Safe,2025-08-23 16:25:47
+Xitou,China,21.65,111.7833,28.53,Scattered clouds,6.02,⚠ Moderate,2025-08-23 16:25:49
+Xiuyu Pt,China,25.2333,118.95,27.57,Clear sky,1.02,✅ Safe,2025-08-23 16:25:51
+Xunke,China,49.55,128.4667,17.03,Overcast clouds,2.2,✅ Safe,2025-08-23 16:25:52
+Yangjiang Pt,China,21.8333,111.9667,28.18,Scattered clouds,4.06,✅ Safe,2025-08-23 16:25:54
+Yangkou Pt,China,32.55,121.4,29.46,Clear sky,5.33,⚠ Moderate,2025-08-23 16:25:56
+Yangpu Pt,China,19.7,109.2,28.41,Scattered clouds,2.82,✅ Safe,2025-08-23 16:25:57
+Yangzhong,China,32.2167,119.8167,30.43,Clear sky,0.6,✅ Safe,2025-08-23 16:25:59
+Yangzhou Pt,China,32.3833,119.4333,29.24,Clear sky,1.97,✅ Safe,2025-08-23 16:26:01
+Yantai,China,37.4635299,121.44801,27.94,Overcast clouds,3.79,✅ Safe,2025-08-23 16:26:02
+Yantai Pt,China,37.55,121.4167,28.71,Overcast clouds,3.75,✅ Safe,2025-08-23 16:26:04
+Yantian Pt,China,26.85,119.8667,27.55,Clear sky,1.26,✅ Safe,2025-08-23 16:26:05
+Yingkou Pt,China,40.65,122.2167,26.55,Clear sky,1.99,✅ Safe,2025-08-23 16:26:07
+Yingzai,China,21.6167,110.2833,29.59,Moderate rain,2.06,✅ Safe,2025-08-23 16:26:08
+Yizheng,China,32.2667,119.1667,28.85,Clear sky,2.55,✅ Safe,2025-08-23 16:26:10
+Yongfu,China,24.9833,109.9833,29.87,Overcast clouds,0.92,✅ Safe,2025-08-23 16:26:12
+Yueyang,China,29.3667,113.1,31.28,Clear sky,3.48,✅ Safe,2025-08-23 16:26:13
+Yuhuan,China,28.1333,121.2333,28.62,Few clouds,4.39,✅ Safe,2025-08-23 16:26:15
+Yuzhu,China,23.1,113.4167,31.24,Broken clouds,3.72,✅ Safe,2025-08-23 16:26:17
+Zhangjiabian,China,22.55,113.45,30.79,Few clouds,6.13,⚠ Moderate,2025-08-23 16:26:18
+Zhangjiagang,China,31.8667,120.5333,30.49,Scattered clouds,0.11,✅ Safe,2025-08-23 16:26:20
+Zhangshan,China,34.1167,118.3167,29.45,Few clouds,3.31,✅ Safe,2025-08-23 16:26:22
+Zhangwan,China,26.7,119.5833,27.17,Clear sky,1.22,✅ Safe,2025-08-23 16:26:23
+Zhangzhou Pt,China,24.5167,117.65,28.27,Clear sky,2.23,✅ Safe,2025-08-23 16:26:25
+Zhanjiang Pt,China,21.0833,110.5,29.21,Clear sky,3.32,✅ Safe,2025-08-23 16:26:26
+Zhaodong,China,46.0667,125.9833,23.76,Overcast clouds,1.66,✅ Safe,2025-08-23 16:26:28
+Zhaogang,China,32.55,116.6333,31.41,Light rain,1.66,✅ Safe,2025-08-23 16:26:30
+Zhaoqing Pt,China,23.05,112.45,30.56,Light rain,0.82,✅ Safe,2025-08-23 16:26:32
+Zhapo,China,21.5667,111.85,29.16,Scattered clouds,8.85,⚠ Moderate,2025-08-23 16:26:33
+Zhapu Pt,China,30.5833,121.0833,31.47,Clear sky,3.91,✅ Safe,2025-08-23 16:26:35
+Zhelin,China,23.5833,117.1,28.17,Broken clouds,3.24,✅ Safe,2025-08-23 16:26:37
+zhengpugang Pt,China,31.6333,118.3833,30.84,Clear sky,1.85,✅ Safe,2025-08-23 16:26:38
+Zhenjiang Pt,China,32.1833,119.45,29.16,Clear sky,1.32,✅ Safe,2025-08-23 16:26:40
+Zhongshan Pt,China,22.5167,113.3667,30.72,Clear sky,5.74,⚠ Moderate,2025-08-23 16:26:41
+Zhongtang,China,23.0833,113.65,31.0,Broken clouds,4.96,✅ Safe,2025-08-23 16:26:43
+Zhuanghe Pt,China,39.6833,122.9667,25.74,Overcast clouds,2.46,✅ Safe,2025-08-23 16:26:45
+Zhuhai Pt,China,22.2833,113.5667,30.29,Clear sky,7.29,⚠ Moderate,2025-08-23 16:26:47
+Zhuliao,China,23.3667,113.3333,31.15,Scattered clouds,1.98,✅ Safe,2025-08-23 16:26:48
+Qingdao Port,China,36.05,120.3333333,29.06,Few clouds,4.74,✅ Safe,2025-08-23 16:26:50
+Port of Xiamen,China,24.45,118.0333333,29.26,Clear sky,2.3,✅ Safe,2025-08-23 16:26:52
+Port of Tianjin,China,39.1,117.1666667,22.56,Broken clouds,5.01,⚠ Moderate,2025-08-23 16:26:53
+Port of Dalian,China,38.91666667,121.6666667,26.72,Light rain,2.24,✅ Safe,2025-08-23 16:26:55
+Port of Huangpu,China,23.0566,113.5281,30.99,Broken clouds,5.41,⚠ Moderate,2025-08-23 16:26:57
+Port of Fuzhou,China,26.05,119.3,27.96,Clear sky,1.51,✅ Safe,2025-08-23 16:26:58
+Aoshanwei,China,36.35,120.667,28.96,Scattered clouds,3.84,✅ Safe,2025-08-23 16:27:00
+Baoshanmatou,China,31.2131001,121.5063355,32.52,Scattered clouds,3.22,✅ Safe,2025-08-23 16:27:01
+Bayuquan,China,40.230636,122.107814,25.41,Clear sky,1.85,✅ Safe,2025-08-23 16:27:03
+Beilun,China,29.933,121.883,29.03,Clear sky,7.38,⚠ Moderate,2025-08-23 16:27:05
+Benxi,China,41.28333,123.75,25.94,Scattered clouds,0.92,✅ Safe,2025-08-23 16:27:07
+Guangzhou,China,23.12911,113.264385,31.62,Light rain,2.74,✅ Safe,2025-08-23 16:27:08
+Changde,China,29.01667,111.66667,28.95,Broken clouds,3.62,✅ Safe,2025-08-23 16:27:10
+Changshu,China,31.7666,120.95,31.67,Scattered clouds,1.01,✅ Safe,2025-08-23 16:27:11
+Civet / Guandong,China,22.267,113.067,30.03,Few clouds,5.2,⚠ Moderate,2025-08-23 16:27:13
+Chongming,China,31.63333,121.38333,31.56,Broken clouds,1.66,✅ Safe,2025-08-23 16:27:15
+Dalian Pt,China,38.926984,121.654095,26.83,Light rain,2.22,✅ Safe,2025-08-23 16:27:16
+Dachendao,China,28.45,121.8666667,28.88,Few clouds,6.17,⚠ Moderate,2025-08-23 16:27:18
+Dandong,China,40.000787,124.354451,24.35,Broken clouds,2.45,✅ Safe,2025-08-23 16:27:20
+Dafeng,China,32.48333,120.0,29.5,Clear sky,1.1,✅ Safe,2025-08-23 16:27:21
+Dongying,China,37.45,118.48333,23.71,Broken clouds,3.05,✅ Safe,2025-08-23 16:27:23
+Dongjiakou,China,35.6,119.767,28.71,Few clouds,4.02,✅ Safe,2025-08-23 16:27:25
+Daliangang,China,38.9,121.6,26.84,Moderate rain,2.25,✅ Safe,2025-08-23 16:27:27
+Dongjiangkou,China,33.63333,108.63333,21.23,Overcast clouds,2.16,✅ Safe,2025-08-23 16:27:29
+Donglian Port,China,23.25,115.017,28.26,Few clouds,2.28,✅ Safe,2025-08-23 16:27:30
+Daqindao,China,36.067117,120.382612,29.11,Few clouds,4.53,✅ Safe,2025-08-23 16:27:32
+Dongshan Pt,China,23.701262,117.430061,28.16,Few clouds,2.27,✅ Safe,2025-08-23 16:27:34
+Dalian Pt,China,38.8828623,121.5278118,26.64,Broken clouds,2.26,✅ Safe,2025-08-23 16:27:35
+Fengcheng,China,36.7,121.23333,27.88,Few clouds,3.42,✅ Safe,2025-08-23 16:27:37
+Foshan,China,23.03333,113.1,31.89,Moderate rain,3.67,✅ Safe,2025-08-23 16:27:38
+Fuzhou Pt,China,25.974642,119.509221,27.16,Clear sky,0.98,✅ Safe,2025-08-23 16:27:40
+Gaosha,China,23.28333,115.66667,28.12,Scattered clouds,1.21,✅ Safe,2025-08-23 16:27:41
+Yingde,China,24.18333,113.4,29.29,Scattered clouds,1.02,✅ Safe,2025-08-23 16:27:43
+Guangdong Terminal,China,22.567,114.433,29.73,Heavy intensity rain,5.07,⚠ Moderate,2025-08-23 16:27:45
+Guangzhou Pt,China,23.114346,113.281455,31.56,Light rain,2.99,✅ Safe,2025-08-23 16:27:47
+Guangzhou Pt,China,23.1576366,113.4110535,30.06,Light rain,2.89,✅ Safe,2025-08-23 16:27:49
+Huangpo,China,31.231763,121.484443,32.54,Scattered clouds,3.17,✅ Safe,2025-08-23 16:27:51
+Heshan,China,23.810227,108.8868,29.95,Overcast clouds,1.02,✅ Safe,2025-08-23 16:27:52
+Huanghua,China,38.36667,117.35,23.54,Broken clouds,4.65,✅ Safe,2025-08-23 16:27:54
+Haitian Terminal/ Xiamen,China,27.1,120.3,25.41,Clear sky,2.01,✅ Safe,2025-08-23 16:27:55
+Haimen Pt,China,31.8195372,121.1249149,30.76,Scattered clouds,1.86,✅ Safe,2025-08-23 16:27:57
+Huangpu Old Port,China,23.1,113.41667,31.24,Broken clouds,3.72,✅ Safe,2025-08-23 16:27:58
+Huangsangkou,China,30.007232,115.336359,28.89,Scattered clouds,2.39,✅ Safe,2025-08-23 16:28:00
+Huangxingdao,China,30.199378,122.644701,28.71,Clear sky,8.69,⚠ Moderate,2025-08-23 16:28:02
+Jiao Xin,China,22.705124,113.316811,31.12,Broken clouds,6.21,⚠ Moderate,2025-08-23 16:28:04
+Luzhou,China,28.88333,105.45,28.17,Overcast clouds,0.99,✅ Safe,2025-08-23 16:28:05
+Majistan/Zhoushan,China,30.017,122.1,30.63,Clear sky,8.99,⚠ Moderate,2025-08-23 16:28:07
+Mabian Island,China,23.117,115.083,27.45,Few clouds,1.78,✅ Safe,2025-08-23 16:28:09
+Maogang,China,23.05,112.733,30.91,Broken clouds,1.74,✅ Safe,2025-08-23 16:28:10
+Meisha,China,41.304958,123.776572,25.8,Scattered clouds,0.95,✅ Safe,2025-08-23 16:28:12
+Meishan,China,30.07544,103.848538,26.8,Overcast clouds,2.36,✅ Safe,2025-08-23 16:28:14
+Neigang,China,23.1,113.417,31.24,Broken clouds,3.72,✅ Safe,2025-08-23 16:28:15
+Sanshan pt,China,23.035339,113.226513,31.6,Light rain,3.45,✅ Safe,2025-08-23 16:28:17
+Nanjing Pt,China,32.0750616,118.7706532,30.86,Few clouds,2.08,✅ Safe,2025-08-23 16:28:19
+Nanjing,China,32.2125,118.812,31.53,Scattered clouds,2.17,✅ Safe,2025-08-23 16:28:21
+Penglai,China,37.8,120.75,27.38,Overcast clouds,1.63,✅ Safe,2025-08-23 16:28:22
+Qingdao Pt,China,36.014189,120.20202,28.76,Few clouds,4.93,✅ Safe,2025-08-23 16:28:24
+Qinghe,China,37.0399299,115.66718,25.1,Broken clouds,4.62,✅ Safe,2025-08-23 16:28:26
+Qingpu,China,31.15,121.1,32.18,Clear sky,3.25,✅ Safe,2025-08-23 16:28:28
+Qinzhou,China,21.979933,108.654146,29.44,Broken clouds,2.64,✅ Safe,2025-08-23 16:28:29
+Ruian,China,27.778657,120.655148,27.91,Few clouds,1.9,✅ Safe,2025-08-23 16:28:31
+Sanbu Pt,China,22.3666,112.7166,29.68,Scattered clouds,4.19,✅ Safe,2025-08-23 16:28:33
+Shacheng,China,26.314775,116.346995,22.61,Light rain,1.05,✅ Safe,2025-08-23 16:28:34
+Shanghai Pt,China,31.366365,121.61475,31.96,Broken clouds,3.81,✅ Safe,2025-08-23 16:28:36
+Shiqi,China,34.414172,115.65637,30.98,Broken clouds,2.81,✅ Safe,2025-08-23 16:28:37
+Shatian,China,24.0,113.88333,28.15,Broken clouds,1.84,✅ Safe,2025-08-23 16:28:39
+Sanjiang,China,30.71666667,122.4833333,27.84,Clear sky,9.0,⚠ Moderate,2025-08-23 16:28:41
+Shenwan,China,22.302496,113.363816,30.49,Clear sky,6.04,⚠ Moderate,2025-08-23 16:28:42
+Shantou Pt,China,23.302822,116.774468,28.23,Light rain,4.47,✅ Safe,2025-08-23 16:28:44
+Shunyi,China,40.11667,116.63333,21.67,Moderate rain,3.24,✅ Safe,2025-08-23 16:28:45
+Shenzhen Pt,China,22.4760219,113.9127408,30.71,Moderate rain,6.84,⚠ Moderate,2025-08-23 16:28:47
+Shenzhen,China,22.543096,114.057865,30.64,Light rain,5.38,⚠ Moderate,2025-08-23 16:28:49
+Taicang,China,31.43333,121.08333,32.55,Broken clouds,0.74,✅ Safe,2025-08-23 16:28:50
+Tanggu,China,39.029528,117.661226,25.79,Scattered clouds,5.03,⚠ Moderate,2025-08-23 16:28:52
+Taizhou,China,32.455778,119.923116,29.59,Clear sky,1.15,✅ Safe,2025-08-23 16:28:54
+Tianjin Pt,China,38.982173,117.746172,26.77,Few clouds,5.08,⚠ Moderate,2025-08-23 16:28:55
+Waihai,China,22.58333,113.13333,30.85,Scattered clouds,5.93,⚠ Moderate,2025-08-23 16:28:57
+Weifang,China,36.706774,119.161756,28.03,Overcast clouds,2.87,✅ Safe,2025-08-23 16:28:58
+Waigaoqiao Pt,China,31.3510027,121.5850272,31.96,Broken clouds,3.81,✅ Safe,2025-08-23 16:29:00
+Wenzhou,China,27.9110235,120.8554106,28.76,Scattered clouds,1.94,✅ Safe,2025-08-23 16:29:01
+Wu Chong Kou,China,23.083,113.417,31.21,Broken clouds,4.15,✅ Safe,2025-08-23 16:29:03
+Wuhan,China,30.580882,114.29635,33.74,Few clouds,2.56,✅ Safe,2025-08-23 16:29:05
+Wuzhou,China,23.476963,111.279115,29.92,Light rain,0.98,✅ Safe,2025-08-23 16:29:06
+Wuhan Pt,China,30.4969304,114.3939601,33.27,Few clouds,2.05,✅ Safe,2025-08-23 16:29:08
+"Xiang'an, Xiamen",China,24.633,118.25,28.14,Clear sky,2.07,✅ Safe,2025-08-23 16:29:09
+Xichong Pt,China,30.995032,105.900818,28.56,Overcast clouds,0.33,✅ Safe,2025-08-23 16:29:11
+Xiangfan,China,32.01667,112.15,29.42,Broken clouds,2.53,✅ Safe,2025-08-23 16:29:13
+Xingang,China,38.98333,117.48333,24.94,Broken clouds,3.47,✅ Safe,2025-08-23 16:29:14
+Xinhekou,China,20.028061,110.309418,28.57,Few clouds,2.06,✅ Safe,2025-08-23 16:29:16
+Xiaohudao,China,23.083,113.433,31.18,Broken clouds,4.4,✅ Safe,2025-08-23 16:29:17
+Xiuyu,China,25.25,119.03333,28.06,Clear sky,0.93,✅ Safe,2025-08-23 16:29:19
+Xiangzhou,China,22.265811,113.543785,30.47,Clear sky,7.29,⚠ Moderate,2025-08-23 16:29:21
+"Haicang, Xiamen",China,24.485792,118.031683,29.04,Clear sky,1.96,✅ Safe,2025-08-23 16:29:22
+Xiamen Pt,China,24.356536,118.206734,29.12,Clear sky,4.81,✅ Safe,2025-08-23 16:29:24
+Guangzhou,China,23.1,113.25,31.75,Light rain,2.93,✅ Safe,2025-08-23 16:29:25
+Xiangyu Terminal/ Xiamen,China,27.1,120.317,25.41,Clear sky,2.01,✅ Safe,2025-08-23 16:29:27
+Yangshan Port,China,30.61667,122.05,28.75,Clear sky,9.97,⚠ Moderate,2025-08-23 16:29:29
+Yibin,China,28.76667,104.56667,25.38,Overcast clouds,1.98,✅ Safe,2025-08-23 16:29:31
+Yichang Pt,China,30.691966,111.286471,29.64,Broken clouds,1.55,✅ Safe,2025-08-23 16:29:32
+Yongan,China,25.941937,117.365053,23.25,Broken clouds,2.37,✅ Safe,2025-08-23 16:29:34
+Yangshan,China,24.466675,112.626495,28.68,Few clouds,0.86,✅ Safe,2025-08-23 16:29:36
+Yibin,China,28.753105,104.642964,25.95,Overcast clouds,2.07,✅ Safe,2025-08-23 16:29:37
+Yantai,China,37.539058,121.368981,28.54,Overcast clouds,3.32,✅ Safe,2025-08-23 16:29:39
+Yongtai,China,23.41667,112.4,29.84,Scattered clouds,0.41,✅ Safe,2025-08-23 16:29:41
+Yangshan Pt,China,30.6174595,122.0852074,30.53,Clear sky,9.85,⚠ Moderate,2025-08-23 16:29:42
+Yangshan,China,24.466675,112.626495,28.68,Few clouds,0.86,✅ Safe,2025-08-23 16:29:44
+Yantai Pt,China,37.41058,121.378119,28.48,Overcast clouds,3.21,✅ Safe,2025-08-23 16:29:45
+Yunfu,China,22.93333,112.03333,28.08,Light rain,1.54,✅ Safe,2025-08-23 16:29:47
+Zhapu,China,30.6,121.06667,31.47,Clear sky,3.91,✅ Safe,2025-08-23 16:29:48
+Gaolan,China,21.93333,113.21667,29.5,Clear sky,10.15,⚡ Dangerous,2025-08-23 16:29:50
+Zhoushan,China,29.985295,122.207215,30.15,Clear sky,7.92,⚠ Moderate,2025-08-23 16:29:51
+Zhongxian,China,30.29956,108.039002,29.26,Overcast clouds,0.37,✅ Safe,2025-08-23 16:29:53
+Zhuangyuanao,China,27.883,121.117,28.69,Few clouds,3.33,✅ Safe,2025-08-23 16:29:55

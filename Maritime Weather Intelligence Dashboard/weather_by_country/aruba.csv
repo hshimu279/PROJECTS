@@ -1,0 +1,4 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Aruba,Aruba,12.5,-69.9667,30.25,Broken clouds,8.34,⚠ Moderate,2025-08-23 17:07:31
+Barcadera,Aruba,12.4833,-69.9833,30.51,Broken clouds,8.32,⚠ Moderate,2025-08-23 17:07:33
+Oranjestad,Aruba,12.5092044,-70.0086306,30.51,Broken clouds,8.32,⚠ Moderate,2025-08-23 17:07:34

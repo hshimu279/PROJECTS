@@ -1,0 +1,18 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Akhtopol,Bulgaria,42.1,27.95,26.97,Clear sky,5.63,⚠ Moderate,2025-08-23 18:46:19
+Balchik,Bulgaria,43.4167,28.1667,25.29,Scattered clouds,5.29,⚠ Moderate,2025-08-23 18:46:20
+Byala Cherkva,Bulgaria,43.2,25.3,28.61,Clear sky,6.57,⚠ Moderate,2025-08-23 18:46:22
+Byala Slatina,Bulgaria,43.4667,23.95,27.78,Clear sky,8.21,⚠ Moderate,2025-08-23 18:46:24
+Gurkovo,Bulgaria,42.65,25.7833,26.27,Clear sky,6.57,⚠ Moderate,2025-08-23 18:46:26
+Ignatievo,Bulgaria,43.25,27.7667,26.88,Clear sky,5.13,⚠ Moderate,2025-08-23 18:46:28
+Kuklen,Bulgaria,42.0333,24.7833,22.9,Overcast clouds,1.78,✅ Safe,2025-08-23 18:46:30
+Marchevo,Bulgaria,41.6,23.8,27.05,Scattered clouds,2.53,✅ Safe,2025-08-23 18:46:31
+Nessebar,Bulgaria,42.65,27.7333,27.75,Clear sky,5.87,⚠ Moderate,2025-08-23 18:46:33
+Nikopol,Bulgaria,43.6833,24.8833,27.59,Clear sky,7.18,⚠ Moderate,2025-08-23 18:46:35
+Oryakhovo,Bulgaria,43.7333,23.95,27.87,Clear sky,7.66,⚠ Moderate,2025-08-23 18:46:37
+Ruse,Bulgaria,43.85,25.9667,25.66,Overcast clouds,8.15,⚠ Moderate,2025-08-23 18:46:38
+Sozopol,Bulgaria,42.4167,27.7,24.59,Clear sky,7.84,⚠ Moderate,2025-08-23 18:46:40
+Straldzha,Bulgaria,42.6,26.6833,27.43,Clear sky,5.74,⚠ Moderate,2025-08-23 18:46:42
+Port of Varna,Bulgaria,43.2033847,27.8867251,27.02,Clear sky,4.89,✅ Safe,2025-08-23 18:46:44
+Port of Burgas,Bulgaria,42.5384931,27.2481942,27.81,Clear sky,4.66,✅ Safe,2025-08-23 18:46:46
+Varna-Zapad,Bulgaria,43.2173191,27.8641438,27.17,Clear sky,4.9,✅ Safe,2025-08-23 18:46:47

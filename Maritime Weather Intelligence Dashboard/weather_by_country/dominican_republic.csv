@@ -1,0 +1,25 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Azua,Dominican Republic,18.45,-70.7333,26.47,Overcast clouds,0.73,✅ Safe,2025-08-23 17:32:33
+Bani,Dominican Republic,18.2833,-70.3333,26.26,Broken clouds,2.91,✅ Safe,2025-08-23 17:32:35
+Barcequillo,Dominican Republic,18.4333,-70.0333,26.4,Broken clouds,3.94,✅ Safe,2025-08-23 17:32:37
+Bavaro,Dominican Republic,18.6853385,-68.4501446,27.17,Overcast clouds,4.25,✅ Safe,2025-08-23 17:32:38
+Casa de Campo,Dominican Republic,18.4,-68.9,27.36,Light rain,4.41,✅ Safe,2025-08-23 17:32:40
+Catalina Island,Dominican Republic,18.3667,-69.0,27.3,Light rain,5.13,⚠ Moderate,2025-08-23 17:32:42
+Caucedo,Dominican Republic,18.4167,-69.6333,26.65,Overcast clouds,4.08,✅ Safe,2025-08-23 17:32:43
+Cayo Levantado,Dominican Republic,19.2,-69.3167,26.08,Light rain,2.06,✅ Safe,2025-08-23 17:32:45
+Haina,Dominican Republic,18.4167,-69.9833,26.79,Overcast clouds,4.64,✅ Safe,2025-08-23 17:32:47
+Higuey,Dominican Republic,18.45,-70.2667,24.02,Broken clouds,2.04,✅ Safe,2025-08-23 17:32:48
+Manzanillo,Dominican Republic,19.7,-71.75,25.9,Broken clouds,2.08,✅ Safe,2025-08-23 17:32:50
+Ocoa Bay,Dominican Republic,18.6167,-71.0833,22.7,Scattered clouds,1.45,✅ Safe,2025-08-23 17:32:52
+Puerto Palenque,Dominican Republic,18.2333,-70.15,27.6,Overcast clouds,6.48,⚠ Moderate,2025-08-23 17:32:54
+Puerto Viejo de Azua,Dominican Republic,18.3333,-70.8333,26.6,Broken clouds,2.25,✅ Safe,2025-08-23 17:32:55
+Sabana de la Mar,Dominican Republic,19.0667,-69.3833,26.7,Light rain,1.5,✅ Safe,2025-08-23 17:32:57
+San Francisco de Macoris,Dominican Republic,19.3,-70.25,25.08,Broken clouds,0.11,✅ Safe,2025-08-23 17:32:58
+San Pedro de Macoris,Dominican Republic,18.45,-69.3,26.84,Light rain,3.47,✅ Safe,2025-08-23 17:33:00
+Sanchez,Dominican Republic,19.2333,-69.6167,23.58,Overcast clouds,0.71,✅ Safe,2025-08-23 17:33:01
+Santo Domingo,Dominican Republic,18.4667,-69.9,26.37,Overcast clouds,3.93,✅ Safe,2025-08-23 17:33:03
+Villa Altagracia,Dominican Republic,18.6667,-70.1667,24.91,Broken clouds,1.61,✅ Safe,2025-08-23 17:33:05
+Boca Chica,Dominican Republic,18.452944,-69.607337,26.49,Overcast clouds,3.74,✅ Safe,2025-08-23 17:33:06
+Rio Haina,Dominican Republic,18.6003917,-70.1473403,25.54,Broken clouds,1.73,✅ Safe,2025-08-23 17:33:08
+Puerto Plata,Dominican Republic,19.7807686,-70.6871091,25.95,Clear sky,1.38,✅ Safe,2025-08-23 17:33:09
+Santiago de los Caballeros,Dominican Republic,19.466667,-70.7,24.47,Few clouds,2.17,✅ Safe,2025-08-23 17:33:11

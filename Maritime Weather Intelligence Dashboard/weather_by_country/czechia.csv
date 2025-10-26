@@ -1,0 +1,73 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Bartosovice,Czechia,49.6667,18.05,17.52,Overcast clouds,6.95,⚠ Moderate,2025-08-23 18:48:47
+Bilina,Czechia,50.55,13.7667,17.04,Overcast clouds,6.15,⚠ Moderate,2025-08-23 18:48:49
+Cervena Voda,Czechia,50.0333,16.75,15.83,Scattered clouds,6.91,⚠ Moderate,2025-08-23 18:48:50
+Ceska Ves,Czechia,50.25,17.2333,15.63,Broken clouds,6.22,⚠ Moderate,2025-08-23 18:48:52
+Chocen,Czechia,50.0,16.2333,17.47,Overcast clouds,6.48,⚠ Moderate,2025-08-23 18:48:53
+Chrastava,Czechia,50.8167,14.9667,15.49,Overcast clouds,6.03,⚠ Moderate,2025-08-23 18:48:55
+Chudobin,Czechia,49.5667,16.2667,15.73,Scattered clouds,6.65,⚠ Moderate,2025-08-23 18:48:56
+Decin,Czechia,50.7833,14.2167,16.07,Overcast clouds,2.71,✅ Safe,2025-08-23 18:48:58
+Dehtary,Czechia,50.639873,15.044982,15.7,Overcast clouds,5.87,⚠ Moderate,2025-08-23 18:48:59
+Divisov,Czechia,49.7833,14.8833,15.94,Overcast clouds,5.32,⚠ Moderate,2025-08-23 18:49:01
+Dobris,Czechia,49.7833,14.1667,16.45,Overcast clouds,4.78,✅ Safe,2025-08-23 18:49:02
+Dobromerice,Czechia,50.3667,13.8,16.93,Light rain,8.15,⚠ Moderate,2025-08-23 18:49:04
+Dobroviz,Czechia,50.1130625,14.2177414,16.34,Overcast clouds,7.01,⚠ Moderate,2025-08-23 18:49:05
+Dolni Benesov,Czechia,49.9167,18.1167,17.46,Overcast clouds,6.9,⚠ Moderate,2025-08-23 18:49:07
+Dolni Berkovice,Czechia,50.3833,14.4333,17.06,Overcast clouds,5.65,⚠ Moderate,2025-08-23 18:49:08
+Dolni Jircany,Czechia,49.95,14.5333,16.49,Overcast clouds,5.14,⚠ Moderate,2025-08-23 18:49:10
+Dolni Lhota,Czechia,49.1333,17.8167,17.58,Overcast clouds,3.36,✅ Safe,2025-08-23 18:49:11
+Drnholec,Czechia,48.85,16.5,18.92,Overcast clouds,6.95,⚠ Moderate,2025-08-23 18:49:13
+Drzkov,Czechia,50.6833,15.3167,15.65,Overcast clouds,6.43,⚠ Moderate,2025-08-23 18:49:14
+Hradek,Czechia,49.7167,13.65,16.26,Overcast clouds,5.44,⚠ Moderate,2025-08-23 18:49:16
+Hradesin,Czechia,50.0333,14.75,16.56,Moderate rain,5.96,⚠ Moderate,2025-08-23 18:49:17
+Hrusky/Breclav,Czechia,48.7833,16.9833,19.15,Overcast clouds,7.65,⚠ Moderate,2025-08-23 18:49:19
+Jablonne nad Orlici,Czechia,50.0333,16.6,16.09,Overcast clouds,6.74,⚠ Moderate,2025-08-23 18:49:20
+Jencice,Czechia,50.4833,14.0167,16.62,Light rain,6.27,⚠ Moderate,2025-08-23 18:49:22
+Jevisovice,Czechia,48.9833,16.0,17.7,Overcast clouds,6.45,⚠ Moderate,2025-08-23 18:49:23
+Kadan,Czechia,50.3833,13.2667,16.18,Overcast clouds,5.7,⚠ Moderate,2025-08-23 18:49:25
+Karolinka,Czechia,49.35,18.25,14.41,Overcast clouds,2.59,✅ Safe,2025-08-23 18:49:26
+Kosor,Czechia,49.9874796,14.3265816,16.36,Overcast clouds,5.66,⚠ Moderate,2025-08-23 18:49:28
+Kralice na Hane,Czechia,49.45,17.1833,18.39,Overcast clouds,5.77,⚠ Moderate,2025-08-23 18:49:29
+Kralupy nad Vltavou,Czechia,50.2333,14.3167,17.16,Overcast clouds,5.96,⚠ Moderate,2025-08-23 18:49:30
+Kvasice,Czechia,49.25,17.4667,18.48,Overcast clouds,4.64,✅ Safe,2025-08-23 18:49:32
+Kyselka,Czechia,50.0667,12.7833,13.51,Broken clouds,6.62,⚠ Moderate,2025-08-23 18:49:33
+Lobodice,Czechia,49.4,17.2833,18.44,Overcast clouds,5.76,⚠ Moderate,2025-08-23 18:49:35
+Lochovice,Czechia,49.85,13.9833,16.38,Overcast clouds,5.73,⚠ Moderate,2025-08-23 18:49:36
+Michnov,Czechia,49.6,16.8833,16.14,Scattered clouds,5.55,⚠ Moderate,2025-08-23 18:49:38
+Myto/Cesky Krumlov,Czechia,48.7833,14.1667,15.2,Overcast clouds,5.14,⚠ Moderate,2025-08-23 18:49:40
+Nehvizdy,Czechia,50.1333,14.7333,17.26,Overcast clouds,6.5,⚠ Moderate,2025-08-23 18:49:42
+Netolice,Czechia,49.05,14.2,16.65,Overcast clouds,4.55,✅ Safe,2025-08-23 18:49:43
+Novy Knin,Czechia,49.7880079,14.293561,16.57,Overcast clouds,4.58,✅ Safe,2025-08-23 18:49:45
+Novy Vestec,Czechia,50.1833,14.7167,17.48,Overcast clouds,6.5,⚠ Moderate,2025-08-23 18:49:47
+Opocno,Czechia,50.2667,16.1167,17.28,Scattered clouds,7.02,⚠ Moderate,2025-08-23 18:49:48
+Osice,Czechia,50.15,15.6833,17.45,Scattered clouds,8.22,⚠ Moderate,2025-08-23 18:49:49
+Police nad Metuji,Czechia,50.5333,16.2333,15.81,Overcast clouds,4.96,✅ Safe,2025-08-23 18:49:51
+Popuvky,Czechia,49.3333,17.3,18.52,Overcast clouds,5.61,⚠ Moderate,2025-08-23 18:49:52
+Prague-Vinohrady,Czechia,50.0667,14.45,17.29,Overcast clouds,5.54,⚠ Moderate,2025-08-23 18:49:54
+Sakvice,Czechia,48.9,16.7,19.04,Broken clouds,7.22,⚠ Moderate,2025-08-23 18:49:55
+Sedlec,Czechia,49.1667,14.3333,16.86,Broken clouds,5.32,⚠ Moderate,2025-08-23 18:49:57
+Semcice,Czechia,50.3681717,15.0069117,16.51,Overcast clouds,7.74,⚠ Moderate,2025-08-23 18:49:58
+Smichov,Czechia,50.0667,14.4,16.93,Overcast clouds,5.67,⚠ Moderate,2025-08-23 18:50:00
+Smrzovka,Czechia,50.7333,15.25,13.93,Light rain,6.42,⚠ Moderate,2025-08-23 18:50:01
+Stribrna Skalice,Czechia,49.9,14.85,16.44,Overcast clouds,5.62,⚠ Moderate,2025-08-23 18:50:02
+Sviadnov,Czechia,49.7,18.35,17.07,Broken clouds,6.12,⚠ Moderate,2025-08-23 18:50:04
+Tanvald,Czechia,50.7333,15.3,14.15,Light rain,6.54,⚠ Moderate,2025-08-23 18:50:05
+Tisnov,Czechia,49.35,16.4333,18.08,Scattered clouds,4.79,✅ Safe,2025-08-23 18:50:07
+Touzim,Czechia,50.0667,12.9833,14.51,Overcast clouds,5.39,⚠ Moderate,2025-08-23 18:50:08
+Tuchomerice,Czechia,50.1333,14.2833,16.39,Overcast clouds,6.65,⚠ Moderate,2025-08-23 18:50:10
+Usti nad Labem,Czechia,50.6667,14.0333,16.2,Overcast clouds,3.73,✅ Safe,2025-08-23 18:50:11
+Veverska Bityska,Czechia,49.2833,16.45,18.06,Scattered clouds,5.04,⚠ Moderate,2025-08-23 18:50:13
+Babice,Czechia,48.983,16.4,18.84,Overcast clouds,6.93,⚠ Moderate,2025-08-23 18:50:14
+Cepi,Czechia,49.983,15.7,17.61,Broken clouds,7.77,⚠ Moderate,2025-08-23 18:50:15
+Smilovice,Czechia,49.667,18.583,16.29,Overcast clouds,4.29,✅ Safe,2025-08-23 18:50:17
+Hluk,Czechia,48.983,17.517,18.55,Overcast clouds,5.44,⚠ Moderate,2025-08-23 18:50:18
+Kostelec nad Labem,Czechia,50.233,14.6,17.43,Overcast clouds,5.85,⚠ Moderate,2025-08-23 18:50:20
+Milotice nad Becvou,Czechia,49.533,17.833,17.3,Overcast clouds,6.78,⚠ Moderate,2025-08-23 18:50:21
+Neratovice,Czechia,50.267,14.517,17.35,Overcast clouds,5.64,⚠ Moderate,2025-08-23 18:50:23
+Odolena Voda,Czechia,50.2334147,14.4107891,17.01,Overcast clouds,5.62,⚠ Moderate,2025-08-23 18:50:25
+Plana u Marianskych Lazni,Czechia,49.867,12.75,15.62,Overcast clouds,5.75,⚠ Moderate,2025-08-23 18:50:26
+Polna,Czechia,49.333,15.717,16.34,Broken clouds,6.11,⚠ Moderate,2025-08-23 18:50:27
+Stechovice,Czechia,49.85,14.4,16.84,Overcast clouds,4.9,✅ Safe,2025-08-23 18:50:29
+Steti,Czechia,50.45,14.383,17.13,Light rain,5.6,⚠ Moderate,2025-08-23 18:50:31
+Blatna,Czechia,49.424893,13.8817644,16.25,Overcast clouds,5.69,⚠ Moderate,2025-08-23 18:50:32
+Trnavka,Czechia,50.033,15.467,17.7,Scattered clouds,7.88,⚠ Moderate,2025-08-23 18:50:33

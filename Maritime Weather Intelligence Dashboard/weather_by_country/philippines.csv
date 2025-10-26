@@ -1,0 +1,104 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Abulug,Philippines,18.4333,121.45,27.66,Scattered clouds,2.9,✅ Safe,2025-08-23 16:50:57
+Amunitan/Aparri,Philippines,18.3167,122.05,26.87,Few clouds,2.83,✅ Safe,2025-08-23 16:50:59
+Aras Asan/Bislig,Philippines,8.8833,126.3,26.16,Overcast clouds,3.82,✅ Safe,2025-08-23 16:51:01
+Atimonan/Siain,Philippines,13.9833,121.9,26.72,Overcast clouds,1.1,✅ Safe,2025-08-23 16:51:02
+"Balabac, Palawan",Philippines,8.1539618,117.1264753,28.05,Overcast clouds,2.11,✅ Safe,2025-08-23 16:51:04
+Balingasag,Philippines,8.75,124.7833,26.6,Overcast clouds,0.17,✅ Safe,2025-08-23 16:51:06
+Basco,Philippines,20.45,121.9667,29.62,Clear sky,7.34,⚠ Moderate,2025-08-23 16:51:07
+Batangas/Luzon,Philippines,13.75,121.05,27.0,Overcast clouds,2.35,✅ Safe,2025-08-23 16:51:10
+Bauan/Batangas,Philippines,13.8,121.0,26.16,Overcast clouds,2.14,✅ Safe,2025-08-23 16:51:11
+Bauang,Philippines,16.5167,120.3167,27.66,Light rain,8.91,⚠ Moderate,2025-08-23 16:51:13
+Binan,Philippines,14.3333,121.0833,27.06,Overcast clouds,0.71,✅ Safe,2025-08-23 16:51:14
+"Boac, Marinduque",Philippines,13.4333,121.8333,27.36,Overcast clouds,0.77,✅ Safe,2025-08-23 16:51:16
+Bogo,Philippines,11.05,124.0,26.52,Overcast clouds,1.75,✅ Safe,2025-08-23 16:51:18
+Boston/Davao,Philippines,7.8667,126.35,23.31,Moderate rain,0.45,✅ Safe,2025-08-23 16:51:20
+"Brookes Point, Palawan",Philippines,8.7667,117.8333,26.71,Broken clouds,2.43,✅ Safe,2025-08-23 16:51:21
+"Burdeos, Polillo Isl",Philippines,14.8333,121.9667,25.81,Overcast clouds,1.09,✅ Safe,2025-08-23 16:51:23
+"Cajidiocan, Visayan Isl",Philippines,12.3667,122.6833,27.11,Overcast clouds,2.57,✅ Safe,2025-08-23 16:51:25
+"Calbayog, Samar",Philippines,12.0667,124.6,26.55,Broken clouds,1.55,✅ Safe,2025-08-23 16:51:26
+"Calubian, Leyte",Philippines,11.4333,124.4167,24.86,Broken clouds,1.62,✅ Safe,2025-08-23 16:51:28
+Capoocan,Philippines,11.3,124.65,24.91,Broken clouds,0.8,✅ Safe,2025-08-23 16:51:29
+Castanas,Philippines,13.8833,121.55,26.68,Overcast clouds,1.14,✅ Safe,2025-08-23 16:51:31
+Culasi,Philippines,11.6,122.7,27.05,Overcast clouds,3.47,✅ Safe,2025-08-23 16:51:33
+Danao,Philippines,10.5333,124.0333,25.73,Overcast clouds,1.78,✅ Safe,2025-08-23 16:51:35
+El Nido/Puerto Princesa,Philippines,9.7638429,118.7473298,26.47,Broken clouds,2.31,✅ Safe,2025-08-23 16:51:36
+General Santos,Philippines,6.1167,125.15,24.9,Moderate rain,2.86,✅ Safe,2025-08-23 16:51:38
+"Gigaquit, Mindanao",Philippines,9.5833,125.6833,25.18,Overcast clouds,1.48,✅ Safe,2025-08-23 16:51:39
+"Gigmoto, Catanduanes",Philippines,13.7667,124.3833,25.37,Overcast clouds,2.36,✅ Safe,2025-08-23 16:51:41
+Hamtic,Philippines,10.7,121.9667,25.35,Overcast clouds,1.0,✅ Safe,2025-08-23 16:51:43
+"Himamaylan, Negros",Philippines,10.0833,122.8667,25.57,Overcast clouds,1.59,✅ Safe,2025-08-23 16:51:44
+"Isabela, Basilan",Philippines,6.7,121.9667,25.65,Overcast clouds,1.83,✅ Safe,2025-08-23 16:51:46
+Jasaan,Philippines,8.65,124.75,26.41,Overcast clouds,0.06,✅ Safe,2025-08-23 16:51:47
+Kabasalan/Zamboanga,Philippines,7.7833,122.75,25.07,Overcast clouds,2.13,✅ Safe,2025-08-23 16:51:49
+Kalamansig,Philippines,6.55,124.05,26.79,Light rain,0.76,✅ Safe,2025-08-23 16:51:50
+La Carlota,Philippines,10.4167,122.9167,26.09,Overcast clouds,2.74,✅ Safe,2025-08-23 16:51:52
+Labason/Zamboanga,Philippines,8.0667,122.5167,25.62,Overcast clouds,1.68,✅ Safe,2025-08-23 16:51:53
+Laguna,Philippines,10.3,123.8833,22.88,Overcast clouds,0.88,✅ Safe,2025-08-23 16:51:54
+"Laoag, Luzon",Philippines,18.1833,120.5833,27.57,Overcast clouds,1.4,✅ Safe,2025-08-23 16:51:56
+"Lapu-Lapu, Cebu",Philippines,10.3167,123.95,24.62,Overcast clouds,1.73,✅ Safe,2025-08-23 16:51:58
+Lazi,Philippines,9.1167,123.6333,27.85,Overcast clouds,3.46,✅ Safe,2025-08-23 16:51:59
+"Legaspi Apt, Luzon",Philippines,13.1333,123.75,26.02,Overcast clouds,0.83,✅ Safe,2025-08-23 16:52:00
+Leyte,Philippines,11.3667,124.4833,24.88,Broken clouds,1.02,✅ Safe,2025-08-23 16:52:02
+Lucanin,Philippines,14.4667,120.6167,27.08,Overcast clouds,4.02,✅ Safe,2025-08-23 16:52:03
+Lugait,Philippines,8.3333,124.25,25.92,Overcast clouds,0.51,✅ Safe,2025-08-23 16:52:04
+Lunao,Philippines,8.8667,125.05,25.96,Overcast clouds,1.43,✅ Safe,2025-08-23 16:52:06
+"Mabini, Mindanao",Philippines,8.95,124.7833,26.2,Overcast clouds,1.81,✅ Safe,2025-08-23 16:52:07
+Mactan Island Apt,Philippines,10.3,124.0,24.98,Overcast clouds,2.53,✅ Safe,2025-08-23 16:52:08
+Makati,Philippines,16.4167,121.1,23.84,Overcast clouds,0.4,✅ Safe,2025-08-23 16:52:10
+Makati City,Philippines,14.55,121.0333,27.06,Overcast clouds,0.9,✅ Safe,2025-08-23 16:52:11
+"Maluso, Basilan",Philippines,6.5333,121.8667,26.0,Overcast clouds,1.96,✅ Safe,2025-08-23 16:52:13
+"Marihatag, Mindanao",Philippines,8.7833,126.2833,25.21,Overcast clouds,2.17,✅ Safe,2025-08-23 16:52:14
+Medina,Philippines,8.9167,125.0167,26.64,Overcast clouds,1.47,✅ Safe,2025-08-23 16:52:15
+Muntinlupa City,Philippines,14.6167,121.05,27.08,Overcast clouds,0.59,✅ Safe,2025-08-23 16:52:17
+"Nasugbu, Luzon",Philippines,14.0667,120.6333,26.81,Overcast clouds,1.86,✅ Safe,2025-08-23 16:52:18
+Opol,Philippines,8.5167,124.5667,25.38,Overcast clouds,0.93,✅ Safe,2025-08-23 16:52:19
+"Pagudpud, Luzon",Philippines,16.6167,120.3167,27.77,Moderate rain,8.58,⚠ Moderate,2025-08-23 16:52:21
+"Pasaleng, Luzon",Philippines,18.55,120.9167,25.77,Overcast clouds,2.16,✅ Safe,2025-08-23 16:52:22
+Philippines,Philippines,14.5833,121.0,27.2,Overcast clouds,1.02,✅ Safe,2025-08-23 16:52:24
+"Polanco, Mindanao",Philippines,8.5167,123.35,25.29,Overcast clouds,2.03,✅ Safe,2025-08-23 16:52:25
+"Polillo, Polillo Isl",Philippines,14.7,121.9333,26.57,Overcast clouds,1.1,✅ Safe,2025-08-23 16:52:26
+Port Irene,Philippines,18.3667,122.1,27.45,Few clouds,3.9,✅ Safe,2025-08-23 16:52:28
+"San Jose Apt, Mindoro",Philippines,12.35,121.0833,26.85,Overcast clouds,1.99,✅ Safe,2025-08-23 16:52:29
+Semirara,Philippines,12.0667,121.4,28.2,Overcast clouds,3.96,✅ Safe,2025-08-23 16:52:30
+Tabaco/Legaspi,Philippines,13.35,123.7333,27.5,Overcast clouds,1.54,✅ Safe,2025-08-23 16:52:32
+Taganito,Philippines,9.55,125.8167,25.76,Overcast clouds,2.29,✅ Safe,2025-08-23 16:52:33
+Tagoloan,Philippines,8.5333,124.75,25.94,Overcast clouds,0.46,✅ Safe,2025-08-23 16:52:35
+Talibon,Philippines,10.1333,124.3167,26.91,Broken clouds,2.16,✅ Safe,2025-08-23 16:52:36
+Tandayag,Philippines,9.45,123.2167,27.38,Overcast clouds,1.93,✅ Safe,2025-08-23 16:52:37
+Vitali/Zamboanga,Philippines,7.3667,122.2833,24.82,Overcast clouds,0.84,✅ Safe,2025-08-23 16:52:39
+Port of Manila,Philippines,14.58333333,120.9666667,27.01,Overcast clouds,1.38,✅ Safe,2025-08-23 16:52:40
+Ajuy,Philippines,11.167,123.033,25.8,Overcast clouds,0.51,✅ Safe,2025-08-23 16:52:41
+Albuera,Philippines,10.967,124.633,25.55,Overcast clouds,2.03,✅ Safe,2025-08-23 16:52:43
+Alcoy,Philippines,9.683,123.5,26.09,Overcast clouds,1.28,✅ Safe,2025-08-23 16:52:44
+Astorga,Philippines,6.883,125.45,22.59,Overcast clouds,1.55,✅ Safe,2025-08-23 16:52:45
+Bacong,Philippines,9.233,123.3,26.22,Overcast clouds,0.98,✅ Safe,2025-08-23 16:52:47
+Batonbaton,Philippines,9.183,118.35,27.44,Broken clouds,2.58,✅ Safe,2025-08-23 16:52:48
+"Bacolod, Negros",Philippines,10.6666,122.9333,26.08,Overcast clouds,3.58,✅ Safe,2025-08-23 16:52:50
+Boracay,Philippines,11.967,121.917,27.89,Overcast clouds,4.76,✅ Safe,2025-08-23 16:52:51
+Cagdianao,Philippines,9.917,125.667,27.19,Overcast clouds,2.24,✅ Safe,2025-08-23 16:52:52
+Cebu,Philippines,10.607936,123.8857747,24.63,Overcast clouds,1.91,✅ Safe,2025-08-23 16:52:54
+Corregidor Island,Philippines,14.383,120.583,26.89,Overcast clouds,4.34,✅ Safe,2025-08-23 16:52:55
+"Cagayan de Oro, Mindanao",Philippines,8.4542363,124.6318977,24.49,Overcast clouds,0.82,✅ Safe,2025-08-23 16:52:56
+Carigara,Philippines,11.3,124.683,25.09,Broken clouds,0.97,✅ Safe,2025-08-23 16:52:58
+"Davao, Mindanao",Philippines,7.190708,125.455341,22.76,Light rain,1.24,✅ Safe,2025-08-23 16:52:59
+Garcia Hernandez,Philippines,9.617,124.3,23.48,Overcast clouds,1.5,✅ Safe,2025-08-23 16:53:01
+Guihulngan,Philippines,10.117,123.283,26.91,Overcast clouds,2.16,✅ Safe,2025-08-23 16:53:02
+Guiuan,Philippines,11.033,125.717,27.57,Light rain,4.61,✅ Safe,2025-08-23 16:53:04
+Hilongos,Philippines,10.367,124.75,26.55,Overcast clouds,2.34,✅ Safe,2025-08-23 16:53:05
+Homonhon,Philippines,10.75,125.7,27.39,Overcast clouds,4.18,✅ Safe,2025-08-23 16:53:06
+Larena,Philippines,9.25,123.583,27.71,Overcast clouds,2.69,✅ Safe,2025-08-23 16:53:08
+Manicani,Philippines,11.0,125.65,27.22,Overcast clouds,4.49,✅ Safe,2025-08-23 16:53:09
+Manila North Harbour,Philippines,14.6163986,120.9584279,27.24,Overcast clouds,1.24,✅ Safe,2025-08-23 16:53:11
+Manila South Harbour,Philippines,14.5833333,120.95,27.3,Overcast clouds,1.8,✅ Safe,2025-08-23 16:53:12
+Malatapay,Philippines,9.55,123.15,27.32,Overcast clouds,2.74,✅ Safe,2025-08-23 16:53:14
+Batangas,Philippines,13.75,121.05,27.0,Overcast clouds,2.35,✅ Safe,2025-08-23 16:53:15
+Odiongan,Philippines,12.4,121.983,27.35,Overcast clouds,4.46,✅ Safe,2025-08-23 16:53:17
+Oroquieta,Philippines,8.483,123.8,24.62,Overcast clouds,2.66,✅ Safe,2025-08-23 16:53:18
+Panabo,Philippines,7.3,125.683,24.8,Moderate rain,2.08,✅ Safe,2025-08-23 16:53:20
+Puerto Galera,Philippines,13.5,120.933,27.2,Overcast clouds,1.78,✅ Safe,2025-08-23 16:53:21
+Pagbilao,Philippines,13.967,121.683,25.51,Overcast clouds,0.67,✅ Safe,2025-08-23 16:53:22
+Romblon,Philippines,12.567,122.267,28.21,Overcast clouds,4.98,✅ Safe,2025-08-23 16:53:24
+Subic Bay,Philippines,14.7910576,120.2397336,26.39,Overcast clouds,2.73,✅ Safe,2025-08-23 16:53:25
+Salomague,Philippines,17.783,120.417,27.13,Overcast clouds,1.84,✅ Safe,2025-08-23 16:53:27
+Tubigon,Philippines,9.95,123.967,26.85,Overcast clouds,1.46,✅ Safe,2025-08-23 16:53:28

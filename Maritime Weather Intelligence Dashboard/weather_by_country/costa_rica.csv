@@ -1,0 +1,55 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Abangares,Costa Rica,10.2833,-84.95,25.06,Overcast clouds,1.87,✅ Safe,2025-08-23 17:30:00
+Cabo Blanco,Costa Rica,9.9333,-85.0,25.37,Light rain,0.84,✅ Safe,2025-08-23 17:30:02
+Caimital,Costa Rica,10.0667,-85.4667,24.04,Overcast clouds,0.75,✅ Safe,2025-08-23 17:30:04
+Caldera,Costa Rica,9.95,-84.7167,26.73,Light rain,1.44,✅ Safe,2025-08-23 17:30:05
+Chomes,Costa Rica,10.05,-84.9167,26.79,Broken clouds,0.87,✅ Safe,2025-08-23 17:30:07
+Ciruelas,Costa Rica,10.5,-85.35,24.08,Overcast clouds,1.46,✅ Safe,2025-08-23 17:30:09
+Coyol,Costa Rica,10.0,-84.25,22.03,Overcast clouds,1.58,✅ Safe,2025-08-23 17:30:11
+Curridabat,Costa Rica,9.9167,-84.0333,19.85,Overcast clouds,2.21,✅ Safe,2025-08-23 17:30:12
+Cutris,Costa Rica,10.6833,-84.3667,25.48,Overcast clouds,0.47,✅ Safe,2025-08-23 17:30:14
+Filadelfia,Costa Rica,10.45,-85.5667,24.16,Broken clouds,1.82,✅ Safe,2025-08-23 17:30:16
+Fraijanes,Costa Rica,10.15,-84.2,14.54,Overcast clouds,1.68,✅ Safe,2025-08-23 17:30:18
+Golfito,Costa Rica,8.65,-83.15,22.86,Overcast clouds,0.93,✅ Safe,2025-08-23 17:30:20
+Golfo de Papagayo,Costa Rica,10.6,-85.6833,24.93,Broken clouds,2.01,✅ Safe,2025-08-23 17:30:22
+Guardia,Costa Rica,10.5667,-85.6,24.29,Overcast clouds,1.47,✅ Safe,2025-08-23 17:30:23
+Guatuso,Costa Rica,10.6667,-84.8167,25.17,Overcast clouds,0.95,✅ Safe,2025-08-23 17:30:25
+Jicaral,Costa Rica,9.9667,-85.1167,26.55,Overcast clouds,0.58,✅ Safe,2025-08-23 17:30:27
+La Fortuna,Costa Rica,10.4833,-84.65,24.78,Overcast clouds,0.87,✅ Safe,2025-08-23 17:30:28
+La Tigra,Costa Rica,9.9333,-85.15,25.48,Overcast clouds,0.78,✅ Safe,2025-08-23 17:30:30
+Moin,Costa Rica,10.0,-83.0833,25.42,Light rain,1.6,✅ Safe,2025-08-23 17:30:31
+Muelle de San Carlos,Costa Rica,10.4667,-84.4667,26.3,Overcast clouds,0.9,✅ Safe,2025-08-23 17:30:33
+Nandayure,Costa Rica,10.0333,-85.2,26.26,Overcast clouds,0.45,✅ Safe,2025-08-23 17:30:34
+Naranjo,Costa Rica,10.1,-84.3833,19.92,Overcast clouds,1.64,✅ Safe,2025-08-23 17:30:36
+Neily,Costa Rica,8.65,-82.9333,23.12,Overcast clouds,0.75,✅ Safe,2025-08-23 17:30:38
+Orotina,Costa Rica,9.9,-84.5333,26.12,Overcast clouds,1.64,✅ Safe,2025-08-23 17:30:39
+Palmar Norte,Costa Rica,8.9667,-83.4667,21.87,Overcast clouds,0.65,✅ Safe,2025-08-23 17:30:41
+Parrita,Costa Rica,9.5167,-84.3167,27.09,Light rain,1.57,✅ Safe,2025-08-23 17:30:43
+Pital,Costa Rica,9.7333,-85.45,26.39,Moderate rain,2.65,✅ Safe,2025-08-23 17:30:45
+Puerto Caldera,Costa Rica,9.95,-84.7167,26.73,Light rain,1.44,✅ Safe,2025-08-23 17:30:47
+Puerto Limon,Costa Rica,10.0,-83.0333,25.78,Light rain,1.87,✅ Safe,2025-08-23 17:30:49
+Puerto Viejo,Costa Rica,9.65,-82.7667,25.28,Overcast clouds,1.66,✅ Safe,2025-08-23 17:30:51
+Punta Morales,Costa Rica,10.0667,-84.9667,26.71,Overcast clouds,0.69,✅ Safe,2025-08-23 17:30:53
+Puntarenas,Costa Rica,9.9667,-84.8333,25.15,Overcast clouds,0.74,✅ Safe,2025-08-23 17:30:54
+Quebrada Grande,Costa Rica,10.4333,-84.95,22.19,Overcast clouds,2.82,✅ Safe,2025-08-23 17:30:56
+Rio Cuarto,Costa Rica,10.35,-84.2333,24.73,Overcast clouds,1.04,✅ Safe,2025-08-23 17:30:58
+Rio Frio,Costa Rica,9.7833,-85.1833,25.91,Light rain,1.61,✅ Safe,2025-08-23 17:31:00
+Rio Jimenez,Costa Rica,10.25,-83.6,26.51,Overcast clouds,0.83,✅ Safe,2025-08-23 17:31:01
+Samara,Costa Rica,9.8833,-85.5333,25.8,Light rain,2.42,✅ Safe,2025-08-23 17:31:03
+San Ignacio de Acosta,Costa Rica,9.8,-84.1667,20.03,Overcast clouds,1.92,✅ Safe,2025-08-23 17:31:05
+San Jose,Costa Rica,9.9333,-84.0833,20.21,Overcast clouds,2.18,✅ Safe,2025-08-23 17:31:07
+San Marcos de Tarrazu,Costa Rica,9.6667,-84.0333,16.99,Overcast clouds,2.01,✅ Safe,2025-08-23 17:31:08
+San Pedro de Poas,Costa Rica,10.0833,-84.25,20.07,Overcast clouds,1.73,✅ Safe,2025-08-23 17:31:10
+Santa Maria/Pocosol,Costa Rica,10.6167,-84.5167,25.41,Overcast clouds,1.07,✅ Safe,2025-08-23 17:31:12
+Santa Rosa/Pocosol,Costa Rica,10.3667,-84.6167,23.4,Light rain,0.76,✅ Safe,2025-08-23 17:31:14
+Sarapiqui,Costa Rica,10.4833,-84.0167,26.59,Overcast clouds,0.38,✅ Safe,2025-08-23 17:31:15
+Sarchi,Costa Rica,10.0833,-84.35,21.4,Overcast clouds,1.71,✅ Safe,2025-08-23 17:31:17
+Sixaola/Talamanca,Costa Rica,9.5167,-82.6167,25.19,Moderate rain,1.16,✅ Safe,2025-08-23 17:31:19
+Tres Rios,Costa Rica,9.9,-85.1833,25.59,Overcast clouds,1.06,✅ Safe,2025-08-23 17:31:21
+Turrubares,Costa Rica,9.6167,-84.5167,26.66,Light rain,1.46,✅ Safe,2025-08-23 17:31:23
+Zarcero / Naranjo,Costa Rica,10.1833,-84.4,17.95,Overcast clouds,1.36,✅ Safe,2025-08-23 17:31:24
+Moravia,Costa Rica,10.0101333,-84.0114544,18.56,Overcast clouds,1.82,✅ Safe,2025-08-23 17:31:26
+Horluetas/Sarapiqui,Costa Rica,10.483,-84.017,26.59,Overcast clouds,0.38,✅ Safe,2025-08-23 17:31:28
+Puerto Moin,Costa Rica,9.9924257,-83.0951852,26.31,Light rain,1.48,✅ Safe,2025-08-23 17:31:29
+Poas,Costa Rica,10.033,-84.333,22.11,Overcast clouds,1.71,✅ Safe,2025-08-23 17:31:31
+San Rafael Guatuso,Costa Rica,10.667,-84.817,25.17,Overcast clouds,0.95,✅ Safe,2025-08-23 17:31:32

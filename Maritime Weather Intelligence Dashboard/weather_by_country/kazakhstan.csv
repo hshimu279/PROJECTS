@@ -1,0 +1,4 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Aktau,Kazakhstan,43.65,51.15,27.35,Clear sky,6.83,⚠ Moderate,2025-08-23 16:47:49
+Bautino,Kazakhstan,44.5333,50.25,29.09,Clear sky,8.01,⚠ Moderate,2025-08-23 16:47:50
+Temirtau,Kazakhstan,50.05,72.95,21.44,Overcast clouds,5.81,⚠ Moderate,2025-08-23 16:47:52

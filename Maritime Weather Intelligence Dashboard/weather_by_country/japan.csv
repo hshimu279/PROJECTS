@@ -1,0 +1,203 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Aioi,Japan,34.7833,134.4667,29.62,Overcast clouds,0.95,✅ Safe,2025-08-23 16:40:04
+Aki-gun/Hiroshima,Japan,34.3333,132.5333,28.81,Overcast clouds,0.92,✅ Safe,2025-08-23 16:40:05
+AmagasakiNishinomiyaAshiya,Japan,34.7167,135.4167,31.11,Overcast clouds,3.08,✅ Safe,2025-08-23 16:40:07
+Aomi,Japan,35.6167,139.7833,29.64,Overcast clouds,5.77,⚠ Moderate,2025-08-23 16:40:09
+"Ariake, Tokyo",Japan,35.6333,139.7833,30.05,Overcast clouds,5.3,⚠ Moderate,2025-08-23 16:40:10
+Asahimachi,Japan,35.5333,139.7,29.49,Overcast clouds,6.58,⚠ Moderate,2025-08-23 16:40:12
+Asakuchi,Japan,34.5167,133.5833,28.89,Overcast clouds,1.3,✅ Safe,2025-08-23 16:40:13
+Ataka,Japan,36.4167,136.4167,28.0,Overcast clouds,1.4,✅ Safe,2025-08-23 16:40:15
+Chigasaki,Japan,35.3167,139.4,28.37,Overcast clouds,5.4,⚠ Moderate,2025-08-23 16:40:17
+Chiryu,Japan,35.0,137.05,29.82,Overcast clouds,3.39,✅ Safe,2025-08-23 16:40:18
+"Fukushima, Hokkaido",Japan,41.4667,140.25,22.05,Scattered clouds,2.95,✅ Safe,2025-08-23 16:40:20
+"Fukushima, Miyazaki",Japan,31.4667,131.2167,26.66,Few clouds,2.39,✅ Safe,2025-08-23 16:40:22
+"Fukushima, Nagasaki",Japan,33.35,129.8,27.3,Broken clouds,1.89,✅ Safe,2025-08-23 16:40:23
+"Furusato, Kagoshima",Japan,27.0441569,128.4508166,29.26,Few clouds,3.6,✅ Safe,2025-08-23 16:40:25
+"Futtsu, Chiba",Japan,35.5833,140.3833,29.0,Overcast clouds,3.33,✅ Safe,2025-08-23 16:40:27
+Gobo Wakayama,Japan,33.8833,135.15,29.55,Overcast clouds,2.29,✅ Safe,2025-08-23 16:40:28
+Gushikawa,Japan,26.35,127.8667,28.99,Broken clouds,3.05,✅ Safe,2025-08-23 16:40:30
+Hakata/Fukuoka,Japan,33.6,130.4167,29.13,Overcast clouds,1.8,✅ Safe,2025-08-23 16:40:31
+Hamura,Japan,35.7667,139.3,30.45,Overcast clouds,1.57,✅ Safe,2025-08-23 16:40:34
+Hatoma,Japan,24.4667,123.7667,29.29,Overcast clouds,5.35,⚠ Moderate,2025-08-23 16:40:36
+Higashisonogi-Gun Cho,Japan,32.0333,129.9167,29.3,Scattered clouds,2.75,✅ Safe,2025-08-23 16:40:37
+Hiratsuka,Japan,35.3167,139.35,28.28,Overcast clouds,4.8,✅ Safe,2025-08-23 16:40:39
+Ichikikushikino,Japan,31.7167,130.2667,27.67,Scattered clouds,2.12,✅ Safe,2025-08-23 16:40:41
+Iizuka,Japan,33.65,130.6833,29.03,Overcast clouds,0.35,✅ Safe,2025-08-23 16:40:43
+Ikitsuki,Japan,33.3833,129.4333,28.15,Scattered clouds,3.59,✅ Safe,2025-08-23 16:40:44
+Inazawa,Japan,35.25,136.7833,30.6,Overcast clouds,2.6,✅ Safe,2025-08-23 16:40:46
+Ishigaki,Japan,24.3333,124.15,29.19,Broken clouds,4.8,✅ Safe,2025-08-23 16:40:47
+Ishikariwan Shinko,Japan,43.35,141.5,20.61,Scattered clouds,3.54,✅ Safe,2025-08-23 16:40:49
+Ishikawa,Japan,26.4167,127.8167,29.0,Scattered clouds,3.32,✅ Safe,2025-08-23 16:40:51
+Joetsu,Japan,37.15,138.2333,27.57,Scattered clouds,1.26,✅ Safe,2025-08-23 16:40:52
+Kasumigaura,Japan,36.0333,140.2167,30.38,Overcast clouds,3.48,✅ Safe,2025-08-23 16:40:54
+Kasuya,Japan,33.6167,130.4833,29.14,Overcast clouds,1.3,✅ Safe,2025-08-23 16:40:57
+Kikaishima,Japan,28.3167,129.9833,28.95,Scattered clouds,1.22,✅ Safe,2025-08-23 16:40:58
+Kitakami,Japan,39.2833,141.1167,24.73,Broken clouds,1.53,✅ Safe,2025-08-23 16:41:00
+Kitakyushu,Japan,33.8333,130.8333,28.22,Broken clouds,2.13,✅ Safe,2025-08-23 16:41:02
+Kitsuki,Japan,33.4167,131.6167,28.48,Overcast clouds,1.01,✅ Safe,2025-08-23 16:41:03
+Kobe,Japan,34.6833,135.1667,29.13,Overcast clouds,2.54,✅ Safe,2025-08-23 16:41:05
+Kohama,Japan,24.3333,123.9833,29.26,Broken clouds,4.97,✅ Safe,2025-08-23 16:41:07
+Kokura,Japan,33.8,130.8833,28.78,Broken clouds,1.71,✅ Safe,2025-08-23 16:41:09
+Koshi,Japan,32.8833,130.7833,28.06,Scattered clouds,1.6,✅ Safe,2025-08-23 16:41:11
+Minamidaito,Japan,25.8333,131.2333,29.15,Broken clouds,5.16,⚠ Moderate,2025-08-23 16:41:13
+Mitajiri,Japan,34.0333,131.5833,29.15,Overcast clouds,2.99,✅ Safe,2025-08-23 16:41:14
+Miyagi,Japan,36.4333,139.1667,29.64,Overcast clouds,2.09,✅ Safe,2025-08-23 16:41:16
+Miyakojima,Japan,24.7833,125.3,28.29,Few clouds,3.77,✅ Safe,2025-08-23 16:41:18
+"Miyoshi, Tokushima",Japan,34.0167,133.8,27.41,Overcast clouds,0.87,✅ Safe,2025-08-23 16:41:19
+Moji/Kitakyushu,Japan,33.9,130.9667,28.9,Broken clouds,2.41,✅ Safe,2025-08-23 16:41:21
+"Muta, Nagasaki",Japan,31.8167,130.2667,27.71,Scattered clouds,1.54,✅ Safe,2025-08-23 16:41:23
+"Nagareyama, Chiba",Japan,35.85,139.9,30.09,Overcast clouds,4.44,✅ Safe,2025-08-23 16:41:24
+Nago,Japan,26.5833,127.9667,28.73,Scattered clouds,2.67,✅ Safe,2025-08-23 16:41:26
+Nakamichi,Japan,35.5833,138.5833,25.78,Overcast clouds,1.01,✅ Safe,2025-08-23 16:41:27
+Nakanoseki,Japan,34.0,131.5333,,No Data,,❓ Unknown,2025-08-23 16:41:40
+Nakanoto,Japan,36.9833,136.9,,No Data,,❓ Unknown,2025-08-23 16:41:53
+Narashino,Japan,35.6667,140.0167,28.12,Overcast clouds,5.81,⚠ Moderate,2025-08-23 16:41:55
+Niikappu,Japan,42.3667,142.3167,21.92,Clear sky,5.51,⚠ Moderate,2025-08-23 16:41:56
+Ogi,Japan,33.2833,130.2,28.5,Broken clouds,2.19,✅ Safe,2025-08-23 16:41:58
+Omachi,Japan,36.8333,138.4167,24.89,Overcast clouds,1.16,✅ Safe,2025-08-23 16:42:00
+Omi,Japan,37.0167,137.8,26.96,Overcast clouds,2.72,✅ Safe,2025-08-23 16:42:01
+Onojo,Japan,33.5333,130.4833,28.96,Overcast clouds,0.95,✅ Safe,2025-08-23 16:42:03
+Oppama,Japan,35.3,139.6167,27.33,Overcast clouds,8.15,⚠ Moderate,2025-08-23 16:42:04
+Osaka,Japan,34.6667,135.5,31.13,Overcast clouds,3.08,✅ Safe,2025-08-23 16:42:06
+"Oshima, Nagasaki",Japan,33.0667,129.6167,29.6,Scattered clouds,1.89,✅ Safe,2025-08-23 16:42:07
+Ryuo,Japan,35.0607672,136.1244806,30.6,Overcast clouds,0.86,✅ Safe,2025-08-23 16:42:08
+Saga,Japan,33.0833,133.1,25.2,Few clouds,1.2,✅ Safe,2025-08-23 16:42:10
+Saikai,Japan,32.9333,129.65,27.46,Scattered clouds,1.86,✅ Safe,2025-08-23 16:42:11
+Sanyo Onoda Yamaguchi,Japan,34.0833,131.1833,28.74,Overcast clouds,0.9,✅ Safe,2025-08-23 16:42:12
+Satsumasendai,Japan,31.8167,130.25,27.71,Scattered clouds,1.54,✅ Safe,2025-08-23 16:42:14
+Seki,Japan,35.4833,136.9167,29.74,Overcast clouds,1.53,✅ Safe,2025-08-23 16:42:15
+"Sendai, Miyagi",Japan,38.1333,140.9167,26.87,Overcast clouds,2.05,✅ Safe,2025-08-23 16:42:17
+Shibetsu,Japan,44.1786188,142.4001131,19.22,Overcast clouds,1.42,✅ Safe,2025-08-23 16:42:18
+"Shinagawa, Tokyo",Japan,35.6,139.7167,30.65,Overcast clouds,5.24,⚠ Moderate,2025-08-23 16:42:20
+Shinko,Japan,36.5667,138.0667,23.56,Overcast clouds,2.06,✅ Safe,2025-08-23 16:42:21
+Sukumowan,Japan,32.9167,132.7167,27.55,Scattered clouds,2.11,✅ Safe,2025-08-23 16:42:22
+Takahama/Amakusa,Japan,32.3667,130.0,29.32,Scattered clouds,2.39,✅ Safe,2025-08-23 16:42:24
+Taniyama,Japan,31.2833,130.3167,26.68,Scattered clouds,3.13,✅ Safe,2025-08-23 16:42:25
+Tobata/Kitakyushu,Japan,33.8833,130.8333,28.75,Broken clouds,2.95,✅ Safe,2025-08-23 16:42:27
+Tobo,Japan,33.4833,129.9333,28.1,Broken clouds,2.52,✅ Safe,2025-08-23 16:42:28
+Togane,Japan,35.5667,140.3667,28.67,Overcast clouds,3.35,✅ Safe,2025-08-23 16:42:29
+Tokyo,Japan,35.6833,139.75,31.26,Overcast clouds,4.28,✅ Safe,2025-08-23 16:42:31
+Toshima/Tokyo,Japan,34.5167,139.2667,27.12,Overcast clouds,6.87,⚠ Moderate,2025-08-23 16:42:32
+Toyo,Japan,33.9167,133.0833,28.36,Overcast clouds,0.87,✅ Safe,2025-08-23 16:42:34
+Toyota,Japan,35.0833,137.1667,29.18,Overcast clouds,2.34,✅ Safe,2025-08-23 16:42:35
+Tsubame,Japan,37.65,138.9333,26.9,Overcast clouds,1.52,✅ Safe,2025-08-23 16:42:36
+Tsuzu Yamaguchi,Japan,34.05,132.2,27.56,Overcast clouds,0.61,✅ Safe,2025-08-23 16:42:38
+Tsuzuki Ku,Japan,35.5465011,139.5789316,32.08,Overcast clouds,4.43,✅ Safe,2025-08-23 16:42:39
+Unnan,Japan,35.2833,132.9,28.25,Overcast clouds,1.46,✅ Safe,2025-08-23 16:42:40
+Wakamatsu/Kitakyushu,Japan,33.8833,130.8167,28.75,Broken clouds,2.95,✅ Safe,2025-08-23 16:42:42
+Yachiyo,Japan,35.7333,140.1,28.4,Overcast clouds,5.04,⚠ Moderate,2025-08-23 16:42:43
+Yawata/Kitakyushu,Japan,33.85,130.8,29.58,Broken clouds,2.67,✅ Safe,2025-08-23 16:42:45
+Yokohama,Japan,35.45,139.65,29.43,Overcast clouds,6.86,⚠ Moderate,2025-08-23 16:42:46
+Yokosuka,Japan,35.2833,139.6667,27.17,Overcast clouds,8.57,⚠ Moderate,2025-08-23 16:42:47
+Yoro,Japan,35.3,136.55,29.72,Overcast clouds,1.67,✅ Safe,2025-08-23 16:42:49
+Yoshiumi,Japan,34.1333,133.0333,28.25,Overcast clouds,3.35,✅ Safe,2025-08-23 16:42:50
+Zushi,Japan,35.2833,139.5833,27.33,Overcast clouds,8.17,⚠ Moderate,2025-08-23 16:42:51
+Port of Nagoya,Japan,35.08333333,136.8833333,30.35,Overcast clouds,3.85,✅ Safe,2025-08-23 16:42:53
+Abashiri,Japan,44.0206319,144.2733983,18.14,Overcast clouds,7.75,⚠ Moderate,2025-08-23 16:42:54
+Akitafunagawa,Japan,39.883,139.95,27.55,Clear sky,2.28,✅ Safe,2025-08-23 16:42:56
+Asa,Japan,36.5482687,136.6896784,27.41,Overcast clouds,1.49,✅ Safe,2025-08-23 16:42:57
+Akita,Japan,39.7199668,140.1034795,27.03,Few clouds,1.82,✅ Safe,2025-08-23 16:42:58
+Shibukawa,Japan,36.483,139.0,28.93,Overcast clouds,2.36,✅ Safe,2025-08-23 16:43:00
+Chiba,Japan,35.6074041,140.1065366,28.05,Overcast clouds,5.31,⚠ Moderate,2025-08-23 16:43:01
+Choshi,Japan,35.7346813,140.8266406,27.54,Overcast clouds,7.01,⚠ Moderate,2025-08-23 16:43:02
+Chimu Wan,Japan,26.383,127.917,28.97,Broken clouds,3.18,✅ Safe,2025-08-23 16:43:04
+Chinase,Japan,35.543745,139.4450726,31.82,Overcast clouds,2.22,✅ Safe,2025-08-23 16:43:05
+"Fukuyama, Hiroshima",Japan,34.4859845,133.3624239,28.82,Overcast clouds,1.14,✅ Safe,2025-08-23 16:43:06
+Fushikitoyama,Japan,36.8,137.117,27.04,Broken clouds,2.12,✅ Safe,2025-08-23 16:43:08
+Kitanagoya,Japan,35.233,136.85,30.72,Overcast clouds,2.94,✅ Safe,2025-08-23 16:43:09
+Hibikishinko,Japan,33.983,130.75,29.12,Broken clouds,4.72,✅ Safe,2025-08-23 16:43:10
+Henza,Japan,26.2584803,127.744592,28.83,Broken clouds,2.82,✅ Safe,2025-08-23 16:43:12
+Hachinohe,Japan,40.5122055,141.4882743,26.59,Clear sky,3.86,✅ Safe,2025-08-23 16:43:13
+Hitachinaka,Japan,36.3966506,140.5347934,29.65,Overcast clouds,0.78,✅ Safe,2025-08-23 16:43:15
+Hiroshima,Japan,34.3852894,132.4553055,28.69,Overcast clouds,1.08,✅ Safe,2025-08-23 16:43:16
+Hakodate,Japan,41.7686961,140.7290599,21.71,Overcast clouds,3.25,✅ Safe,2025-08-23 16:43:17
+Hamada,Japan,34.8993937,132.0802638,27.59,Overcast clouds,3.59,✅ Safe,2025-08-23 16:43:19
+Hamamatsu,Japan,34.7108344,137.7261258,28.68,Overcast clouds,2.02,✅ Safe,2025-08-23 16:43:20
+Hofu,Japan,34.033,131.567,29.15,Overcast clouds,2.99,✅ Safe,2025-08-23 16:43:21
+Hososhima,Japan,32.4230672,131.6722509,27.69,Scattered clouds,1.45,✅ Safe,2025-08-23 16:43:23
+Hitachi,Japan,36.5991273,140.6504712,27.39,Overcast clouds,0.95,✅ Safe,2025-08-23 16:43:24
+Ichikawa,Japan,35.7219115,139.9310099,28.9,Overcast clouds,5.36,⚠ Moderate,2025-08-23 16:43:25
+Niihama,Japan,33.975095,133.284764,29.33,Overcast clouds,1.1,✅ Safe,2025-08-23 16:43:27
+Imafuku,Japan,34.8802249,132.1908526,26.56,Overcast clouds,1.98,✅ Safe,2025-08-23 16:43:28
+Imabari,Japan,34.0662024,132.9977906,28.21,Overcast clouds,2.64,✅ Safe,2025-08-23 16:43:30
+Imari,Japan,33.2650014,129.8804221,27.73,Scattered clouds,1.17,✅ Safe,2025-08-23 16:43:31
+Ishikari,Japan,43.19897,141.315016,22.49,Few clouds,5.12,⚠ Moderate,2025-08-23 16:43:32
+Iwakuni,Japan,34.1667451,132.2191641,28.02,Overcast clouds,0.54,✅ Safe,2025-08-23 16:43:34
+Iyomishima,Japan,33.9804152,133.5490295,27.96,Overcast clouds,1.87,✅ Safe,2025-08-23 16:43:35
+Kashimae,Japan,33.1037584,130.0985898,28.48,Scattered clouds,1.86,✅ Safe,2025-08-23 16:43:37
+Kashino,Japan,33.4659909,135.8503892,27.48,Overcast clouds,2.37,✅ Safe,2025-08-23 16:43:38
+Kubuki,Japan,31.8522211,130.4525374,27.4,Scattered clouds,1.04,✅ Safe,2025-08-23 16:43:39
+Kochi,Japan,33.5481246,133.2521507,27.1,Overcast clouds,0.92,✅ Safe,2025-08-23 16:43:41
+Niigata,Japan,37.9161244,139.0363708,28.5,Overcast clouds,1.03,✅ Safe,2025-08-23 16:43:42
+Kamaishi,Japan,39.2758046,141.8857275,25.63,Few clouds,2.81,✅ Safe,2025-08-23 16:43:43
+"Kitaura, Miyazaki",Japan,31.9110956,131.4238934,28.21,Broken clouds,1.45,✅ Safe,2025-08-23 16:43:45
+Kajiki,Japan,35.1952974,133.0692446,26.68,Overcast clouds,0.98,✅ Safe,2025-08-23 16:43:46
+Kumamoto,Japan,32.80394,130.709,28.28,Scattered clouds,1.41,✅ Safe,2025-08-23 16:43:47
+Kanmon,Japan,33.9,130.917,29.15,Broken clouds,2.76,✅ Safe,2025-08-23 16:43:49
+Kanazawa,Japan,36.5610309,136.6566474,27.8,Overcast clouds,1.74,✅ Safe,2025-08-23 16:43:50
+Kagoshima,Japan,31.5968539,130.5571392,27.48,Few clouds,2.08,✅ Safe,2025-08-23 16:43:51
+Komatsushima,Japan,34.0047412,134.5907301,29.05,Overcast clouds,1.69,✅ Safe,2025-08-23 16:43:53
+"Kashima, Ibaraki",Japan,35.9656835,140.6447937,29.01,Overcast clouds,3.44,✅ Safe,2025-08-23 16:43:54
+Kushiro,Japan,42.9849413,144.3818041,19.25,Broken clouds,0.48,✅ Safe,2025-08-23 16:43:56
+Kawasaki,Japan,35.5308325,139.7029125,29.49,Overcast clouds,6.58,⚠ Moderate,2025-08-23 16:43:57
+Maizuru,Japan,35.4666,135.35,30.08,Overcast clouds,1.16,✅ Safe,2025-08-23 16:43:58
+"Miike, Tokyo",Japan,35.6894875,139.6917064,31.78,Overcast clouds,4.07,✅ Safe,2025-08-23 16:44:00
+"Misaki, Kanagawa",Japan,35.1406987,139.6189289,26.52,Overcast clouds,9.31,⚠ Moderate,2025-08-23 16:44:01
+Mizushima,Japan,34.51543,133.7354835,28.97,Overcast clouds,2.09,✅ Safe,2025-08-23 16:44:02
+Muroran,Japan,42.3151792,140.9737666,23.11,Clear sky,5.44,⚠ Moderate,2025-08-23 16:44:04
+Matsuyama,Japan,33.8393515,132.7653057,28.74,Overcast clouds,2.79,✅ Safe,2025-08-23 16:44:05
+"Nagahama, Shimane",Japan,35.5578659,133.2812605,28.56,Broken clouds,3.05,✅ Safe,2025-08-23 16:44:07
+"Naha, Okinawa",Japan,26.2125758,127.6790208,29.05,Broken clouds,3.1,✅ Safe,2025-08-23 16:44:08
+Naoetsu,Japan,37.1858604,138.2550381,28.55,Scattered clouds,1.32,✅ Safe,2025-08-23 16:44:09
+Nagayo,Japan,32.8251889,129.8750453,29.9,Few clouds,1.19,✅ Safe,2025-08-23 16:44:11
+Nagasaki,Japan,32.7503334,129.8778888,26.9,Scattered clouds,1.58,✅ Safe,2025-08-23 16:44:12
+Nagaokakyo,Japan,34.933,135.7,31.31,Overcast clouds,0.61,✅ Safe,2025-08-23 16:44:13
+Niigatahigashi,Japan,37.9248713,139.0925911,28.37,Overcast clouds,1.05,✅ Safe,2025-08-23 16:44:15
+Nikaho,Japan,39.383,140.083,26.32,Scattered clouds,2.57,✅ Safe,2025-08-23 16:44:16
+"Nakama, Okinawa",Japan,26.2443195,127.729637,29.13,Broken clouds,2.91,✅ Safe,2025-08-23 16:44:18
+Nishitokyo,Japan,34.733,139.533,26.84,Overcast clouds,8.84,⚠ Moderate,2025-08-23 16:44:19
+Nanatsuyama,Japan,33.8391574,132.7655752,28.74,Overcast clouds,2.79,✅ Safe,2025-08-23 16:44:20
+Oita,Japan,33.2396084,131.6095148,26.73,Broken clouds,0.71,✅ Safe,2025-08-23 16:44:22
+Osako,Japan,34.6862971,135.5196609,31.22,Overcast clouds,2.99,✅ Safe,2025-08-23 16:44:23
+Omaezaki,Japan,34.6379987,138.1280864,27.54,Overcast clouds,3.39,✅ Safe,2025-08-23 16:44:24
+Onahama,Japan,36.9424912,140.8924708,27.28,Overcast clouds,1.12,✅ Safe,2025-08-23 16:44:26
+"Ohshima, Miyazaki",Japan,31.9383034,131.4355808,28.35,Broken clouds,1.52,✅ Safe,2025-08-23 16:44:27
+Otake,Japan,34.2376953,132.2221691,28.86,Overcast clouds,0.97,✅ Safe,2025-08-23 16:44:28
+Otaru,Japan,43.1902372,140.994172,21.35,Few clouds,3.74,✅ Safe,2025-08-23 16:44:30
+"Otsu, Shiga",Japan,35.0178929,135.8546074,30.17,Overcast clouds,0.47,✅ Safe,2025-08-23 16:44:31
+"Osaka, Tottori",Japan,35.327579,133.4795912,27.09,Overcast clouds,0.09,✅ Safe,2025-08-23 16:44:32
+Noboribetsu,Japan,42.45,141.167,21.24,Few clouds,1.22,✅ Safe,2025-08-23 16:44:34
+Shibushi,Japan,31.4955583,131.0454228,27.06,Few clouds,1.76,✅ Safe,2025-08-23 16:44:35
+Sendaishinko,Japan,38.336164,140.826428,26.98,Broken clouds,1.21,✅ Safe,2025-08-23 16:44:36
+Seto,Japan,32.933,129.633,29.74,Scattered clouds,2.09,✅ Safe,2025-08-23 16:44:38
+Sendaishiogama,Japan,38.31437,141.0220608,26.49,Overcast clouds,1.73,✅ Safe,2025-08-23 16:44:39
+Shimonoseki,Japan,33.9575297,130.9411759,29.16,Broken clouds,2.89,✅ Safe,2025-08-23 16:44:41
+Sakata,Japan,38.9147809,139.8366436,26.85,Overcast clouds,0.52,✅ Safe,2025-08-23 16:44:42
+Shinmoji,Japan,33.867,130.983,29.16,Broken clouds,2.29,✅ Safe,2025-08-23 16:44:43
+Sakaiminato,Japan,35.5396534,133.2316204,29.48,Broken clouds,2.57,✅ Safe,2025-08-23 16:44:45
+Shimizu,Japan,35.0989605,138.9027677,26.49,Overcast clouds,3.08,✅ Safe,2025-08-23 16:44:46
+Sensyu,Japan,34.433,135.25,30.0,Overcast clouds,3.18,✅ Safe,2025-08-23 16:44:47
+Shimada,Japan,34.833,138.183,27.03,Overcast clouds,2.25,✅ Safe,2025-08-23 16:44:49
+Satsumasendai,Japan,31.8,130.3,27.82,Scattered clouds,1.54,✅ Safe,2025-08-23 16:44:50
+Susaki,Japan,33.400745,133.282953,27.18,Overcast clouds,1.12,✅ Safe,2025-08-23 16:44:51
+Takamatsu,Japan,34.342542,134.0465405,29.39,Overcast clouds,2.38,✅ Safe,2025-08-23 16:44:53
+Tamano,Japan,34.4919434,133.945987,28.85,Overcast clouds,3.81,✅ Safe,2025-08-23 16:44:54
+Toyohashi,Japan,34.7688528,137.3916837,28.92,Overcast clouds,2.01,✅ Safe,2025-08-23 16:44:56
+Tokushima,Japan,34.08666,134.552549,29.44,Overcast clouds,0.96,✅ Safe,2025-08-23 16:44:57
+Tokuyama,Japan,34.0756731,131.8252971,27.35,Overcast clouds,2.17,✅ Safe,2025-08-23 16:44:59
+Tomakomai,Japan,42.6312464,141.6031222,20.95,Few clouds,5.51,⚠ Moderate,2025-08-23 16:45:00
+"Tomioka, Tokushima",Japan,33.9199704,134.6595018,29.43,Overcast clouds,2.47,✅ Safe,2025-08-23 16:45:01
+Toyamashinko,Japan,36.7666,137.1166,26.97,Broken clouds,1.94,✅ Safe,2025-08-23 16:45:03
+Toyama,Japan,36.6958223,137.2137211,27.16,Broken clouds,1.04,✅ Safe,2025-08-23 16:45:04
+Tsuruga,Japan,35.6459465,136.0556972,29.6,Overcast clouds,0.78,✅ Safe,2025-08-23 16:45:05
+Tosashimizu,Japan,32.7816335,132.9549889,28.18,Broken clouds,3.06,✅ Safe,2025-08-23 16:45:07
+Tokuyamakudamatsu,Japan,34.0,131.767,27.81,Overcast clouds,3.26,✅ Safe,2025-08-23 16:45:08
+Tsuyoshi,Japan,33.2181131,129.427781,28.87,Scattered clouds,3.74,✅ Safe,2025-08-23 16:45:10
+Ube,Japan,33.9515554,131.2468161,29.25,Overcast clouds,2.77,✅ Safe,2025-08-23 16:45:11
+Ushibuka,Japan,32.199155,130.0203404,27.97,Scattered clouds,1.68,✅ Safe,2025-08-23 16:45:12
+Usa/Tosa,Japan,33.4510447,133.4417973,28.41,Overcast clouds,0.92,✅ Safe,2025-08-23 16:45:14
+Wakayama,Japan,34.2303678,135.1707405,30.02,Overcast clouds,2.18,✅ Safe,2025-08-23 16:45:15
+Yatsushiro,Japan,32.5083376,130.6018162,28.38,Broken clouds,2.13,✅ Safe,2025-08-23 16:45:16
+Yokkaichi,Japan,34.9651064,136.6244121,30.05,Overcast clouds,2.32,✅ Safe,2025-08-23 16:45:18
+Yamaguchi,Japan,34.1859563,131.4706493,27.99,Overcast clouds,1.16,✅ Safe,2025-08-23 16:45:19
+Yoichigaura,Japan,32.3670966,130.3500788,28.85,Scattered clouds,2.52,✅ Safe,2025-08-23 16:45:20

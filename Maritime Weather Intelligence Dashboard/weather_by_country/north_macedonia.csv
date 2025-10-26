@@ -1,0 +1,5 @@
+Port,Country,Latitude,Longitude,Temperature (°C),Weather,Wind (m/s),Safety Status,Updated_At
+Demir Kapija,North Macedonia,41.4,22.2333,26.29,Few clouds,3.13,✅ Safe,2025-08-23 22:00:37
+Sveti Nikole,North Macedonia,41.85,21.9333,25.06,Broken clouds,4.15,✅ Safe,2025-08-23 22:00:39
+Novi Dojran,North Macedonia,41.217,22.7,26.15,Clear sky,5.87,⚠ Moderate,2025-08-23 22:00:41
+Radovis,North Macedonia,41.65,22.5,23.58,Broken clouds,3.14,✅ Safe,2025-08-23 22:00:43
