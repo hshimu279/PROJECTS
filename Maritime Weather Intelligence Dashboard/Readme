@@ -1,0 +1,115 @@
+🌊 Maritime Weather Intelligence Dashboard
+
+A real-time maritime weather monitoring system that provides safety insights for global ports using live meteorological data.
+This project visualizes, analyzes, and assesses port safety conditions based on API data from OpenWeatherMap and StormGlass.
+
+🚀 Features
+
+🔄 Automated Weather Data Fetching
+
+weather_updater.py retrieves temperature, wind speed, and weather conditions for all ports listed in final.csv.
+
+Classifies port safety levels:
+
+✅ Safe
+
+⚠ Moderate
+
+⚡ Dangerous
+
+🚨 Worst
+
+📊 Interactive Dashboard (Streamlit)
+
+app.py provides:
+
+Real-time port weather data by country
+
+Interactive Folium map of port safety
+
+Downloadable CSV reports
+
+🌐 Web Interface (Flask)
+
+maritime_weather_ui.py allows users to fetch and view weather conditions for custom coordinates using the StormGlass API.
+
+🧠 Tech Stack
+Component	Technology
+Language	Python
+Dashboard	Streamlit
+Web Framework	Flask
+Mapping	Folium
+Data Processing	Pandas
+APIs	OpenWeatherMap, StormGlass
+⚙️ Setup Instructions
+1️⃣ Clone the Repository
+git clone https://github.com/<your-username>/maritime-weather-dashboard.git
+cd maritime-weather-dashboard
+
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+
+Create a requirements.txt file containing:
+
+streamlit
+flask
+pandas
+requests
+folium
+streamlit-folium
+
+3️⃣ Prepare Data
+
+Ensure you have a CSV file named final.csv containing port data with these columns:
+
+name, country, lat, lon
+
+4️⃣ Run Weather Updater
+python weather_updater.py
+
+
+This script fetches live weather data and creates per-country CSV files in weather_by_country/.
+
+5️⃣ Launch Dashboard (Streamlit)
+streamlit run app.py
+
+6️⃣ Optional: Run Flask UI
+python maritime_weather_ui.py
+
+
+Then open your browser at:
+➡️ http://localhost:5000/
+
+🗺️ Output Preview
+🌍 Dashboard
+
+Country-wise weather table with color-coded safety status
+
+Interactive port map using Folium
+
+CSV download feature
+
+(Add your screenshots here)
+![Dashboard Screenshot](images/dashboard.png)
+
+🧩 Folder Structure
+📦 maritime-weather-dashboard
+├── app.py                    # Streamlit dashboard
+├── maritime_weather_ui.py    # Flask web UI
+├── weather_updater.py        # API-based weather fetcher
+├── final.csv                 # Master port data
+├── weather_by_country/       # Folder for generated CSVs
+└── README.md
+
+🌍 Use Cases
+
+Maritime logistics and navigation safety
+
+Port management and weather surveillance
+
+Research on oceanic and coastal weather patterns
+
+🧑‍💻 Author
+
+Developed by Himanshu Mawdi
