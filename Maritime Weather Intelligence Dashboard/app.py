@@ -1,3 +1,5 @@
+pip install streamlit_folium
+pip install folium
 import streamlit as st
 import pandas as pd
 import folium
@@ -115,3 +117,4 @@ else:
             ).add_to(m)
 
         st_folium(m, width=800, height=500)
+
