@@ -1,5 +1,3 @@
-pip install streamlit_folium
-pip install folium
 import streamlit as st
 import pandas as pd
 import folium
@@ -9,9 +7,12 @@ import os
 # -----------------------------
 # Streamlit Page Config
 # -----------------------------
-st.set_page_config(page_title="Maritime Weather Intelligence Dashboard", layout="wide")
+st.set_page_config(
+    page_title="Maritime Weather Intelligence Dashboard",
+    layout="wide"
+)
 
-st.title(" Maritime Weather Intelligence Dashboard")
+st.title("Maritime Weather Intelligence Dashboard")
 
 # -----------------------------
 # Sidebar Settings
@@ -22,29 +23,35 @@ st.sidebar.header("⚙ Settings")
 CSV_FOLDER = "weather_by_country"
 
 if not os.path.exists(CSV_FOLDER):
-    st.error(" No weather data folder found. Please run the updater script first.")
+    st.error("No weather data folder found. "
+             "Make sure the 'weather_by_country' folder is in the same directory as app.py.")
     st.stop()
 
 # List available countries (based on CSV files)
 all_files = [f for f in os.listdir(CSV_FOLDER) if f.endswith(".csv")]
 if not all_files:
-    st.error(" No country CSV files found in weather_by_country/.")
+    st.error("No country CSV files found in weather_by_country/.")
     st.stop()
 
-all_countries = [f.replace(".csv", "").replace("_", " ").title() for f in all_files]
+# Convert filenames like "united_states.csv" → "United States"
+def filename_to_country(name: str) -> str:
+    return name.replace(".csv", "").replace("_", " ").title()
+
+all_countries = [filename_to_country(f) for f in all_files]
 
 # Select country
-selected_country = st.sidebar.selectbox(" Select Country", sorted(all_countries))
+selected_country = st.sidebar.selectbox("Select Country", sorted(all_countries))
 
 # -----------------------------
 # Load Data for Selected Country
 # -----------------------------
 file_path = os.path.join(
-    CSV_FOLDER, selected_country.replace(" ", "_").lower() + ".csv"
+    CSV_FOLDER,
+    selected_country.replace(" ", "_").lower() + ".csv"
 )
 
 @st.cache_data
-def load_country_weather(path):
+def load_country_weather(path: str) -> pd.DataFrame:
     return pd.read_csv(path)
 
 df_results = load_country_weather(file_path)
@@ -57,7 +64,7 @@ st.subheader(f"Port Weather Status - {selected_country}")
 if df_results.empty:
     st.warning(f"No port data available for {selected_country}")
 else:
-    # Color-coded table
+    # Color-coded table based on "Safety Status" column
     def color_safety(val):
         if isinstance(val, str):
             if "Safe" in val:
@@ -70,51 +77,72 @@ else:
                 return "background-color: red; color: white"
         return ""
 
-    st.dataframe(
-        df_results.style.applymap(color_safety, subset=["Safety Status"]),
-        use_container_width=True,
-    )
+    if "Safety Status" in df_results.columns:
+        styled_df = df_results.style.applymap(color_safety, subset=["Safety Status"])
+    else:
+        styled_df = df_results  # no styling if column missing
+
+    st.dataframe(styled_df, use_container_width=True)
 
     # Download option
     st.download_button(
-        " Download Results as CSV",
+        "Download Results as CSV",
         df_results.to_csv(index=False),
-        f"{selected_country.lower().replace(' ', '_')}_weather.csv",
-        "text/csv",
+        file_name=f"{selected_country.lower().replace(' ', '_')}_weather.csv",
+        mime="text/csv",
     )
 
     # -----------------------------
     # Ports Map
     # -----------------------------
-    st.subheader(f" Ports Map - {selected_country}")
+    st.subheader(f"Ports Map - {selected_country}")
 
-    if not df_results.empty:
+    if "Latitude" in df_results.columns and "Longitude" in df_results.columns:
+        # Center map on first row
         m = folium.Map(
             location=[df_results.iloc[0]["Latitude"], df_results.iloc[0]["Longitude"]],
             zoom_start=4,
         )
 
         for _, row in df_results.iterrows():
-            emoji = row["Safety Status"].split()[0] if isinstance(row["Safety Status"], str) else "❓"
+            lat = row.get("Latitude")
+            lon = row.get("Longitude")
+
+            if pd.isna(lat) or pd.isna(lon):
+                continue
+
+            status = row.get("Safety Status", "")
+            emoji = status.split()[0] if isinstance(status, str) and status else "❓"
+
+            # Choose marker color
+            if isinstance(status, str):
+                if "Worst" in status:
+                    color = "red"
+                elif "Dangerous" in status:
+                    color = "orange"
+                elif "Moderate" in status:
+                    color = "lightgray"
+                else:
+                    color = "green"
+            else:
+                color = "blue"
+
+            popup_html = (
+                f"{emoji} <b>{row.get('Port', 'Unknown Port')}</b> "
+                f"({row.get('Country', selected_country)})<br>"
+                f"🌡 {row.get('Temperature (°C)', 'N/A')} °C<br>"
+                f"💨 {row.get('Wind (m/s)', 'N/A')} m/s<br>"
+                f"⚠ {status}<br>"
+                f"⏱ Updated: {row.get('Updated_At', 'N/A')}"
+            )
 
             folium.Marker(
-                location=[row["Latitude"], row["Longitude"]],
-                popup=f"{emoji} <b>{row['Port']}</b> ({row['Country']})<br>"
-                      f" {row['Temperature (°C)']} °C<br>"
-                      f" {row['Wind (m/s)']} m/s<br>"
-                      f"{row['Safety Status']}<br>"
-                      f"⏱ Updated: {row['Updated_At']}",
-                tooltip=f"{emoji} {row['Port']}",
-                icon=folium.Icon(
-                    color="red"
-                    if "Worst" in row["Safety Status"]
-                    else "orange"
-                    if "Dangerous" in row["Safety Status"]
-                    else "lightgray"
-                    if "Moderate" in row["Safety Status"]
-                    else "green"
-                ),
+                location=[lat, lon],
+                popup=popup_html,
+                tooltip=f"{emoji} {row.get('Port', 'Port')}",
+                icon=folium.Icon(color=color),
             ).add_to(m)
 
-        st_folium(m, width=800, height=500)
-
+        st_folium(m, width=900, height=550)
+    else:
+        st.warning("Latitude/Longitude columns not found in the data. Map cannot be displayed.")
